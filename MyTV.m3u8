@@ -70,7 +70,7 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id=587 tvg-name="9XM .in" tvg-logo="https://i.imgur.com/F17QtN2.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
+#EXTINF:-1 tvg-id=587 tvg-name="9XM.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jhakhaas" tvg-logo="https://i.imgur.com/aZ0f85I.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jhakhaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
@@ -243,11 +243,11 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 http://116.90.120.149:8000/play/a0da/index.m3u8
 #EXTINF:-1 tvg-id=2779 tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="ts246" tvg-name="Star Select 1" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports", Star Sports Select 1
+#EXTINF:-1 tvg-id="ts246" tvg-name="Star Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
 http://116.90.120.149:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports", Star Sports Select 2
+#EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png" group-title="Sports", Star Sports Select 2
 http://116.90.120.149:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-id=ts78 tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports", Star Sports 1 HD
+#EXTINF:-1 tvg-id=ts78 tvg-name="Star Sports 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9327/589327-v" group-title="Sports", Star Sports 1 HD
 http://116.90.120.149:8000/play/a0ba/index.m3u8
 
 
@@ -320,7 +320,7 @@ https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
 https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports", Willow (1080)
+#EXTINF:-1 tvg-id="Willow" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
