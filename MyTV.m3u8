@@ -320,7 +320,7 @@ https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
 https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.imgur.com/v7nSm7M.png" group-title="Sports", Willow (1080)
+#EXTINF:-1 tvg-id="Willow" tvg-logo="https://img.willow.tv/apps/wlw-nw-lgo.png" group-title="Sports", Willow (1080)
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
