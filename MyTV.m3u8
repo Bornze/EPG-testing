@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/foxtel.com.au/foxtel.com.au.channels.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Foxtel/epg.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/nzxmltv.com/nzxmltv.com_sky.channels.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/i.mjh.nz/i.mjh.nz_au.channels.xml"
 
@@ -269,19 +269,19 @@ https://7pal.short.gy/ssportstn
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Sports", Sky Sports Action
 https://7pal.short.gy/ssportsat
 
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-chno="501" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
+#EXTINF:-1 tvg-id="FS1" tvg-chno="501" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
 https://7pal.short.gy/fox501au
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-chno="502" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_290x170.png" group-title="Sports", Fox League
+#EXTINF:-1 tvg-id="SP2" tvg-chno="502" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_290x170.png" group-title="Sports", Fox League
 https://7pal.short.gy/fox502au
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-chno="503" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_290x170.png" group-title="Sports", Fox Sports 503
+#EXTINF:-1 tvg-id="FS3" tvg-chno="503" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_290x170.png" group-title="Sports", Fox Sports 503
 https://7pal.short.gy/fox503au
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-chno="504" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_290x170.png" group-title="Sports", Fox Footy
+#EXTINF:-1 tvg-id="FAF" tvg-chno="504" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_290x170.png" group-title="Sports", Fox Footy
 https://7pal.short.gy/fox504au
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-chno="505" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="Sports", Fox Sports 505
+#EXTINF:-1 tvg-id="FSP" tvg-chno="505" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="Sports", Fox Sports 505
 https://7pal.short.gy/fox505au
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-chno="506" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPS_290x170.png" group-title="Sports", Fox Sports 506
+#EXTINF:-1 tvg-id="SPS" tvg-chno="506" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPS_290x170.png" group-title="Sports", Fox Sports 506
 https://7pal.short.gy/fox506au
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-chno="507" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="Sports", Fox Sports 507
+#EXTINF:-1 tvg-id="FSS" tvg-chno="507" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="Sports", Fox Sports 507
 https://7pal.short.gy/fox507au
 
 
