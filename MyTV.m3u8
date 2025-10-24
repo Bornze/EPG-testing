@@ -54,7 +54,7 @@ https://cdn-1.pishow.tv/live/391/master.m3u8
 ----Music----
 #EXTINF:-1 tvg-id="sun194393" tvg-name="Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
 http://192.168.1.60:5001/live/898.m3u8
-#EXTINF:-1 tvg-id="ts389" tvg-name="Star Maa Music" tvg-logo="https://logos.fandom.com/es/wiki/Star_Maa_Music?file=Star_Maa_Music_2020.jpg" tvg-language="Telugu" group-title="Music", Star Maa Music
+#EXTINF:-1 tvg-id="ts389" tvg-name="Star Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png" tvg-language="Telugu" group-title="Music", Star Maa Music
 https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
 #EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
@@ -124,7 +124,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
 http://116.90.120.149:8000/play/a0e7/index.m3u8
-#EXTINF:-1 tvg-id="GLOBAL.ca" tvg-language="English" tvg-logo="https://i.imgur.com/bhD2NeE.png" group-title="Entertainment", Global CA
+#EXTINF:-1 tvg-id="GLOBAL.ca" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKrQ6ZyCirF4M3vCnKGy-qbZiBSXwc2nc02khj3Jy7g&s=10" group-title="Entertainment", Global CA
 https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
 
 
@@ -132,7 +132,7 @@ https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
 ----Kids----
 #EXTINF:-1 tvg-id=166 tvg-name="Cartoon Network Telugu" tvg-logo="https://i.postimg.cc/qRY9TGPp/cartoonnetwork.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
 http://192.168.1.60:5001/live/166.m3u8
-#EXTINF:-1 tvg-id=1080 tvg-name="CN HD+ Telugu" tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
+#EXTINF:-1 tvg-id=1080 tvg-name="CN HD+ Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 http://192.168.1.60:5001/live/1080.m3u8
 #EXTINF:-1 tvg-id=543 tvg-name="Nick Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Nick Telugu
 http://192.168.1.60:5001/live/543.m3u8
@@ -220,7 +220,7 @@ https://c.mjh.nz/abc-kids.m3u8
 ----Sony----
 #EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://87.255.35.150:18546/
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony YAY
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony YAY
 https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1 tvg-id="1000009258" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 http://87.255.35.150:18495/
