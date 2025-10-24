@@ -25,7 +25,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
 #EXTINF:-1 tvg-id="sun192537" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
 http://192.168.1.60:5001/live/899.m3u8
 #EXTINF:-1 tvg-id="899" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
-https://live.dinesh29.com.np/stream/jiotvplus/maagold/master.m3u8
+http://87.255.35.150:18815/
 #EXTINF:-1 tvg-id=1665 tvg-name="ETV Cinema HD " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", ETV Cinema HD 
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 
@@ -55,7 +55,7 @@ https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 tvg-id="sun194393" tvg-name="Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
 http://192.168.1.60:5001/live/898.m3u8
 #EXTINF:-1 tvg-id="ts389" tvg-name="Star Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png" tvg-language="Telugu" group-title="Music", Star Maa Music
-https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
+http://87.255.35.150:18816/
 #EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 tvg-id=2745 tvg-name="Saregama Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Saregama Telugu
@@ -195,11 +195,9 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 http://116.90.120.149:8000/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id=ts562 tvg-name="MN HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
 http://116.90.120.149:8000/play/a0dp/index.m3u8
-#EXTINF:-1 tvg-id="ts494" tvg-name="Star Gold Thrills" tvg-logo="https://i.imgur.com/azqtpYh.png" group-titke="Movies", STAR Gold Thrills
-http://116.90.120.149:8000/play/a0c0/index.m3u8
-#EXTINF:-1 tvg-id="ts560" tvg-logo="https://i.postimg.cc/BvrZx6fg/starmovies.png" group-title="Movies", Star Movies HD
+#EXTINF:-1 tvg-id="ts560" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
 http://87.255.35.150:18301/
-#EXTINF:-1 tvg-id="ts593" tvg-logo="https://i.imgur.com/bnzDNCF.png" group-title="Movies", Star Movies Select HD
+#EXTINF:-1 tvg-id="ts593" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
 http://87.255.35.150:18548/
 
 
