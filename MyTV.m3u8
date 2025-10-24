@@ -125,7 +125,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
 http://116.90.120.149:8000/play/a0e7/index.m3u8
 #EXTINF:-1 tvg-id="GLOBAL.ca" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKrQ6ZyCirF4M3vCnKGy-qbZiBSXwc2nc02khj3Jy7g&s=10" group-title="Entertainment", Global CA
-https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+https://fl61.moveonjoy.com/CA_GLOBAL/index.m3u8
 
 
 
@@ -305,9 +305,9 @@ https://7pal.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="Formula 1" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" group-title="Sports", Formula 1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
 #EXTINF:-1 tvg-id="MLBNetwork.us@SD" group-title="Sports", MLB Network
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+https://fl61.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU" group-title="Sports", ESPN U
-https://fl25.moveonjoy.com/ESPN_U/index.m3u8
+https://fl61.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet ONE
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet 360
@@ -315,26 +315,26 @@ https://7pal.short.gy/sptsnet360
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us"  group-title="Sports", CBS Sports Network
 https://7pal.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
-https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+https://fl61.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone
-https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+https://fl61.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
-https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+https://fl61.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
-https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+https://fl61.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+https://fl61.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.ca" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1 (1080)
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Sports", TSN 2 (1080)
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
+https://fl61.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="Sports", TSN 3 (1080)
 https://tvpass.org/live/tsn3/hd
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4 (1080)
 https://tvpass.org/live/tsn4/hd
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest?cb=20220218183502" group-title="Sports", TSN 5 (1080)
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
+https://fl61.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Sports", TSN 5 HD
 https://tvpass.org/live/tsn5/hd
 
