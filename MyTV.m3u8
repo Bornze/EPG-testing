@@ -19,7 +19,7 @@ https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 tvg-id="sun194394" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini Comedy
 http://192.168.1.60:5001/live/729.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
-http://192.168.1.60:5349/index.php?id=0-9-9z5383488
+http://87.255.35.150:18578
 #EXTINF:-1 tvg-id="ts957" tvg-name="Star Maa Movies HD" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
 #EXTINF:-1 tvg-id="sun192537" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
@@ -200,8 +200,7 @@ http://116.90.120.149:8000/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://i.postimg.cc/BvrZx6fg/starmovies.png" group-title="Movies", Star Movies HD
 http://87.255.35.150:18301/
 #EXTINF:-1 tvg-id="ts593" tvg-logo="https://i.imgur.com/bnzDNCF.png" group-title="Movies", Star Movies Select HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
-
+http://87.255.35.150:18548/
 
 
 ----Australia----
