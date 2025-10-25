@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="FoxCricket.au" site_id="14">FOX Cricket</channel>
-  <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="FoxFooty.au" site_id="10">FOX Footy</channel>
+  <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="FS1" site_id="14">FOX Cricket</channel>
+  <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="SP2" site_id="10">FOX Footy</channel>
   <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="FoxLeague.au" site_id="2">FOX League</channel>
-  <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="FoxSports503.au" site_id="3">FOX Sports 503</channel>
+  <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="FS3" site_id="3">FOX Sports 503</channel>
   <channel site="foxsports.com.au" lang="en" xmltv_id="FoxSports505.au" site_id="11">FOX Sports 505</channel>
   <channel site="https://www.foxtel.com.au/tv-guide" lang="en" xmltv_id="FoxSports506.au" site_id="12">FOX Sports 506</channel>
   <channel site="foxsports.com.au" lang="en" xmltv_id="FoxSportsMorePlus.au" site_id="13">FOX Sports More</channel>
