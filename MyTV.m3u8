@@ -16,7 +16,7 @@ https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 http://192.168.1.60:5001/live/729.m3u8
 #EXTINF:-1 tvg-id="ZeeCinemalu.in@SD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
 http://87.255.35.150:18578/
-#EXTINF:-1 tvg-id="starmaamovies.in@HD" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
+#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
 http://87.255.35.150:18556/
 #EXTINF:-1 tvg-id="sun192537" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
 http://192.168.1.60:5001/live/899.m3u8
@@ -42,7 +42,7 @@ https://cdn-1.pishow.tv/live/385/master.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 #EXTINF:-1 tvg-id=706 tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-#EXTINF:-1 tvg-id=769 tvg-name="V6 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", V6 News
+#EXTINF:-1 tvg-id="V6News.in@SD tvg-name="V6 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", V6 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
 #EXTINF:-1 tvg-id=832 tvg-name="10 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", 10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
@@ -217,13 +217,13 @@ https://c.mjh.nz/abc-kids.m3u8
 ----Sony----
 #EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://87.255.35.150:18546/
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony YAY
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony YAY
 http://87.255.35.150:18285/
 #EXTINF:-1 tvg-id="1000009258" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 http://87.255.35.150:18495/
 #EXTINF:-1 tvg-id="1000009247" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
+http://87.255.35.150:18851/
+#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
 http://87.255.35.150:18544/
 #EXTINF:-1 tvg-id="1000009277" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 http://87.255.35.150:18927/
