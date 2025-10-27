@@ -312,15 +312,15 @@ https://7pal.short.gy/sptsnet1
 https://7pal.short.gy/sptsnet360
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us"  group-title="Sports", CBS Sports Network
 https://7pal.short.gy/cbssptnw
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="Sports",NFL Network
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD" group-title="Sports",NFL RedZone
 https://fl2.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" group-title="Sports",NHL Network (720p)
 https://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Willow" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
 https://fl2.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="Sports",NBA TV
 https://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.ca" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1 (1080)
