@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz" tvg-shift=+5
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz" 
+#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg"
+#EXTM3U tvg-shift=+5
 
 
 ----Telugu Entertainment----
