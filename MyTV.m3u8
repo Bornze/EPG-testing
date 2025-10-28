@@ -92,13 +92,13 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Flashback" tvg-language="English" tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/73/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" group-title="Music", Flashback
+#EXTINF:-1 tvg-id="FLASHBACK.rs@SD" tvg-language="English" tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/73/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" group-title="Music", Flashback
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-id="Muzzik" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziZN-B92iteGitAstJLyu6I-5pDYj5B-k5g&s" group-title="Music", ADRA
+#EXTINF:-1 tvg-id="SENSE.rs@SD" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziZN-B92iteGitAstJLyu6I-5pDYj5B-k5g&s" group-title="Music", ADRA
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
+#EXTINF:-1 tvg-id="TraceHits.uk@SD" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
-#EXTINF:-1 tvg-id="ITVURBAN.ca" tvg-language="English" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music", ITV urban
+#EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD" tvg-language="English" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music", ITV urban
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=3288 tvg-name="Stingray" tvg-language="English" tvg-logo="https://i.postimg.cc/FsC4yRjL/stingraycmusic.png" group-title="Music", Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
@@ -122,7 +122,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
 http://116.90.120.149:8000/play/a0e7/index.m3u8
-#EXTINF:-1 tvg-id="GLOBAL.ca" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKrQ6ZyCirF4M3vCnKGy-qbZiBSXwc2nc02khj3Jy7g&s=10" group-title="Entertainment", Global CA
+#EXTINF:-1 tvg-id="CHBLTV.ca@SD" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKrQ6ZyCirF4M3vCnKGy-qbZiBSXwc2nc02khj3Jy7g&s=10" group-title="Entertainment", Global CA
 https://fl2.moveonjoy.com/CA_GLOBAL/index.m3u8
 
 
@@ -319,12 +319,12 @@ https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl2.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" group-title="Sports",NHL Network (720p)
 https://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Willow" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
+#EXTINF:-1 tvg-id="Willow.us@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
 https://fl2.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="Sports",NBA TV
 https://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1 (1080)
+#EXTINF:-1 tvg-id="TSN1.ca@SD" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1 (1080)
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Sports", TSN 2 (1080)
 https://fl2.moveonjoy.com/TSN_2/index.m3u8
@@ -332,7 +332,7 @@ https://fl2.moveonjoy.com/TSN_2/index.m3u8
 https://tvpass.org/live/tsn3/hd
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4 (1080)
 https://tvpass.org/live/tsn4/hd
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest?cb=20220218183502" group-title="Sports", TSN 5 (1080)
+#EXTINF:-1 tvg-id="TSN5.ca@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest?cb=20220218183502" group-title="Sports", TSN 5 (1080)
 https://fl2.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Sports", TSN 5 HD
 https://tvpass.org/live/tsn5/hd
