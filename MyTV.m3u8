@@ -157,7 +157,7 @@ http://192.168.1.60:5001/live/568.m3u8
 http://192.168.1.60:5001/live/576.m3u8
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 http://192.168.1.60:5001/live/577.m3u8
-#EXTINF:-1 tvg-id="ts460" tvg-name="Sony BBC Earth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", BBC Earth HD
+#EXTINF:-1 tvg-id="ts460" tvg-name="Sony BBC Earth" tvg-type="Infotainment" group-title="Infotainment", BBC Earth HD
 http://116.90.120.149:8000/play/a0dj/index.m3u8
 
 
@@ -239,7 +239,7 @@ http://87.255.35.150:18818/
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-id="ts812" tvg-name="Eurosport HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Eurosport HD
 http://116.90.120.149:8000/play/a0da/index.m3u8
-#EXTINF:-1 tvg-id=2779 tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
+#EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
 http://116.90.120.149:8000/play/a0cl/index.m3u8
@@ -319,7 +319,7 @@ https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl2.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" group-title="Sports",NHL Network (720p)
 https://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Willow.us@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
+#EXTINF:-1 tvg-id="Willow.us@SD" tvg-name="Willow Cricket" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
 https://fl2.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="Sports",NBA TV
 https://fl2.moveonjoy.com/NBA_TV/index.m3u8
