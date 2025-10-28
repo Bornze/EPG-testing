@@ -2,11 +2,11 @@
 
 
 ----Telugu Entertainment----
-#EXTINF:-1 tvg-id="ZeeTelugu.in@SD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
+#EXTINF:-1 tvg-id="ts635" tvg-name="Zee Telugu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
 http://87.255.35.150:18222/
 #EXTINF:-1 tvg-id="ETVTelugu.in@HD" tvg-name="ETV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV HD
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id=ts516 tvg-name="Star Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Entertainment - Telugu", Star Maa HD
+#EXTINF:-1 tvg-id="ts956" tvg-name="Star Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Entertainment - Telugu", Star Maa HD
 http://87.255.35.150:18846/
 #EXTINF:-1 tvg-id="sun195490" tvg-name="Gemini TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini TV HD
 https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
@@ -14,37 +14,37 @@ https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/
 https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="sun194394" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini Comedy
 http://192.168.1.60:5001/live/729.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemalu.in@SD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
+#EXTINF:-1 tvg-id="ts636" tvg-name="Zee Cinemalu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
 http://87.255.35.150:18578/
-#EXTINF:-1 tvg-id="StarMaaMovies.in@SD" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
+#EXTINF:-1 tvg-id="ts957" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
 http://87.255.35.150:18556/
 #EXTINF:-1 tvg-id="sun192537" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
 http://192.168.1.60:5001/live/899.m3u8
-#EXTINF:-1 tvg-id="starmaaGold.in@SD" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
+#EXTINF:-1 tvg-id="ts954" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://87.255.35.150:18815/
-#EXTINF:-1 tvg-id=1665 tvg-name="ETV Cinema HD " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", ETV Cinema HD 
+#EXTINF:-1 tvg-id="ts1341" tvg-name="ETV Cinema HD " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", ETV Cinema HD 
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 
 ----Telugu News----
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in@SD" tvg-name="ETV Andhra pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ETV Andhra pradesh
 https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id=632 tvg-name="Sakshi tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", Sakshi tv
+#EXTINF:-1 tvg-id="ts596" tvg-name="Sakshi tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", Sakshi tv
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 #EXTINF:-1 tvg-id="ts11" tvg-name="TV9 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVTelugu.in@SD" tvg-name="NTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", NTV
+#EXTINF:-1 tvg-id="ts160" tvg-name="NTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", NTV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id=ts225 tvg-name="ABN Andhra Jyothi" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ABN Andhra Jyothi
+#EXTINF:-1 tvg-id="ts225" tvg-name="ABN Andhra Jyothi" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ABN Andhra Jyothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
-#EXTINF:-1 tvg-id=667 tvg-name="T News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/T_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", T News
+#EXTINF:-1 tvg-id="ts49" tvg-name="T News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/T_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", T News
 https://cdn-1.pishow.tv/live/385/master.m3u8
-#EXTINF:-1 tvg-id=668 tvg-name="TV 5 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV 5 News
+#EXTINF:-1 tvg-id="ts320" tvg-name="TV 5 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV 5 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
-#EXTINF:-1 tvg-id=706 tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
+#EXTINF:-1 tvg-id="ts337" tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-#EXTINF:-1 tvg-id="V6News.in@SD" tvg-name="V6 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", V6 News
+#EXTINF:-1 tvg-id="ts274" tvg-name="V6 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", V6 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
-#EXTINF:-1 tvg-id=832 tvg-name="10 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", 10 TV
+#EXTINF:-1 tvg-id="ts266" tvg-name="10 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", 10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
 
 ----Music----
@@ -60,19 +60,19 @@ http://192.168.1.60:5001/live/2745.m3u8
 
 #EXTINF:-1 tvg-id=2065 tvg-name="Saregama Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
 http://192.168.1.60:5001/live/2065.m3u8
-#EXTINF:-1 tvg-id=ts224 tvg-name="E24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
+#EXTINF:-1 tvg-id="ts224" tvg-name="E24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ts96" tvg-name="ZOOM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
+#EXTINF:-1 tvg-id="ts139" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id=440 tvg-name="9X Jhakhaas" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/9x-jhakaas.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jhakhaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id=732 tvg-name="9X Tashan" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/9x-tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id=248 tvg-name="MTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD
+#EXTINF:-1 tvg-id="ts406" tvg-name="MTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD
 http://116.90.120.149:8000/play/a0d2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Channel_V_India_2016.jpg/revision/latest?cb=20160808103229" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -82,11 +82,11 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 http://192.168.1.60:5001/live/2753.m3u8
 
 
-#EXTINF:-1 tvg-id=1172 tvg-name="PTC Chak De" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Chak De
+#EXTINF:-1 tvg-id="ts92" tvg-name="PTC Chak De" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Chak De
 https://cdn-1.pishow.tv/live/449/master.m3u8
-#EXTINF:-1 tvg-id=1189 tvg-name="PTC Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Music
+#EXTINF:-1 tvg-id="ts922" tvg-name="PTC Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-id=1190 tvg-name="PTC Punjabi Gold " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", PTC Punjabi Gold 
+#EXTINF:-1 tvg-id="ts794" tvg-name="PTC Punjabi Gold " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", PTC Punjabi Gold 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-id=2934 tvg-name="Punjabi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
@@ -100,24 +100,24 @@ https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="ITVURBAN.ca" tvg-language="English" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music", ITV urban
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="3288" tvg-language="English" tvg-logo="https://i.postimg.cc/FsC4yRjL/stingraycmusic.png" group-title="Music", Stingray
+#EXTINF:-1 tvg-id=3288 tvg-name="Stingray" tvg-language="English" tvg-logo="https://i.postimg.cc/FsC4yRjL/stingraycmusic.png" group-title="Music", Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
 
 #EXTINF:-1 tvg-id="ts215" tvg-name="Sangeet Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music", Sangeet Bangla (720p)
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-id="SangeetMarathi.in@SD" tvg-name="Sangeet Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music", Sangeet Marathi (720p)
+#EXTINF:-1 tvg-id="ts217" tvg-name="Sangeet Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music", Sangeet Marathi (720p)
 https://cdn-3.pishow.tv/live/1229/master.m3u8
 
 
 
 ----Entertainment----
-#EXTINF:-1 tvg-id="Colors.in@SD" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+#EXTINF:-1 tvg-id="ts52" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://116.90.120.149:8000/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id=1158 tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
+#EXTINF:-1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
 http://192.168.1.60:5001/live/1158.m3u8
 
-#EXTINF:-1 tvg-id=1171 tvg-name="PTC Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
+#EXTINF:-1 tvg-id="ts122" tvg-name="PTC Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
@@ -128,44 +128,45 @@ https://fl2.moveonjoy.com/CA_GLOBAL/index.m3u8
 
 
 ----Kids----
-#EXTINF:-1 tvg-id=166 tvg-name="Cartoon Network Telugu" tvg-logo="https://i.postimg.cc/qRY9TGPp/cartoonnetwork.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
+#EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/qRY9TGPp/cartoonnetwork.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
 http://192.168.1.60:5001/live/166.m3u8
-#EXTINF:-1 tvg-id=1080 tvg-name="CN HD+ Telugu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
+#EXTINF:-1 tvg-id="ts681" tvg-name="CN HD+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 http://192.168.1.60:5001/live/1080.m3u8
-#EXTINF:-1 tvg-id=543 tvg-name="Nick Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Nick Telugu
+#EXTINF:-1 tvg-id="ts138" tvg-name="Nick" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Nick Telugu
 http://192.168.1.60:5001/live/543.m3u8
-#EXTINF:-1 tvg-id=544 tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
+#EXTINF:-1 tvg-id="ts118" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
 http://192.168.1.60:5001/live/544.m3u8
-#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+#EXTINF:-1 tvg-id="ts433" tvg-name="Nick HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
 http://192.168.1.60:5001/live/1226.m3u8
-#EXTINF:-1 tvg-id=1242 tvg-name="Sonic Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sonic Telugu
+#EXTINF:-1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sonic Telugu
 http://192.168.1.60:5001/live/1242.m3u8
 #EXTINF:-1 tvg-id="ts144" tvg-name="Disney Junior" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Disney Junior
 http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id=1883 tvg-name="Pogo Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Pogo Telugu
+#EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Pogo Telugu
 http://116.90.120.149:8000/play/a0c8/index.m3u8
 #EXTINF:-1 tvg-id=2258 tvg-name="Animax" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 
 ----Infotainment----
-#EXTINF:-1 tvg-id=463 tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
+#EXTINF:-1 tvg-id="ts341" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
 http://192.168.1.60:5001/live/463.m3u8
-#EXTINF:-1 tvg-id=568 tvg-name="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
+#EXTINF:-1 tvg-id="ts113" tvg-name="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
 http://192.168.1.60:5001/live/568.m3u8
-#EXTINF:-1 tvg-id=576 tvg-name="Discovery Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="Infotainment", Discovery Telugu
+#EXTINF:-1 tvg-id="ts219" tvg-name="Discovery" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", Discovery
 http://192.168.1.60:5001/live/576.m3u8
-#EXTINF:-1 tvg-id=577 tvg-name="History TV18 HD Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-language="Telugu" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD Telugu
+#EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 http://192.168.1.60:5001/live/577.m3u8
+#EXTINF:-1 tvg-id="ts460" tvg-name="Sony BBC Earth" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", BBC Earth HD
+http://116.90.120.149:8000/play/a0dj/index.m3u8
+
 
 
 ----Lifestyle----
-#EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
+#EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
 http://192.168.1.60:5001/live/479.m3u8
-#EXTINF:-1 tvg-id=560 tvg-name="GOOD TiMES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", GOOD TiMES
+#EXTINF:-1 tvg-id="ts136" tvg-name="GOOD TiMES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", GOOD TiMES
 http://192.168.1.60:5001/live/560.m3u8
-#EXTINF:-1 tvg-id=561 tvg-name="Food Food" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png" tvg-language="Hindi" tvg-type="Lifestyle" group-title="Lifestyle", Food Food
-http://192.168.1.60:5001/live/561.m3u8
 #EXTINF:-1 tvg-id="ts484" tvg-name="Travelxp HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
 http://116.90.120.149:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="4k" tvg-name="4K Travel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2024/04/08/1712612339bhKq2lZNGi.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", 4K Travel
@@ -174,26 +175,26 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 ----News International----
-#EXTINF:-1 tvg-id=494 tvg-name="AL Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" tvg-language="English" tvg-type="News" group-title="News", AL Jazeera
+#EXTINF:-1 tvg-id="ts190" tvg-name="AL Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" tvg-language="English" tvg-type="News" group-title="News", AL Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id=496 tvg-name="dw" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" tvg-language="English" tvg-type="News" group-title="News", DW
+#EXTINF:-1 tvg-id="ts60" tvg-name="dw" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/dw.png" tvg-language="English" tvg-type="News" group-title="News", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id=764 tvg-name="Channel News Asia International" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" tvg-language="English" tvg-type="News" group-title="News", Channel News Asia International
+#EXTINF:-1 tvg-id="ts157" tvg-name="Channel News Asia International" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" tvg-language="English" tvg-type="News" group-title="News", Channel News Asia International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="ts255" tvg-logo="https://i.postimg.cc/4x05zQDk/wion.png" group-title="News", WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD"  group-title="News", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id=1405 tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
+#EXTINF:-1 tvg-id="ts976" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id=3084 tvg-name="Taiwan Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 
 ----Movies----
-#EXTINF:-1 tvg-id=ts599 tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
+#EXTINF:-1 tvg-id="ts599" tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
 http://87.255.35.150:18936/
-#EXTINF:-1 tvg-id=ts562 tvg-name="MN HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
+#EXTINF:-1 tvg-id="ts562" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
 http://87.255.35.150:18935/
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
 http://87.255.35.150:18301/
@@ -206,7 +207,7 @@ http://87.255.35.150:18548/
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au@Perth" tvg-language="English" tvg-logo="https://i.pinimg.com/736x/5a/66/65/5a666508bc5851a6a9c1151e7eefff3d.jpg" tvg-type="News" group-title="Entertainment", ABC TV
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 tvg-id=2782 tvg-name="ABC Australia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" tvg-language="English" tvg-type="News" group-title="News", ABC Australia
+#EXTINF:-1 tvg-id="ts1464" tvg-name="ABC Australia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" tvg-language="English" tvg-type="News" group-title="News", ABC Australia
 http://192.168.1.60:5001/live/2782.m3u8
 #EXTINF:-1 tvg-id="ABCME.au@Perth" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc3_selected.png" group-title="Entertainment", ABC Me (720p)
 https://c.mjh.nz/abc-me.m3u8
@@ -217,26 +218,26 @@ https://c.mjh.nz/abc-kids.m3u8
 ----Sony----
 #EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://87.255.35.150:18546/
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony YAY
+#EXTINF:-1 tvg-id="ts45" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png" group-title="Kids", Sony YAY
 http://87.255.35.150:18285/
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
+#EXTINF:-1 tvg-id="ts32" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 http://87.255.35.150:18495/
-#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
+#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
 http://87.255.35.150:18851/
-#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
+#EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
 http://87.255.35.150:18544/
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 http://87.255.35.150:18927/
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports", Sony TEN 4 HD
+#EXTINF:-1 tvg-id="ts1192" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports", Sony TEN 4 HD
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
 http://87.255.35.150:18818/
 
 
 ---Sports-----
-#EXTINF:-1 tvg-id=204 tvg-name="DD Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", DD Sports
+#EXTINF:-1 tvg-id="ts223" tvg-name="DD Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-id=875 tvg-name="Eurosport HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Eurosport HD
+#EXTINF:-1 tvg-id="ts812" tvg-name="Eurosport HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Eurosport HD
 http://116.90.120.149:8000/play/a0da/index.m3u8
 #EXTINF:-1 tvg-id=2779 tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -244,9 +245,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://116.90.120.149:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png" group-title="Sports", Star Sports Select 2
 http://116.90.120.149:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-id=ts78 tvg-name="Star Sports 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9327/589327-v" group-title="Sports", Star Sports 1 
+#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9327/589327-v" group-title="Sports", Star Sports 1 
 http://116.90.120.149:8000/play/a0ba/index.m3u8
-#EXTINF:-1 tvg-id=ts79 tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
+#EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
 http://87.255.35.150:18828
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
