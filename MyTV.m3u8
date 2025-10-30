@@ -270,7 +270,7 @@ https://7pal.short.gy/ssportstn
 https://7pal.short.gy/ssportsat
 
 #EXTINF:-1 tvg-id="FS1" tvg-name="Fox Cricket" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
-https://cs2.player0003.com:8099/hls/fox501.m3u8?md6=R6CTG5yMqcospgaTOOn6Pg&expires=1761813259
+https://cs2.player0003.com:8099/hls/fox501.m3u8
 #EXTINF:-1 tvg-id="SP2" tvg-name="Fox League" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_290x170.png" group-title="Sports", Fox League
 https://7pal.short.gy/fox502au
 #EXTINF:-1 tvg-id="FS3" tvg-name="Fox Sports 503" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_290x170.png" group-title="Sports", Fox Sports 503
@@ -291,13 +291,13 @@ https://7pal.short.gy/skyspt1nz
 https://7pal.short.gy/skyspt2nz
 #EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="Sky Sport 3" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports", Sky Sport 3 (1080p)
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports", Sky Sport 4 (1080p)
+#EXTINF:-1 tvg-id="SkySport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports", Sky Sport 4 (1080p)
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports", Sky Sport 5 (1080p)
+#EXTINF:-1 tvg-id="SkySport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports", Sky Sport 5 (1080p)
 https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="Sky Sport 6" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports", Sky Sport 6 (1080p)
+#EXTINF:-1 tvg-id="SkySport.6.nz" tvg-name="Sky Sport 6" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports", Sky Sport 6 (1080p)
 https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports", Sky Sport 7 (1080p)
+#EXTINF:-1 tvg-id="SkySport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports", Sky Sport 7 (1080p)
 https://7pal.short.gy/skyspt7nz
 
 
