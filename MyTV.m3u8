@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg"
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz" 
+
 
 ----Telugu Entertainment----
 #EXTINF:-1 tvg-id="ts635" tvg-name="Zee Telugu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
@@ -249,6 +249,8 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 http://116.90.120.149:8000/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
 http://87.255.35.150:18828
+#EXTINF:-1 tvg-id="StarSports1Telugu.in@HD",Star Sports 1 Telugu HD (1080p)
+http://87.255.35.150:18881/
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 https://7pal.short.gy/tntspts1
