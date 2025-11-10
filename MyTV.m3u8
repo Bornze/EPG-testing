@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-#EXTM3U x-tvg-url="https://i.mjh.nz/SkyGo/epg.xml.gz"
-#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
 
 
 ----Telugu Entertainment----
@@ -277,7 +275,7 @@ https://7pal.short.gy/fox501au
 https://7pal.short.gy/fox502au
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_290x170.png" group-title="Sports", Fox Sports 503
 https://7pal.short.gy/fox503au
-#EXTINF:-1 tvg-id="FoxFoott.au" tvg-name="Fox Footy" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_290x170.png" group-title="Sports", Fox Footy
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Footy" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_290x170.png" group-title="Sports", Fox Footy
 https://7pal.short.gy/fox504au
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="Sports", Fox Sports 505
 https://7pal.short.gy/fox505au
@@ -287,19 +285,19 @@ https://7pal.short.gy/fox506au
 https://7pal.short.gy/fox507au
 
 
-#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport 1 (1080p)
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport 1 (1080p)
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports", Sky Sport 2 (1080p)
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports", Sky Sport 2 (1080p)
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="Sky Sport 3" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports", Sky Sport 3 (1080p)
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="Sky Sport 3" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports", Sky Sport 3 (1080p)
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="Sky Sport 4" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports", Sky Sport 4 (1080p)
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports", Sky Sport 4 (1080p)
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="Sky Sport 5" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports", Sky Sport 5 (1080p)
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports", Sky Sport 5 (1080p)
 https://7pal.short.gy/skyspt5nz
 #EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="Sky Sport 6" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports", Sky Sport 6 (1080p)
 https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="Sky Sport 7" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports", Sky Sport 7 (1080p)
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports", Sky Sport 7 (1080p)
 https://7pal.short.gy/skyspt7nz
 
 
