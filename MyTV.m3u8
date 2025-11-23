@@ -81,8 +81,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="ts733" tvg-name="Show Box" tvg-logo="https://pbs.twimg.com/profile_images/1426975611256381448/2cb2BpSO_400x400.jpg" tvg-language="Hindi" tvg-type="Music" group-title="Music", ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
-http://192.168.1.60:5001/live/2753.m3u8
-
+https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts92" tvg-name="PTC Chak De" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Chak De
 https://cdn-1.pishow.tv/live/449/master.m3u8
