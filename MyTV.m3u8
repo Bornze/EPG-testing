@@ -24,7 +24,7 @@ http://87.255.35.150:18814/
 http://87.255.35.150:18815/
 #EXTINF:-1 tvg-id="ts1341" tvg-name="ETV Cinema HD " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", ETV Cinema HD 
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
-EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",281 Mango Mobile TV
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",281 Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-lg-in-1340.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-lgin/playlist.m3u8
 
 ----Telugu News----
