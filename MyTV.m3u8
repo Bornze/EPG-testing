@@ -92,7 +92,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 
 
-#EXTINF:-1 group-title="Music" tvg-name="TRACE Urban",TRACE Urban
+#EXTINF:-1 group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/geueic.png" tvg-name="TRACE Urban",TRACE Urban
 https://edf37eba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfVHJhY2VVcmJhbl9ITFM/playlist.m3u8?ads.wurl_channel=1766&ads.wurl_name=TraceUrban&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9020
 #EXTINF:-1 tvg-id="SENSE.rs@SD" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziZN-B92iteGitAstJLyu6I-5pDYj5B-k5g&s" group-title="Music", ADRA
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
@@ -159,8 +159,6 @@ http://192.168.1.60:5001/live/568.m3u8
 http://192.168.1.60:5001/live/576.m3u8
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 http://192.168.1.60:5001/live/577.m3u8
-#EXTINF:-1 tvg-id="ts460" tvg-name="Sony BBC Earth" tvg-type="Infotainment" group-title="Infotainment", BBC Earth HD
-http://116.90.120.149:8000/play/a0dj/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.blaze.tv/themes/custom/blaze/images/fast/world-war-tv.jpg" tvg-name="World War TV",World War TV
 https://amg00841-aeemea-amg00841c6-vidaa-gb-7934.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-worldwartvcc-vidaagb/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-name="True Crime Now (AU)",True Crime Now
@@ -318,7 +316,7 @@ https://7pal.short.gy/cbssptnw
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us@SD" group-title="Sports",NFL RedZone
 https://fl2.moveonjoy.com/NFL_RedZone/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD" group-title="Sports",NHL Network (720p)
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network (720p)
 https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us@SD" tvg-name="Willow Cricket" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow (1080)
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
