@@ -133,9 +133,9 @@ http://192.168.1.60:5001/live/166.m3u8
 #EXTINF:-1 tvg-id="ts681" tvg-name="CN HD+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 http://66.102.120.18:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="ts138" tvg-name="Nick" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Nick Telugu
-http://192.168.1.60:5001/live/543.m3u8
+http://87.255.35.150:18249
 #EXTINF:-1 tvg-id="ts118" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
-http://192.168.1.60:5001/live/544.m3u8
+http://87.255.35.150:18252
 #EXTINF:-1 tvg-id="ts433" tvg-name="Nick HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
 http://192.168.1.60:5001/live/1226.m3u8
 #EXTINF:-1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sonic Telugu
