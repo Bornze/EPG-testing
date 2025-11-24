@@ -121,7 +121,7 @@ http://87.255.35.150:18838
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
-http://116.90.120.149:8000/play/a0e7/index.m3u8
+http://66.102.120.18:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="CHBLTV.ca@SD" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKrQ6ZyCirF4M3vCnKGy-qbZiBSXwc2nc02khj3Jy7g&s=10" group-title="Entertainment", Global CA
 https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
 
@@ -170,7 +170,7 @@ http://192.168.1.60:5001/live/479.m3u8
 #EXTINF:-1 tvg-id="ts136" tvg-name="GOOD TiMES" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", GOOD TiMES
 http://192.168.1.60:5001/live/560.m3u8
 #EXTINF:-1 tvg-id="ts484" tvg-name="Travelxp HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
-http://116.90.120.149:8000/play/a0e8/index.m3u8
+http://66.102.120.18:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="4k" tvg-name="4K Travel" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2024/04/08/1712612339bhKq2lZNGi.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", 4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
