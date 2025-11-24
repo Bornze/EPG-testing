@@ -93,7 +93,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/geueic.png" tvg-name="TRACE Urban",TRACE Urban
-https://edf37eba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfVHJhY2VVcmJhbl9ITFM/playlist.m3u8?ads.wurl_channel=1766&ads.wurl_name=TraceUrban&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9020
+https://edf37eba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214ff541/VmlkYWEtYXVfVHJhY2VVcmJhbl9ITFM/playlist.m3u8?ads.wurl_channel=1766&ads.wurl_name=TraceUrban&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9020
 #EXTINF:-1 tvg-id="SENSE.rs@SD" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziZN-B92iteGitAstJLyu6I-5pDYj5B-k5g&s" group-title="Music", ADRA
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceHits.uk@SD" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
@@ -185,7 +185,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="ts255" tvg-logo="https://i.postimg.cc/4x05zQDk/wion.png" group-title="News", WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD"  group-title="News", Euronews
+#EXTINF:-1tvg-id="EuronewsEnglish.fr@SDD"  group-title="News", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ts976" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -260,7 +260,7 @@ https://7pal.short.gy/tntspts4
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  group-title="Sports", Sky Sports F1
 https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://www.intentblogger.com/wp-content/uploads/2024/02/Untitled.jpg" group-title="Sports", Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
 https://7pal.short.gy/ssportscrk
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Sports", Sky Sports Action
 https://7pal.short.gy/ssportsat
