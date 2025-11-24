@@ -161,7 +161,7 @@ http://192.168.1.60:5001/live/576.m3u8
 http://192.168.1.60:5001/live/577.m3u8
 #EXTINF:-1 tvg-id="ts460" tvg-name="Sony BBC Earth" tvg-type="Infotainment" group-title="Infotainment", BBC Earth HD
 http://116.90.120.149:8000/play/a0dj/index.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-name="World War TV",World War TV
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.blaze.tv/themes/custom/blaze/images/fast/world-war-tv.jpg" tvg-name="World War TV",World War TV
 https://amg00841-aeemea-amg00841c6-vidaa-gb-7934.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-worldwartvcc-vidaagb/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-name="True Crime Now (AU)",True Crime Now
 https://fba9e268.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfVHJ1ZUNyaW1lTm93X0hMUw/playlist.m3u8
@@ -232,26 +232,22 @@ http://87.255.35.150:18851/
 http://87.255.35.150:18544/
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 http://87.255.35.150:18927/
-#EXTINF:-1 tvg-id="ts1192" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports", Sony TEN 4 HD
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
 http://87.255.35.150:18818/
 
 
 ---Sports-----
-#EXTINF:-1 tvg-id="ts812" tvg-name="Eurosport HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Eurosport HD
-http://116.90.120.149:8000/play/a0da/index.m3u8
 #EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
 http://87.255.35.150:18893
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png" group-title="Sports", Star Sports Select 2
 http://116.90.120.149:8000/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9327/589327-v" group-title="Sports", Star Sports 1 
+#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_1.png" group-title="Sports", Star Sports 1 
 http://87.255.35.150:18863
 #EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
 http://87.255.35.150:18828
-#EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" group-title="Sports",Star Sports 1 Telugu HD (1080p)
+#EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu HD (1080p)
 http://87.255.35.150:18881/
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
