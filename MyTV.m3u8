@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz" tvg-shift=5.5
+
+
 
 ----Telugu Entertainment----
 #EXTINF:-1 tvg-id="ts635" tvg-name="Zee Telugu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
