@@ -23,7 +23,7 @@ http://87.255.35.150:18814/
 http://87.255.35.150:18815/
 #EXTINF:-1 tvg-id="ts1341" tvg-name="ETV Cinema HD " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", ETV Cinema HD 
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",281 Mango Mobile TV
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-lg-in-1340.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-lgin/playlist.m3u8
 
 ----Telugu News----
@@ -92,8 +92,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 
 
-#EXTINF:-1 tvg-id="FLASHBACK.rs@SD" tvg-language="English" tvg-logo="https://prd-static-muzzikbalkan.spectar.tv/rev-1742465997/image_transform.php/transform/1/instance_id/1/img_format/webp/lang/hr/video_id/73/tasks/thumbnail_w/img_compression/80/format/thumbnail/width/640" group-title="Music", Flashback
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="TRACE Urban",TRACE Urban
+https://edf37eba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfVHJhY2VVcmJhbl9ITFM/playlist.m3u8?ads.wurl_channel=1766&ads.wurl_name=TraceUrban&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9020
 #EXTINF:-1 tvg-id="SENSE.rs@SD" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziZN-B92iteGitAstJLyu6I-5pDYj5B-k5g&s" group-title="Music", ADRA
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceHits.uk@SD" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
@@ -161,8 +161,10 @@ http://192.168.1.60:5001/live/576.m3u8
 http://192.168.1.60:5001/live/577.m3u8
 #EXTINF:-1 tvg-id="ts460" tvg-name="Sony BBC Earth" tvg-type="Infotainment" group-title="Infotainment", BBC Earth HD
 http://116.90.120.149:8000/play/a0dj/index.m3u8
-
-
+#EXTINF:-1 group-title="Infotainment" tvg-name="World War TV",World War TV
+https://amg00841-aeemea-amg00841c6-vidaa-gb-7934.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-worldwartvcc-vidaagb/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-name="True Crime Now (AU)",True Crime Now
+https://fba9e268.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfVHJ1ZUNyaW1lTm93X0hMUw/playlist.m3u8
 
 ----Lifestyle----
 #EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
