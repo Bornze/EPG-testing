@@ -283,7 +283,7 @@ https://7pal.short.gy/fox505au
 https://7pal.short.gy/fox506au
 #EXTINF:-1 tvg-id="FoxSportsMorePlus.au" tvg-name="Fox Sports More" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="Sports", Fox Sports 507
 https://7pal.short.gy/fox507au
-#EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CRICKET-GOLD-USA/logo/400x200.jpg",384 CRICKET-GOLD-USA
+#EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CRICKET-GOLD-USA/logo/400x200.jpg" group-title="Sports", CRICKET-GOLD-USA
 https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
 
 
@@ -305,7 +305,7 @@ https://7pal.short.gy/skyspt7nz
 
 
 #EXTINF:-1 tvg-id="Formula1.us@SD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" group-title="Sports", Formula 1
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
+https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9046
 #EXTINF:-1 tvg-id="MLBNetwork.us@SD" group-title="Sports", MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU" group-title="Sports", ESPN U
@@ -328,13 +328,13 @@ https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 https://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1 (1080)
-https://tvpass.org/live/tsn1/hd
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Sports", TSN 2 (1080)
 https://fl1.moveonjoy.com/TSN_2/index.m3u8
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="Sports", TSN 3 (1080)
-https://tvpass.org/live/tsn3/hd
+https://7pal.short.gy/tsn3ca
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4 (1080)
-https://tvpass.org/live/tsn4/hd
+https://7pal.short.gy/tsn4ca
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest?cb=20220218183502" group-title="Sports", TSN 5 (1080)
 https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" group-title="Sports", TSN 5 HD
