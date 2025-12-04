@@ -76,7 +76,7 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 #EXTINF:-1 tvg-id="732" tvg-name="9X Tashan" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/9x-tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="ts406" tvg-name="MTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD
-http://116.90.120.149:8000/play/a0d2/index.m3u8
+http://87.255.35.150:18901/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Channel_V_India_2016.jpg/revision/latest?cb=20160808103229" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="ts733" tvg-name="Show Box" tvg-logo="https://pbs.twimg.com/profile_images/1426975611256381448/2cb2BpSO_400x400.jpg" tvg-language="Hindi" tvg-type="Music" group-title="Music", ShowBox
