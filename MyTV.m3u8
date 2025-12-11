@@ -258,13 +258,13 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports", TNT Sports 4
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  group-title="Sports", Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=7023540979985581117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Main Event
 https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  group-title="Sports", Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=5158758531313507117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports F1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
 https://7pal.short.gy/ssportscrk
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" group-title="Sports", Sky Sports Action
+#EXTINF:-1 tvg-id="Sky.NFL.HD.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
 https://7pal.short.gy/ssportsat
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
