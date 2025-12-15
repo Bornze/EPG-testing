@@ -247,7 +247,7 @@ http://87.255.35.150:18863
 http://87.255.35.150:18828
 #EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu HD
 http://87.255.35.150:18881/
-#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-2-telugu.png tvg-group="Sports",Star Sports 2 Telugu HD
+#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-2-telugu.png group-title="Sports",Star Sports 2 Telugu HD
 http://87.255.35.150:18280
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
