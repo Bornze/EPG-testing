@@ -131,7 +131,7 @@ https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
 
 ----Kids----
 #EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/qRY9TGPp/cartoonnetwork.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
-http://192.168.1.60:5001/live/166.m3u8
+http://66.102.120.18:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="ts681" tvg-name="CN HD+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 http://66.102.120.18:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="ts138" tvg-name="Nick" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Nick Telugu
@@ -140,7 +140,7 @@ http://66.102.120.18:8000/play/a00w/index.m3u8
 http://66.102.120.18:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="ts433" tvg-name="Nick HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
 http://192.168.1.60:5001/live/1226.m3u8
-#EXTINF:-1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sonic Telugu
+#EXTINF:-1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sonic
 http://66.102.120.18:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="Kids",Disney Channel
 http://66.102.120.18:8000/play/a013/index.m3u8
@@ -223,11 +223,11 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://66.102.120.18:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
-http://87.255.35.150:18285/
+http://66.102.120.18:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 http://66.102.120.18:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
-http://87.255.35.150:18851/
+http://66.102.120.18:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
 http://66.102.120.18:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
