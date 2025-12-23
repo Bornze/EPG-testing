@@ -201,9 +201,9 @@ http://87.255.35.150:18936/
 #EXTINF:-1 tvg-id="ts562" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
 http://87.255.35.150:18935/
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
-http://87.255.35.150:18301/
+http://66.102.120.18:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="ts593" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
-http://87.255.35.150:18548/
+http://66.102.120.18:8000/play/a020/index.m3u8
 
 
 ----Australia----
