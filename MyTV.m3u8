@@ -157,8 +157,8 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 http://66.102.120.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="ts113" tvg-name="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
 http://66.102.120.18:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="ts219" tvg-name="Discovery" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", Discovery
-http://192.168.1.60:5001/live/576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" tvg-type="Infotainment" group-title="Infotainment", Nat Geo
+http://66.102.120.18:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 http://66.102.120.18:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.blaze.tv/themes/custom/blaze/images/fast/world-war-tv.jpg" tvg-name="World War TV",World War TV
