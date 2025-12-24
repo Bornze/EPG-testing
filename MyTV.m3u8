@@ -158,7 +158,7 @@ http://66.102.120.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="ts113" tvg-name="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
 http://66.102.120.18:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-type="Infotainment" group-title="Infotainment", Nat Geo
-http://66.102.120.18:8000/play/a01q/index.m3u8
+http://66.102.120.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 http://66.102.120.18:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.blaze.tv/themes/custom/blaze/images/fast/world-war-tv.jpg" tvg-name="World War TV",World War TV
@@ -238,9 +238,9 @@ http://66.102.120.18:8000/play/a010/index.m3u8
 
 ---Sports-----
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
-http://87.255.35.150:18893
+http://66.102.120.18:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png" group-title="Sports", Star Sports Select 2
-http://87.255.35.150:18952/
+http://66.102.120.18:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_1.png" group-title="Sports", Star Sports 1 
 http://66.102.120.18:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
