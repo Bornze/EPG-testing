@@ -263,7 +263,7 @@ https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=5158758531313507117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports F1
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
-https://7pal.short.gy/ssportscrk
+http://178.33.239.54:8080/503/index.m3u8
 #EXTINF:-1 tvg-id="Sky.NFL.HD.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
 https://7pal.short.gy/ssportsat
 
