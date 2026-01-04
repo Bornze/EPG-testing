@@ -20,7 +20,7 @@ http://103.167.255.18:8085/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="ts957" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
 http://87.255.35.150:18556/
 #EXTINF:-1 tvg-id="sun192537" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
-http://87.255.35.150:18814/
+http://103.167.255.18:8085/play/a0n5/index.m3u8
 #EXTINF:-1 tvg-id="ts954" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://87.255.35.150:18815/
 #EXTINF:-1 tvg-id="ts1341" tvg-name="ETV Cinema HD " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", ETV Cinema HD 
@@ -115,7 +115,7 @@ https://cdn-3.pishow.tv/live/1229/master.m3u8
 
 ----Entertainment----
 #EXTINF:-1 tvg-id="ts52" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://66.102.120.18:8000/play/a00a/index.m3u8
+http://103.167.255.18:8085/play/a0kf/index.m3u8
 #EXTINF:-1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
 http://66.102.120.18:8000/play/a014/index.m3u8
 
@@ -145,7 +145,7 @@ http://66.102.120.18:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="Kids",Disney Channel
 http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="ts144" tvg-name="Disney Junior" tvg-type="Kids" group-title="Kids", Disney Junior
-http://66.102.120.18:8000/play/a004/index.m3u8
+http://103.167.255.18:8085/play/a0k7/index.m3u8
 #EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Pogo Telugu
 http://66.102.120.18:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="2258" tvg-name="Animax" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Animax
@@ -160,7 +160,7 @@ http://66.102.120.18:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-type="Infotainment" group-title="Infotainment", Nat Geo
 http://66.102.120.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
-http://119.152.240.15:8000/play/a0bj/index.m3u8
+http://103.167.255.18:8085/play/a0o5/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.blaze.tv/themes/custom/blaze/images/fast/world-war-tv.jpg" tvg-name="World War TV",World War TV
 https://amg00841-aeemea-amg00841c6-vidaa-gb-7934.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-worldwartvcc-vidaagb/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-name="True Crime Now (AU)",True Crime Now
