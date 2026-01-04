@@ -8,7 +8,7 @@ http://87.255.35.150:18222/
 #EXTINF:-1 tvg-id="ETVTelugu.in@HD" tvg-name="ETV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV HD
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ts956" tvg-name="Star Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Entertainment - Telugu", Star Maa HD
-http://87.255.35.150:18846/
+http://103.167.255.18:8085/play/a0nj/index.m3u8
 #EXTINF:-1 tvg-id="sun195490" tvg-name="Gemini TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini TV HD
 https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.in@HD" tvg-name="ETV Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV Plus HD
@@ -16,7 +16,7 @@ https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 tvg-id="sun194394" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini Comedy
 http://87.255.35.150:18858/
 #EXTINF:-1 tvg-id="ts636" tvg-name="Zee Cinemalu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
-http://87.255.35.150:18578/
+http://103.167.255.18:8085/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="ts957" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
 http://87.255.35.150:18556/
 #EXTINF:-1 tvg-id="sun192537" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
@@ -199,11 +199,11 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1 tvg-id="ts599" tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
 http://163.61.227.29:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="ts562" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
-http://163.61.227.29:8000/play/a01y/index.m3u8
+http://103.167.255.18:8085/play/a0lr/index.m3u8
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
-http://66.102.120.18:8000/play/a021/index.m3u8
+http://103.178.78.151:7505/play/a1ge/index.m3u8
 #EXTINF:-1 tvg-id="ts593" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
-http://66.102.120.18:8000/play/a020/index.m3u8
+http://103.178.78.151:7505/play/a1gd/index.m3u8
 
 
 ----Australia----
@@ -221,28 +221,28 @@ https://c.mjh.nz/abc-kids.m3u8
 
 ----Sony----
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-http://66.102.120.18:8000/play/a005/index.m3u8
+http://103.178.78.151:7505/play/a0uc/index.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
-http://66.102.120.18:8000/play/a00s/index.m3u8
+http://103.178.78.151:7505/play/a0ux/index.m3u8
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
-http://66.102.120.18:8000/play/a01z/index.m3u8
+http://103.178.78.151:7505/play/a0vl/index.m3u8
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
-http://66.102.120.18:8000/play/a00u/index.m3u8
+http://103.178.78.151:7505/play/a1vx/index.m3u8
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
-http://66.102.120.18:8000/play/a00e/index.m3u8
+http://103.178.78.151:7505/play/a1qd/index.m3u8
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 http://119.152.240.15:8000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
-http://66.102.120.18:8000/play/a010/index.m3u8
+http://103.178.78.151:7505/play/a1qa/index.m3u8
 
 
 ---Sports-----
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
-http://66.102.120.18:8000/play/a06x/index.m3u8
+http://103.178.78.151:7505/play/a0w8/index.m3u8
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png" group-title="Sports", Star Sports Select 2
-http://66.102.120.18:8000/play/a06y/index.m3u8
+http://103.178.78.151:7505/play/a0w9/index.m3u8
 #EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_1.png" group-title="Sports", Star Sports 1 
-http://66.102.120.18:8000/play/a009/index.m3u8
+http://103.178.78.151:7505/play/a0ui/index.m3u8
 #EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
 http://163.61.227.29:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu
