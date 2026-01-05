@@ -14,7 +14,7 @@ https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/
 #EXTINF:-1 tvg-id="ETVPlus.in@HD" tvg-name="ETV Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV Plus HD
 https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="sun194394" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini Comedy
-http://87.255.35.150:18858/
+http://103.140.254.2:3500/live/729.m3u8
 #EXTINF:-1 tvg-id="ts636" tvg-name="Zee Cinemalu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
 http://103.167.255.18:8085/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="ts957" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
@@ -57,8 +57,8 @@ http://87.255.35.150:18857/
 http://87.255.35.150:18816/
 #EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
-#EXTINF:-1 tvg-id="2745" tvg-name="Saregama Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Saregama Telugu
-http://192.168.1.60:5001/live/2745.m3u8
+#EXTINF:-1 tvg-id="2745" tvg-name="MH1" tvg-logo="https://jiotvimages.cdn.jio.omm/dare_images/images/mh1.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MH1
+http://103.140.254.2:3500/live/742.m3u88
 
 
 #EXTINF:-1 tvg-id="2065" tvg-name="Saregama Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
@@ -154,7 +154,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 
 ----Infotainment----
 #EXTINF:-1 tvg-id="ts341" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
-http://66.102.120.18:8000/play/a01k/index.m3u8
+http://163.61.227.29:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="ts113" tvg-name="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
 http://66.102.120.18:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-type="Infotainment" group-title="Infotainment", Nat Geo
@@ -225,7 +225,7 @@ http://103.178.78.151:7505/play/a0uc/index.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
 http://103.178.78.151:7505/play/a0ux/index.m3u8
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
-http://103.178.78.151:7505/play/a0vl/index.m3u8
+http://103.140.254.2:3500/live/762.m3u8
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
 http://103.178.78.151:7505/play/a1vx/index.m3u8
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
