@@ -58,7 +58,7 @@ http://87.255.35.150:18816/
 #EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 tvg-id="2745" tvg-name="MH1" tvg-logo="https://jiotvimages.cdn.jio.omm/dare_images/images/mh1.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MH1
-http://103.140.254.2:3500/live/742.m3u88
+http://103.140.254.2:3500/live/742.m3u8
 
 
 #EXTINF:-1 tvg-id="2065" tvg-name="Saregama Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
