@@ -125,7 +125,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
 http://66.102.120.18:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="CHBLTV.ca@SD" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKrQ6ZyCirF4M3vCnKGy-qbZiBSXwc2nc02khj3Jy7g&s=10" group-title="Entertainment", Global CA
-https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+http://185.18.56.26:8888/axn/index.m3u8
 
 
 
@@ -160,7 +160,7 @@ http://66.102.120.18:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-type="Infotainment" group-title="Infotainment", Nat Geo
 http://66.102.120.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
-http://103.167.255.18:8085/play/a0o5/index.m3u8
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.blaze.tv/themes/custom/blaze/images/fast/world-war-tv.jpg" tvg-name="World War TV",World War TV
 https://amg00841-aeemea-amg00841c6-vidaa-gb-7934.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-worldwartvcc-vidaagb/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-name="True Crime Now (AU)",True Crime Now
