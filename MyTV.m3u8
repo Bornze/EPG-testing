@@ -131,11 +131,11 @@ http://185.18.56.26:8888/axn/index.m3u8
 
 ----Kids----
 #EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/qRY9TGPp/cartoonnetwork.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
-http://66.102.120.18:8000/play/a00t/index.m3u8
+http://103.182.170.32:8888/play/a04o
 #EXTINF:-1 tvg-id="ts681" tvg-name="CN HD+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 http://66.102.120.18:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="ts138" tvg-name="Nick" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Nick Telugu
-http://66.102.120.18:8000/play/a00w/index.m3u8
+http://103.182.170.32:8888/play/a04q
 #EXTINF:-1 tvg-id="ts118" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
 http://103.182.170.32:8888/play/a02q
 #EXTINF:-1 tvg-id="ts433" tvg-name="Nick HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
@@ -143,7 +143,7 @@ http://192.168.1.60:5001/live/1226.m3u8
 #EXTINF:-1 tvg-id="ts127" tvg-name="Sonic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sonic
 http://103.182.170.32:8888/play/a02s
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="Kids",Disney Channel
-http://66.102.120.18:8000/play/a013/index.m3u8
+http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 tvg-id="ts144" tvg-name="Disney Junior" tvg-type="Kids" group-title="Kids", Disney Junior
 http://103.182.170.32:8888/play/a03q
 #EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Pogo Telugu
