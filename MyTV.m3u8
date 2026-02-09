@@ -39,8 +39,6 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="ts225" tvg-name="ABN Andhra Jyothi" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ABN Andhra Jyothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
-#EXTINF:-1 tvg-id="ts49" tvg-name="T News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/T_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", T News
-https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-id="ts320" tvg-name="TV 5 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV 5 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 #EXTINF:-1 tvg-id="ts337" tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
@@ -57,12 +55,7 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/213.ts
 http://87.255.35.150:18816/
 #EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
-#EXTINF:-1 tvg-id="2745" tvg-name="MH1" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH1/images/LOGO_HD/image.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MH1
-http://103.140.254.2:3500/live/742.m3u8
 
-
-#EXTINF:-1 tvg-id="2065" tvg-name="Saregama Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saregama Music
-http://192.168.1.60:5001/live/2065.m3u8
 #EXTINF:-1 tvg-id="ts224" tvg-name="E24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
 https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="ts96" tvg-name="ZOOM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
@@ -73,10 +66,7 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="9X Jhakhaas" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/9x-jhakaas.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", 9X Jhakhaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="732" tvg-name="9X Tashan" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/9x-tashan.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", 9X Tashan
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="ts406" tvg-name="MTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD
-http://87.255.35.150:18901/
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Channel_V_India_2016.jpg/revision/latest?cb=20160808103229" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="ts733" tvg-name="Show Box" tvg-logo="https://pbs.twimg.com/profile_images/1426975611256381448/2cb2BpSO_400x400.jpg" tvg-language="Hindi" tvg-type="Music" group-title="Music", ShowBox
@@ -155,19 +145,12 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 ----Infotainment----
 #EXTINF:-1 tvg-id="ts341" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
 http://163.61.227.29:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="ts113" tvg-name="Discovery Science" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" tvg-type="Infotainment" group-title="Infotainment", Discovery Science
-http://66.102.120.18:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-type="Infotainment" group-title="Infotainment", Nat Geo
-http://66.102.120.18:8000/play/a01f/index.m3u8
+
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/180.ts
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.blaze.tv/themes/custom/blaze/images/fast/world-war-tv.jpg" tvg-name="World War TV",World War TV
-https://amg00841-aeemea-amg00841c6-vidaa-gb-7934.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-worldwartvcc-vidaagb/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-name="True Crime Now (AU)",True Crime Now
-https://fba9e268.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtYXVfVHJ1ZUNyaW1lTm93X0hMUw/playlist.m3u8
 
 ----Lifestyle----
-#EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/darare_images/images/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC Hhttp:
+#EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/darare_images/images/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
 http://103.182.170.32:8888/play/a01q
 #EXTINF:-1-1 tvg-id="ts484" tvg-name="Travelxp HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
 http://103.182.170.32:8888/play/a01x
@@ -219,15 +202,15 @@ https://c.mjh.nz/abc-kids.m3u8
 
 ----Sony----
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-http://103.178.78.151:7505/play/a0uc/index.m3u8
+http://103.182.170.32:8888/play/a03t
 #EXTINF:-1 tvg-id="ts45" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
-http://103.178.78.151:7505/play/a0ux/index.m3u8
+http://103.182.170.32:8888/play/a04m
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 http://103.140.254.2:3500/live/762.m3u8
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/151.ts
+http://103.182.170.32:8888/play/a04f
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/154.ts
+http://103.182.170.32:8888/play/a04j
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/192.ts
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
@@ -326,9 +309,9 @@ https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
 https://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1
-https://fl1.moveonjoy.com/TSN_1/index.m3u8
+https://7pal.short.gy/tsn1ca
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Sports", TSN 2
-https://fl1.moveonjoy.com/TSN_2/index.m3u8
+https://7pal.short.gy/tsn2ca
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="Sports", TSN 3
 https://7pal.short.gy/tsn3ca
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4
