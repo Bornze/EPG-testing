@@ -81,13 +81,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 #EXTINF:-1 tvg-id="ts794" tvg-name="PTC Punjabi Gold " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", PTC Punjabi Gold 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 #EXTINF:-1 tvg-id="2934" tvg-name="Punjabi Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Punjabi_Hits.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Punjabi Hits
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
-
+https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/geueic.png" tvg-name="TRACE Urban",TRACE Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=86557&ads.show_id=3243&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CContemporary%20Hits%2FPop%2FTop%2040%2CHip%20Hop%20Music%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=TRACE%20Urban&ads.episodetitle=TRACE%20Urban&ads.keywords=Music%2CTop%20Hits%2CToday%27s%20Top%20Hits&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=Tm-ioUfOiEG
 #EXTINF:-1 tvg-id="DistroTVUS_35969" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20231219_222535_48.png" group-title="Music",Stingray Naturescape
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1-11 tvg-id="TraceHits.uk@SD" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?
 #EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD" tvg-language="English" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music", ITV urban
@@ -147,7 +146,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 http://163.61.227.29:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
-http://192.168.1.60:5001/live/577.m3u8
+http://103.229.254.25:7001/play/a02z/index.m3u8
 
 ----Lifestyle----
 #EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-logo="https://jiotvimages.cdn.jio.com/darare_images/images/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
@@ -182,9 +181,9 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/191.ts
 #EXTINF:-1 tvg-id="ts562" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
 http://192.168.1.60:5001/live/151.m3u8
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
-http://103.178.78.151:7505/play/a1ge/index.m3u8
+http://103.229.254.25:7001/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="ts593" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
-http://103.178.78.151:7505/play/a1gd/index.m3u8
+http://103.229.254.25:7001/play/a02v/index.m3u8
 
 
 ----Australia----
@@ -219,13 +218,13 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/176.ts
 
 ---Sports-----
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/238.ts
+https://tigerhub-bd.vercel.app/StarSports/Select-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png" group-title="Sports", Star Sports Select 2
-http://103.178.78.151:7505/play/a0w9/index.m3u8
-#EXTINF:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_1.png" group-title="Sports", Star Sports 1 
+https://tigerhub-bd.vercel.app/StarSports/Select-2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_1.png" group-title="Sports", Star Sports 1 
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/239.ts
+https://tigerhub-bd.vercel.app/StarSports/2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu
 http://87.255.35.150:18881/
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
@@ -272,19 +271,19 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport 1 
-https://7pal.short.gy/skyspt1nz
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports", Sky Sport 2 
-https://7pal.short.gy/skyspt2nz
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="Sky Sport 3" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports", Sky Sport 3 
 https://7pal.short.gy/skyspt3nz
 #EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports", Sky Sport 4 
-https://7pal.short.gy/skyspt4nz
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports", Sky Sport 5 
-https://7pal.short.gy/skyspt5nz
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="Sky Sport 6" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports", Sky Sport 6 
-https://7pal.short.gy/skyspt6nz
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports", Sky Sport 7
-https://7pal.short.gy/skyspt7nz
+https://tigerhub-bd.vercel.app/Sports-zone/SkySportsNZ-7/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="Formula1.us@SD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" group-title="Sports", Formula 1
