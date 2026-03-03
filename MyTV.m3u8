@@ -285,10 +285,6 @@ https://7pal.short.gy/skyspt7nz
 
 #EXTINF:-1 tvg-id="Formula1.us@SD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" group-title="Sports", Formula 1
 https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9046
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD" group-title="Sports", MLB Network
-https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU" group-title="Sports", ESPN U
-https://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet ONE
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet 360
@@ -296,13 +292,13 @@ https://7pal.short.gy/sptsnet360
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us"  group-title="Sports", CBS Sports Network
 https://7pal.short.gy/cbssptnw
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="Sports",NFL Network
-https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us@SD" group-title="Sports",NFL RedZone
-https://fl2.moveonjoy.com/NFL_RedZone/index.m3u8
+https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
-https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+https://7pal.short.gy/nhlnw
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://i.imgur.com/ZGrahiw.png" group-title="Sports | US", MLB Network
+https://7pal.short.gy/mlbnw
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="Sports",NBA TV
-https://fl2.moveonjoy.com/NBA_TV/index.m3u8
+https://7pal.short.gy/nbatvus
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1
 https://7pal.short.gy/tsn1ca
@@ -313,9 +309,7 @@ https://7pal.short.gy/tsn3ca
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4
 https://7pal.short.gy/tsn4ca
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest?cb=20220218183502" group-title="Sports", TSN 5
-https://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" group-title="Sports", TSN 5 HD
-https://tvpass.org/live/tsn5/hd
+https://7pal.short.gy/tsn5ca
 
 
 
