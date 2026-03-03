@@ -167,7 +167,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="ts157" tvg-name="Channel News Asia International" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" tvg-language="English" tvg-type="News" group-title="News", Channel News Asia International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="ts255" tvg-logo="https://i.postimg.cc/4x05zQDk/wion.png" group-title="News", WION
+#EXTINF:-1 tvg-id="ts255" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="News", WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 #EXTINF:-1tvg-id="EuronewsEnglish.fr@SDD"  group-title="News", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
