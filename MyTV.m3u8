@@ -91,7 +91,7 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23073&ads.content_duration=18000&ads.episode_id=130974&ads.show_id=5155&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=TRACE%20UK&ads.episodetitle=TRACE%20UK&ads.keywords=Music%2CArtists%2CBands%2CCultural%20interests&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=7dIosAVyILi
 #EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD" tvg-language="English" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music", ITV urban
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="3288" tvg-name="Stingray" tvg-language="English" tvg-logo="https://i.postimg.cc/FsC4yRjL/stingraycmusic.png" group-title="Music", Stingray
+#EXTINF:-1 tvg-id="3288" tvg-name="Stingray" tvg-language="English" tvg-logo="https://webplayer.stingray.com/res/images/logo/logo_stingray.svg" group-title="Music", Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
 
@@ -121,7 +121,7 @@ http://103.182.170.32:8888/play/a01w
 
 
 ----Kids----
-#EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/qRY9TGPp/cartoonnetwork.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
+#EXTINF:-1 tvg-id="ts238" tvg-name="Cartoon Network" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/19/2025/04/15180709/CartoonNetwork_NavLogo_120x72_NEW.jpg" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
 http://103.182.170.32:8888/play/a04o
 #EXTINF:-1 tvg-id="ts681" tvg-name="CN HD+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 http://66.102.120.18:8000/play/a017/index.m3u8
@@ -283,7 +283,7 @@ https://7pal.short.gy/skyspt6nz
 https://7pal.short.gy/skyspt7nz
 
 
-#EXTINF:-1 tvg-id="Formula1.us@SD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png" group-title="Sports", Formula 1
+#EXTINF:-1 tvg-id="Formula1.us@SD" tvg-logo="https://pbs.twimg.com/profile_images/1612433922733887489/7f5XFklA_400x400.jpg" group-title="Sports", Formula 1
 https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9046
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet ONE
 https://7pal.short.gy/sptsnet1
