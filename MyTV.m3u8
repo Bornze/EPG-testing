@@ -23,10 +23,12 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0586/master.m3u8
 #EXTINF:-1 tvg-id="ts954" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telugu Movie 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Telugu Cinema HD 
+#EXTINF:-1 tvg-id="" tvg-name="Telugu Movie 1" tvg-logo="https://img.freepik.com/premium-vector/cinema-movie-logo-design-idea_393879-3227.jpg" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Telugu Cinema HD 
 http://iptvcasomsapi.jprdigital.in/x-media/C0044/master.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VVA45upeYSNT1B4VAqKuYm8zeehev7L2H3klN2kOiQT8bDg3y2H_Jn9dFgRtThr0iKI2hvR_Ww=s160-c-k-c0x00ffffff-no-rj" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Niharika Movies
+http://iptvcasomsapi.jprdigital.in/x-media/C0045/master.m3u8
 #EXTINF:-1 tvg-id="ts337" tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 
