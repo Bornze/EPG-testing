@@ -4,11 +4,11 @@
 
 ----Telugu Entertainment----
 #EXTINF:-1 tvg-id="ts635" tvg-name="Zee Telugu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
-http://111.88.78.21:8000/play/a0tn/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8
 #EXTINF:-1 tvg-id="ETVTelugu.in@HD" tvg-name="ETV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV HD
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ts956" tvg-name="Star Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Entertainment - Telugu", Star Maa HD
-http://111.88.78.21:8000/play/a0pb/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8
 #EXTINF:-1 tvg-id="sun195490" tvg-name="Gemini TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini TV HD
 https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.in@HD" tvg-name="ETV Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV Plus HD
@@ -16,13 +16,13 @@ https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 tvg-id="sun194394" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini Comedy
 http://111.88.78.21:8000/play/a101/index.m3u8
 #EXTINF:-1 tvg-id="ts636" tvg-name="Zee Cinemalu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
-http://103.167.255.18:8085/play/a0ns/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0544/master.m3u8
 #EXTINF:-1 tvg-id="ts957" tvg-name="Star Maa Movies" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
-http://87.255.35.150:18556/
+http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
 #EXTINF:-1 tvg-id="sun192537" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
 http://111.88.78.21:8000/play/a0zf/index.m3u8
 #EXTINF:-1 tvg-id="ts954" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
-http://103.121.6.5:8000/play/a063/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
 #EXTINF:-1 tvg-id="ts1341" tvg-name="ETV Cinema HD " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", ETV Cinema HD 
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
@@ -52,7 +52,7 @@ https://cdn-1.pishow.tv/live/391/master.m3u8
 #EXTINF:-1 tvg-id="sun194393" tvg-name="Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
 http://192.168.1.60:5001/live/898.m3u8
 #EXTINF:-1 tvg-id="ts389" tvg-name="Star Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png" tvg-language="Telugu" group-title="Music", Star Maa Music
-http://87.255.35.150:18816/
+http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
 #EXTINF:-1 tvg-id="ts429" tvg-name="Raj Musix Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 
@@ -221,11 +221,11 @@ http://103.229.254.25:7001/play/a0c1/index.m3u8
 #EXTINF:-1:-1 tvg-id="ts78" tvg-name="Star Sports 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_1.png" group-title="Sports", Star Sports 1 
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-id="ts235" tvg-name="Star Sports 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
-http://103.121.6.5:8000/play/a05u/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu
-http://111.88.78.21:8000/play/a0vc/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
-http://87.255.35.150:18280
+http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 https://7pal.short.gy/tntspts1
