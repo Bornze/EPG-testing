@@ -110,7 +110,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://103.182.170.32:8888/play/a03t
 #EXTINF:-1 tvg-id="ts435" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
+http://103.157.248.140:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
@@ -214,7 +214,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0372/master.m3u8
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0377/master.m3u8
+http://103.157.248.140:8000/play/a05x/index.m3u8
 
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
 http://iptvcasomsapi.jprdigital.in/x-media/C0444/master.m3u8
