@@ -23,8 +23,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
 http://192.168.1.60:5350/live/899.m3u8
 #EXTINF:-1 tvg-id="ts954" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telugu Movie 1" tvg-logo="https://img.freepik.com/premium-vector/cinema-movie-logo-design-idea_393879-3227.jpg" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Telugu Cinema HD 
-http://iptvcasomsapi.jprdigital.in/x-media/C0044/master.m3u8
+#EXTINF:-1 tvg-id="Studio One+" tvg-name="Studio One+" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Studio ONE+ 
+https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VVA45upeYSNT1B4VAqKuYm8zeehev7L2H3klN2kOiQT8bDg3y2H_Jn9dFgRtThr0iKI2hvR_Ww=s160-c-k-c0x00ffffff-no-rj" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Niharika Movies
@@ -106,14 +106,14 @@ https://cdn-3.pishow.tv/live/1229/master.m3u8
 
 ----Entertainment----
 #EXTINF:-1 tvg-id="ts52" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
+http://103.229.254.25:7001/play/a0a1/index.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://103.182.170.32:8888/play/a03t
 #EXTINF:-1 tvg-id="ts435" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD
 http://103.157.248.140:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
+http://103.229.254.25:7001/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Entertainment", Zee Cafe HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8
 
@@ -150,7 +150,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 http://163.61.227.29:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
+http://103.229.254.25:7001/play/a02z/index.m3u8
 
 ----Lifestyle----
 #EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
@@ -183,13 +183,13 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1 tvg-id="ts599" tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
 http://116.90.120.128:8000/play/a0i6/index.m3u88
 #EXTINF:-1 tvg-id="ts562" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
-http://116.90.120.151:8000/play/a0ib/inddex.m3u8
+http://103.161.153.165:8000/play/mnh/index.m3u8
 #EXTINF:-1 tvg-id="ts560" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
 http://103.229.254.25:7001/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="ts593" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
 http://103.229.254.25:7001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="ts32" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
+http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
 http://103.182.170.32:8888/play/a04f
 
