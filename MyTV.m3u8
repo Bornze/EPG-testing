@@ -16,8 +16,7 @@ https://mumbai-edge.smartplaytv.in/GeminiTVHD/index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.in@HD" tvg-name="ETV Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV Plus HD
 https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="sun194394" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini Comedy
--http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8-
-https://mumbai-edge.smartplaytv.in/GeminiComedy/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8
 #EXTINF:-1 tvg-id="ts636" tvg-name="Zee Cinemalu HD" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", Zee Cinemalu HD
 -http://192.168.1.60:5350/zee5/0-9-zeecinemalu-
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
@@ -183,8 +182,8 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/st
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ts976" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-id="3084" tvg-name="Taiwan Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="3084" tvg-name="France24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" tvg-language="English" tvg-type="News" group-title="News", France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 
 
 ----Movies----
@@ -237,7 +236,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu
 http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
-http://iptvcasomsapi.jprdigital.in/x-media/C0425/master.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 https://7pal.short.gy/tntspts1
