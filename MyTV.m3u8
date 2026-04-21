@@ -157,7 +157,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 http://103.157.248.140:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="ts616" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
 
 ----Lifestyle----
 #EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
@@ -236,7 +236,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
 #EXTINF:-1 tvg-id="StarSports1Telugu.in@HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu
 http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
-http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 https://7pal.short.gy/tntspts1
