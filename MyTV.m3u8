@@ -31,13 +31,13 @@ https://cdn-1.pishow.tv/live/276/master.m3u8
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VVA45upeYSNT1B4VAqKuYm8zeehev7L2H3klN2kOiQT8bDg3y2H_Jn9dFgRtThr0iKI2hvR_Ww=s160-c-k-c0x00ffffff-no-rj" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Niharika Movies
 http://iptvcasomsapi.jprdigital.in/x-media/C0045/master.m3u8
-#EXTINF:-1 tvg-id="DD Saptagiri.in" tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
+#EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 
 ----Telugu News----
 #EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ETV Andhra pradesh
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="Sakshi tv.in" tvg-name="Sakshi TV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", Sakshi tv
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", Sakshi tv
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 #EXTINF:-1 tvg-id="618" tvg-name="TV9 Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
@@ -143,7 +143,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 
 
 ----Infotainment----
-#EXTINF:-1 tvg-id="Discovery HD World.in" tvg-name="Discovery HD World.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
+#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
 http://103.157.248.140:8000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="577" tvg-name="History TV18 HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
@@ -183,12 +183,12 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
 #EXTINF:-1 tvg-name="STAR Movies HD.in" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
-#EXTINF:-1 tvg-name="STARMoviesSelectHD.in" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
+#EXTINF:-1 tvg-name="STAR Movies Select HD.in" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
 #EXTINF:-1 tvg-name="SONY PIX HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 -http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8-
 https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
-#EXTINF:-1 tvg-name="SONY MAX HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
+#EXTINF:-1 tvg-name="SONY MAX.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
 -http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8-
 https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
 
