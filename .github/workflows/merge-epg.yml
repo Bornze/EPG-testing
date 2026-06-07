@@ -33,7 +33,7 @@ jobs:
           epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
           epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
           # epgs["usa"]="https://www.open-epg.com/files/usa.xml.gz"
-          # epgs["uk"]="https://www.open-epg.com/files/uk.xml.gz"
+          epgs["uk"]="https://www.open-epg.com/files/uk.xml.gz"
           # epgs["canada"]="https://example.com/canada.xml.gz"
           # ============================================================
 
