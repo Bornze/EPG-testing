@@ -1,4 +1,4 @@
-name: Daily EPG Merge (India + Australia)
+name: Daily EPG Merge - Multiple Countries
 
 on:
   schedule:
@@ -9,7 +9,6 @@ jobs:
   merge-epg:
     runs-on: ubuntu-latest
 
-    # Grant write permission to the GITHUB_TOKEN
     permissions:
       contents: write
 
@@ -27,25 +26,33 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y xmltv
 
-      - name: Download and merge EPG sources
+      - name: Download and Merge EPGs
         run: |
-          echo "Downloading India EPG..."
-          curl -L -o india.xml.gz "https://www.open-epg.com/files/india.xml.gz"
-          
-          echo "Downloading Australia EPG..."
-          curl -L -o australia.xml.gz "https://www.open-epg.com/files/australia.xml.gz"
-          
-          echo "Uncompressing files..."
-          gunzip -f india.xml.gz australia.xml.gz
-          
-          echo "Merging EPG files..."
-          tv_cat india.xml australia.xml > merged.xml
-          
+          # ================== ADD NEW COUNTRIES HERE ==================
+          declare -A epgs
+          epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
+          epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
+          # epgs["usa"]="https://www.open-epg.com/files/usa.xml.gz"
+          # epgs["uk"]="https://www.open-epg.com/files/uk.xml.gz"
+          # epgs["canada"]="https://example.com/canada.xml.gz"
+          # ============================================================
+
+          echo "Downloading EPG files..."
+          for country in "${!epgs[@]}"; do
+            url="${epgs[$country]}"
+            echo "→ Downloading $country EPG..."
+            curl -L -o "$country.xml.gz" "$url"
+            gunzip -f "$country.xml.gz"
+          done
+
+          echo "Merging all EPG files..."
+          tv_cat *.xml > merged.xml
+
           echo "Compressing merged file..."
           gzip -9 -c merged.xml > merged.xml.gz
-          
+
           echo "Cleanup..."
-          rm -f india.xml australia.xml merged.xml
+          rm -f *.xml
 
       - name: Commit and push merged EPG
         run: |
