@@ -2,20 +2,25 @@ name: Daily EPG Merge (India + Australia)
 
 on:
   schedule:
-    - cron: '0 3 * * *'     # Daily at 3:00 AM UTC
-  workflow_dispatch:        # Manual trigger
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   merge-epg:
     runs-on: ubuntu-latest
 
-    # Fix for Node.js 20 deprecation
+    # Grant write permission to the GITHUB_TOKEN
+    permissions:
+      contents: write
+
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Install XMLTV tools
         run: |
@@ -39,13 +44,13 @@ jobs:
           echo "Compressing merged file..."
           gzip -9 -c merged.xml > merged.xml.gz
           
-          echo "Cleanup temporary files..."
+          echo "Cleanup..."
           rm -f india.xml australia.xml merged.xml
 
       - name: Commit and push merged EPG
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           if [ -f merged.xml.gz ]; then
             git add merged.xml.gz
