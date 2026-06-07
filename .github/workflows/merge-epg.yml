@@ -2,12 +2,16 @@ name: Daily EPG Merge (India + Australia)
 
 on:
   schedule:
-    - cron: '0 3 * * *'     # Runs daily at 3:00 AM UTC
-  workflow_dispatch:        # Allows manual trigger from GitHub
+    - cron: '0 3 * * *'     # Daily at 3:00 AM UTC
+  workflow_dispatch:        # Manual trigger
 
 jobs:
   merge-epg:
     runs-on: ubuntu-latest
+
+    # Fix for Node.js 20 deprecation
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
@@ -27,8 +31,7 @@ jobs:
           curl -L -o australia.xml.gz "https://www.open-epg.com/files/australia.xml.gz"
           
           echo "Uncompressing files..."
-          gunzip -f india.xml.gz
-          gunzip -f australia.xml.gz
+          gunzip -f india.xml.gz australia.xml.gz
           
           echo "Merging EPG files..."
           tv_cat india.xml australia.xml > merged.xml
@@ -36,7 +39,7 @@ jobs:
           echo "Compressing merged file..."
           gzip -9 -c merged.xml > merged.xml.gz
           
-          echo "Cleanup..."
+          echo "Cleanup temporary files..."
           rm -f india.xml australia.xml merged.xml
 
       - name: Commit and push merged EPG
@@ -49,6 +52,6 @@ jobs:
             git commit -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
             git push
           else
-            echo "Merged file not created!"
+            echo "❌ Merged file not created!"
             exit 1
           fi
