@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6      # ← Updated to v6 (Node 24)
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
@@ -25,42 +25,50 @@ jobs:
 
       - name: Download and Merge EPGs
         run: |
-          # ================== ADD NEW COUNTRIES HERE ==================
+          # ================== COUNTRIES ==================
           declare -A epgs
           epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
           epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
-          # epgs["usa"]="https://www.open-epg.com/files/usa.xml.gz"
           epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
-          # epgs["germany"]="https://www.open-epg.com/files/germany.xml.gz"
-          # ============================================================
+          # Add more later:
+          # epgs["usa"]="https://www.open-epg.com/files/usa.xml.gz"
 
-          echo "Downloading EPG files..."
+          echo "=== Starting EPG Download & Merge ==="
+
+          valid_files=()
           for country in "${!epgs[@]}"; do
             url="${epgs[$country]}"
-            echo "→ Downloading $country EPG..."
-            curl -L -o "$country.xml.gz" "$url"
-            gunzip -f "$country.xml.gz"
+            echo "→ Downloading $country..."
+            
+            if curl -L -f --retry 3 --retry-delay 10 -o "$country.xml.gz" "$url"; then
+              echo "   Download OK, decompressing..."
+              if gunzip -f "$country.xml.gz"; then
+                if [ -s "$country.xml" ] && head -c 10 "$country.xml" | grep -q "<?xml"; then
+                  echo "   ✅ Valid XML detected"
+                  valid_files+=("$country.xml")
+                else
+                  echo "   ❌ Invalid or empty XML (skipping)"
+                  rm -f "$country.xml"
+                fi
+              else
+                echo "   ❌ Decompression failed"
+              fi
+            else
+              echo "   ❌ Download failed"
+            fi
           done
 
-          echo "Merging all EPG files..."
-          tv_cat *.xml > merged.xml
-
-          echo "Compressing merged file..."
-          gzip -9 -c merged.xml > merged.xml.gz
-
-          echo "Cleanup..."
-          rm -f *.xml
-
-      - name: Commit and push merged EPG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          if [ -f merged.xml.gz ]; then
-            git add merged.xml.gz
-            git commit -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
-            git push
-          else
-            echo "❌ Merged file not created!"
+          if [ ${#valid_files[@]} -eq 0 ]; then
+            echo "❌ No valid EPG files downloaded!"
             exit 1
           fi
+
+          echo "Merging ${#valid_files[@]} valid file(s)..."
+          tv_cat "${valid_files[@]}" > merged.xml
+
+          echo "Compressing..."
+          gzip -9 -c merged.xml > merged.xml.gz
+
+          echo "✅ Success! Merged ${#valid_files[@]} sources"
+          ls -lh merged.xml.gz
+          rm -f *.xml
