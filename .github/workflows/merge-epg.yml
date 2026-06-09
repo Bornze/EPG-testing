@@ -25,33 +25,24 @@ jobs:
 
       - name: Download and Merge EPGs
         run: |
-          # ================== COUNTRIES ==================
           declare -A epgs
           epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
           epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
-          # epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
-          # Add more later:
-          # epgs["usa"]="https://www.open-epg.com/files/usa.xml.gz"
+          epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
 
-          echo "=== Starting EPG Download & Merge ==="
-
+          echo "=== Downloading EPGs ==="
           valid_files=()
           for country in "${!epgs[@]}"; do
             url="${epgs[$country]}"
             echo "→ Downloading $country..."
-            
-            if curl -L -f --retry 3 --retry-delay 10 -o "$country.xml.gz" "$url"; then
-              echo "   Download OK, decompressing..."
-              if gunzip -f "$country.xml.gz"; then
-                if [ -s "$country.xml" ] && head -c 10 "$country.xml" | grep -q "<?xml"; then
-                  echo "   ✅ Valid XML detected"
-                  valid_files+=("$country.xml")
-                else
-                  echo "   ❌ Invalid or empty XML (skipping)"
-                  rm -f "$country.xml"
-                fi
+            if curl -L -f --retry 3 -o "$country.xml.gz" "$url"; then
+              gunzip -f "$country.xml.gz" 2>/dev/null || true
+              if [ -s "$country.xml" ] && head -c 10 "$country.xml" | grep -q "<?xml"; then
+                echo "   ✅ Valid"
+                valid_files+=("$country.xml")
               else
-                echo "   ❌ Decompression failed"
+                echo "   ❌ Invalid - skipping"
+                rm -f "$country.xml"
               fi
             else
               echo "   ❌ Download failed"
@@ -59,16 +50,29 @@ jobs:
           done
 
           if [ ${#valid_files[@]} -eq 0 ]; then
-            echo "❌ No valid EPG files downloaded!"
+            echo "❌ No valid files!"
             exit 1
           fi
 
-          echo "Merging ${#valid_files[@]} valid file(s)..."
-          tv_cat "${valid_files[@]}" > merged.xml
+          echo "Merging ${#valid_files[@]} files..."
+          tv_cat "${valid_files[@]}" > merged.xml 2> merge_warnings.log || true
 
           echo "Compressing..."
           gzip -9 -c merged.xml > merged.xml.gz
 
-          echo "✅ Success! Merged ${#valid_files[@]} sources"
+          echo "✅ Merge done (${#valid_files[@]} sources)"
           ls -lh merged.xml.gz
           rm -f *.xml
+
+      - name: Commit and Push (Force Update)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Force add and commit even if content is same
+          git add merged.xml.gz
+          
+          git commit -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "Commit skipped (using --allow-empty)"
+          git commit --allow-empty -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC') [force]" || true
+          
+          git push
