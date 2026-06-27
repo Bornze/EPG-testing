@@ -115,8 +115,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
 #EXTINF:-1 tvg-id="ts122" tvg-name="PTC Punjabi.in" tvg-logo="https://jjiotvimages.cdn.jio.com/dare_images/imags/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-id="AXN.ID" tvg-name="AXN ID" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AXN_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", AXN INDO
-https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
-
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
 
 ----Kids----
 #EXTINF:-1 tvg-id="Cartoon Network.in" tvg-name="Cartoon Network" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/19/2025/04/15180709/CartoonNetwork_NavLogo_120x72_NEW.jpg" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
