@@ -104,7 +104,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 ----Entertainment----
 #EXTINF:-1 tvg-id="ColorsHD.in" tvg-name="Colors HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://103.229.254.25:7001/play/a0a1/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
 #EXTINF:-1 tvg-name="SONY SAB HD.in" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", Sony SAB HD
@@ -235,7 +235,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNT Sports 2
-http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports", TNT Sports 3
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports", TNT Sports 4
