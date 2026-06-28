@@ -97,7 +97,7 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 
 #EXTINF:-1 tvg-id="ts215" tvg-name="Sangeet Bangla.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-id="248" tvg-name="MTV HD.in" tvg-logo="https://jiotvimagees.cdn.jio.com/dae_images/images/MTV.png" goup-title="Music", MTV HD
+#EXTINF:-1 tvg-id="248" tvg-name="MTV HD.in" tvg-logo="https://jiotvimagees.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 
@@ -112,7 +112,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
 
 #EXTINF:-1 tvg-id="ColorsInfinityHD.in" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
-#EXTINF:-1 tvg-id="ts122" tvg-name="PTC Punjabi.in" tvg-logo="https://jjiotvimages.cdn.jio.com/dare_images/imags/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
+#EXTINF:-1 tvg-id="ts122" tvg-name="PTC Punjabi.in" tvg-logo="https://jjiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.pnggg" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-id="AXN.ID" tvg-name="AXN ID" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AXN_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", AXN INDO
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
