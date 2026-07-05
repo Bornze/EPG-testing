@@ -233,21 +233,21 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
-http://iptvcasomsapi.jprdigital.in/x-media/C0547/master.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNT Sports 2
-http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports", TNT Sports 3
-https://7pal.short.gy/tntspts3
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports", TNT Sports 4
-https://7pal.short.gy/tntspts4
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=7023540979985581117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Main Event
-https://7pal.short.gy/SkSpMainE
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #EXTINF:-1 tvg-id="SkySportsF1.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=5158758531313507117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports F1
-https://7pal.short.gy/ssportsf1
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
 https://7pal.short.gy/ssportscrk
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
-https://7pal.short.gy/ssportsat
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2194
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
 https://7pal.short.gy/fox501au
@@ -295,7 +295,7 @@ https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet 360
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3073
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us"  group-title="Sports", CBS Sports Network
-https://7pal.short.gy/cbssptnw
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="Sports",NFL Network
 https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
@@ -322,8 +322,6 @@ https://apollo-eks.production-public.tubi.io/live/fox-sports-on-tubi-5FPHpS.m3u8
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3053
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",FOX Soccer Plus
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3800
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",CBS Sports Network
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bein Sports 4
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5313
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",Bein Sports 5
@@ -337,16 +335,15 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5309
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://logodix.com/logo/1906199.png" group-title="Sports", TSN 1
-https://7pal.short.gy/tsn1ca
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3146
 #EXTINF:-1 tvg-id="TSN2.ca" group-title="Sports", TSN 2
-https://7pal.short.gy/tsn2ca
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3145
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ssxtux1433380256.png" group-title="Sports", TSN 3
-https://7pal.short.gy/tsn3ca
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3144
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4
-https://7pal.short.gy/tsn4ca
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3143
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg/revision/latest?cb=20220218183502" group-title="Sports", TSN 5
-https://7pal.short.gy/tsn5ca
-
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88079
 
 
 
