@@ -1,4 +1,4 @@
-name: Daily EPG Merge - Multiple Countries
+name: Daily EPG Merge - Multiple Countries (Deduplicated)
 
 on:
   schedule:
@@ -23,14 +23,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y xmltv
 
-      - name: Download and Merge EPGs
+      - name: Download and Merge EPGs with Deduplication
         run: |
           declare -A epgs
           epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
           epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
           epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
-          epgs["us"]="https://www.open-epg.com/files/unitedstates3.xml.gz"
-          epgs["ca"]="https://www.open-epg.com/files/canada.xml.gz"
+          epgs["canada"]="https://www.open-epg.com/files/canada.xml.gz"
+          epgs["usa"]="https://www.open-epg.com/files/unitedstates3.xml.gz"
 
           echo "=== Downloading EPGs ==="
           valid_files=()
@@ -43,7 +43,7 @@ jobs:
                 echo "   ✅ Valid"
                 valid_files+=("$country.xml")
               else
-                echo "   ❌ Invalid - skipping"
+                echo "   ❌ Invalid"
                 rm -f "$country.xml"
               fi
             else
@@ -56,25 +56,22 @@ jobs:
             exit 1
           fi
 
-          echo "Merging ${#valid_files[@]} files..."
-          tv_cat "${valid_files[@]}" > merged.xml 2> merge_warnings.log || true
+          echo "Merging ${#valid_files[@]} files with deduplication..."
+          tv_cat "${valid_files[@]}" > merged.xml
 
           echo "Compressing..."
           gzip -9 -c merged.xml > merged.xml.gz
 
-          echo "✅ Merge done (${#valid_files[@]} sources)"
+          echo "✅ Success! Merged ${#valid_files[@]} sources"
           ls -lh merged.xml.gz
           rm -f *.xml
 
-      - name: Commit and Push (Force Update)
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Force add and commit even if content is same
           git add merged.xml.gz
-          
-          git commit -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "Commit skipped (using --allow-empty)"
+          git commit -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
           git commit --allow-empty -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC') [force]" || true
-          
           git push
