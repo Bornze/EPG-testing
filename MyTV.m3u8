@@ -246,6 +246,8 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2191
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8350774144114096117&width=600&height=100&rule=SkySportsLight" group-title="Sports", Sky Sports Mix
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2180
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2194
 
@@ -266,7 +268,7 @@ https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CRICKET-GOLD-USA/logo/400x200.jpg" group-title="Sports", CRICKET-GOLD-USA
 https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Willow.us@SD" tvg-name="Willow Cricket" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow
+#EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow Cricket.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -314,22 +316,10 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3637
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
 #EXTINF:-1 tvg-id="Fox Sports 2 (651).us" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_KO@3x.png?downsize=80%3A*" group-title="Sports",FS2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSLogo_1040x585.jpg" group-title="Sports",FOX Sports
-https://amg02855-foxsports-amg02855c1-lg-us-1388.playouts.now.amagi.tv/playlist/amg02855-foxnewsnetwork-foxsports-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",FOX Sports Racing
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="Sports",FOX Sports Racing
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3053
-#EXTINF:-1 tvg-id="FOX Soccer Plus HD (1653).us" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Sports",FOX Soccer Plus
+#EXTINF:-1 tvg-id="FOX Soccer Plus HD (1653).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/330px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX Soccer Plus
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3800
-#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/a886c65b0bcb407579a079ed4564fffa.png?ver=03-06-2025" group-title="Sports",Bein Sports 4
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5313
-#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/0d2131d903a4485c80374b7f91549323.png?ver=03-06-2025" group-title="Sports",Bein Sports 5
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5312
-#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/8b63b8f113f8516bf5a83fa1168ac941.png?ver=03-06-2025" group-title="Sports",Bein Sports 6
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5311
-#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/efbcbf2e8bd55ef7f1351a54268413e6.png?ver=03-06-2025" group-title="Sports",Bein Sports 7
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5310
-#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/450dfdd4d0cb242cccbf13900e91ea4a.png?ver=03-06-2025" group-title="Sports",Bein Sports 8
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5309
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn1-light.webp?auth=363388e30b671391ca66eac639178b158c5857e7666bc43935ebdba556bc0d4f&width=72" group-title="Sports", TSN 1
