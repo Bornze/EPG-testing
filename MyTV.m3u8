@@ -300,7 +300,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
 https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3672
-#EXTINF:-1 tvg-id="MLB Network (634).us" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports", MLB Network
+#EXTINF:-1 tvg-id="MLB Network (634).us" tvg-logo="https://www.mlbstatic.com/team-logos/league-on-light/1.svg" group-title="Sports", MLB Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3746
 #EXTINF:-1 tvg-id="NBA TV USA (632).us" group-title="Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -336,7 +336,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/5309
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3146
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn2-light.webp?auth=a8f34d27930e5a49cea2f5d040d219506e04ecf7f0b2565cb88d9f34519e4b62&width=72" group-title="Sports", TSN 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3145
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn3-light.webp?auth=275fff42b0cddac780ecc375510f156d7c162ff51f4c1916ef60059fa2d34cbe&width=7256.pngp-title="Sports", TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn3-light.webp?auth=275fff42b0cddac780ecc375510f156d7c162ff51f4c1916ef60059fa2d34cbe&width=72" group-title="Sports", TSN 3
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3144
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3143
