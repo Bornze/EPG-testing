@@ -29,6 +29,8 @@ jobs:
           epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
           epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
           epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
+          epgs["us"]="https://www.open-epg.com/files/unitedstates3.xml.gz"
+          epgs["ca"]="https://www.open-epg.com/files/canada.xml.gz"
 
           echo "=== Downloading EPGs ==="
           valid_files=()
