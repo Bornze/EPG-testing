@@ -29,7 +29,7 @@ jobs:
           epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
           epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
           epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
-          RPGs["Canada"]="https://www.open-epg.com/files/canada.xml.gz"
+          epgs["Canada"]="https://www.open-epg.com/files/canada.xml.gz"
 
           echo "=== Downloading EPGs ==="
           valid_files=()
