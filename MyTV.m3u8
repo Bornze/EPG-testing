@@ -195,7 +195,7 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="ABCTVWA.au" tvg-language="English" tvg-logo="https://i.pinimg.com/736x/5a/66/65/5a666508bc5851a6a9c1151e7eefff3d.jpg" tvg-type="News" group-title="Entertainment", ABC TV
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 tvg-name="ABCAustralia.in" tvg-name="ABC Australia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" tvg-language="English" tvg-type="News" group-title="News", ABC Australia
+#EXTINF:-1 tvg-id="ABCAustralia.in" tvg-name="ABC Australia.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" tvg-language="English" tvg-type="News" group-title="News", ABC Australia
 http://192.168.1.60:5350/live/2782.m3u8
 #EXTINF:-1 tvg-id="ABCEntertainsWA.au" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc3_selected.png" group-title="Entertainment", ABC Me (720p)
 https://c.mjh.nz/abc-me.m3u8
