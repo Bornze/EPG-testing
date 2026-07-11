@@ -30,6 +30,7 @@ jobs:
           epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
           epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           epgs["Canada"]="https://www.open-epg.com/files/canada.xml.gz"
+          epgs["NewzeaLand"]="https://www.open-epg.com/files/newzealand1.xml.gz"
 
           echo "=== Downloading EPGs ==="
           valid_files=()
