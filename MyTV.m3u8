@@ -24,7 +24,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
 https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="1137" tvg-name="Star Maa Gold.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
-#EXTINF:-1 tvg-id="1274" tvg-name="StudioOne+.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Studio_One.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Studio ONE+ 
+#EXTINF:-1 tvg-id="StudioOne+.in" tvg-name="Studio One Plus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Studio_One.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Studio ONE+ 
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
@@ -116,7 +116,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
 
 ----Kids----
-#EXTINF:-1 tvg-id="Cartoon Network.in" tvg-name="Cartoon Network" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/19/2025/04/15180709/CartoonNetwork_NavLogo_120x72_NEW.jpg" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network.in" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/19/2025/04/15180709/CartoonNetwork_NavLogo_120x72_NEW.jpg" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
 http://103.182.170.32:8888/play/a04o
 #EXTINF:-1 tvg-id="CartoonNetworkHD+.in" tvg-name="CN HD+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdHx-71IGPh3UMalZOoXS7oFzoTwpSrdM9C279aFkUrqRqLqp1ufgCcEK&s=10" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", CN HD+ Telugu
 http://66.102.120.18:8000/play/a017/index.m3u8
@@ -146,7 +146,7 @@ http://103.157.248.140:8000/play/a017/index.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
 
 ----Lifestyle----
-#EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD.in" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
+#EXTINF:-1 tvg-id="TLCHD.in" tvg-name="TLC HD.in" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
 http://103.157.248.140:8000/play/a00z/index.m3u8
 #EXTINF:-1-1 tvg-id="164" tvg-name="Travelxp HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
@@ -164,7 +164,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="WION.in" tvg-logo="https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg" group-title="News", WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
-#EXTINF:-1tvg-id="EuronewsEnglish.fr"  group-title="News", Euronews
+#EXTINF:-1tvg-id="Euronews.uk"  group-title="News", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ts976" tvg-name="NHK World Japan.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -184,7 +184,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
 #EXTINF:-1 tvg-id="SONYPIXHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 -http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8-
 https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
-#EXTINF:-1 tvg-id="SONYMAX.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
+#EXTINF:-1 tvg-id="SONYMAXHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
 -http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8-
 https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
 
@@ -266,25 +266,25 @@ https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CRICKET-GOLD-USA/logo/400x200.jpg" group-title="Sports", CRICKET-GOLD-USA
 https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow Cricket.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow
+#EXTINF:-1 tvg-id="WILLOW.ca" tvg-name="WILLOW.ca" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/WILLOW_black.png" group-title="Sports", Willow
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport 1 
+#EXTINF:-1 tvg-id="Sky Sport 1.nz" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport 1 
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports", Sky Sport 2 
+#EXTINF:-1 tvg-id="Sky Sport 2.nz" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports", Sky Sport 2 
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="Sky Sport 3" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports", Sky Sport 3 
+#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-name="Sky Sport 3" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports", Sky Sport 3 
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="Sky Sport 4" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports", Sky Sport 4 
+#EXTINF:-1 tvg-id="Sky Sport 4.nz" tvg-name="Sky Sport 4" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Sports", Sky Sport 4 
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="Sky Sport 5" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports", Sky Sport 5 
+#EXTINF:-1 tvg-id="Sky Sport 5.nz" tvg-name="Sky Sport 5" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Sports", Sky Sport 5 
 https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="Sky Sport 6" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports", Sky Sport 6 
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-name="Sky Sport 6" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Sports", Sky Sport 6 
 https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="Sky Sport 7" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports", Sky Sport 7
+#EXTINF:-1 tvg-id="Sky Sport 7.nz" tvg-name="Sky Sport 7" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Sports", Sky Sport 7
 https://7pal.short.gy/skyspt7nz
 
 
@@ -296,7 +296,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88060
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3073
 #EXTINF:-1 tvg-id="CBS Sports Network USA (643).us"  group-title="Sports", CBS Sports Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.us" group-title="Sports",NFL Network
 https://7pal.short.gy/nflnw
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3672
@@ -320,15 +320,15 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3053
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3800
 
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn1-light.webp?auth=363388e30b671391ca66eac639178b158c5857e7666bc43935ebdba556bc0d4f&width=72" group-title="Sports", TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn1-light.webp?auth=363388e30b671391ca66eac639178b158c5857e7666bc43935ebdba556bc0d4f&width=72" group-title="Sports", TSN 1
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3146
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn2-light.webp?auth=a8f34d27930e5a49cea2f5d040d219506e04ecf7f0b2565cb88d9f34519e4b62&width=72" group-title="Sports", TSN 2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2 HD.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn2-light.webp?auth=a8f34d27930e5a49cea2f5d040d219506e04ecf7f0b2565cb88d9f34519e4b62&width=72" group-title="Sports", TSN 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3145
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn3-light.webp?auth=275fff42b0cddac780ecc375510f156d7c162ff51f4c1916ef60059fa2d34cbe&width=72" group-title="Sports", TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3 HD.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn3-light.webp?auth=275fff42b0cddac780ecc375510f156d7c162ff51f4c1916ef60059fa2d34cbe&width=72" group-title="Sports", TSN 3
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3144
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4 HD.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn4-light.webp?auth=5db3f99a39ce62ced0c6863291be2a47c127819877c6f6197737d885e2f75371" group-title="Sports", TSN 4
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3143
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn5-light.webp?auth=9b5d402d1a6d3e3c5cce57a5d316da112763d304ba9a02c0edd96862b8e77288&width=72" group-title="Sports", TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn5-light.webp?auth=9b5d402d1a6d3e3c5cce57a5d316da112763d304ba9a02c0edd96862b8e77288&width=72" group-title="Sports", TSN 5
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88079
 
 
