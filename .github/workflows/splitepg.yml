@@ -33,7 +33,8 @@ jobs:
           allcountries["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           allcountries["canada"]="https://www.open-epg.com/files/canada.xml.gz"
           allcountries["usa"]="https://www.open-epg.com/files/unitedstates3.xml.gz"
-
+          allcountries["NewzeaLand"]="https://www.open-epg.com/files/newzealand1.xml.gz"
+          
           valid_all=()
           for c in "${!allcountries[@]}"; do
             curl -L -f --retry 3 -o "$c.xml.gz" "${allcountries[$c]}"
