@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Bornze/EPG-testing/main/merged-inukau.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Bornze/EPG-testing/main/merged-inukau.xml.gz"
 
 ----Telugu Entertainment----
-#EXTINF:-1 tvg-id="Zee Telugu HD.in" tvg-name="Zee Telugu HD.in" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu HD.in" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
 -http://192.168.1.60:5350/zee5/0-9-zeetelugu-
 http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8
 #EXTINF:-1 tvg-id="ETVHD.in" tvg-name="ETVHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Entertainment - Telugu", Star Maa HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8
-#EXTINF:-1 tvg-id="Gemini TV HD.in" tvg-name="Gemini TV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini TV HD
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="Gemini TV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini TV HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8
-#EXTINF:-1 tvg-id="ETVPlusHD.in" tvg-name="ETV Plus HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV Plus HD
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV Plus HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", Gemini Comedy
 http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8
@@ -19,7 +19,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0544/master.m3u8
 #EXTINF:-1 tvg-id="760" tvg-name="Star Maa Movies.in" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png" group-title="Entertainment - Telugu", Star Maa Movies HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8
-#EXTINF:-1 tvg-id="GeminiMoviesHD.in" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
+#EXTINF:-1 tvg-id="GeminiMovies.in" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Gemini Movies HD
 -http://iptvcasomsapi.jprdigital.in/x-media/C0586/master.m3u8-
 https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="1137" tvg-name="Star Maa Gold.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
@@ -38,11 +38,11 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/in
 https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", Sakshi tv
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
-#EXTINF:-1 tvg-id="618" tvg-name="TV9 Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV9 Telugu
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV Telugu.in" tvg-name="NTV Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", NTV
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", NTV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-#EXTINF:-1 tvg-id="ABN Andhra Jyothy.in" tvg-name="ABN Andhra Jyothy.in" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ABN Andhra Jyothi
+#EXTINF:-1 tvg-id="ABNAndhraJyothy.in" tvg-name="ABN Andhra Jyothy.in" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ABN Andhra Jyothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
 #EXTINF:-1 tvg-id="668" tvg-name="TV 5 News.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV 5 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
@@ -62,7 +62,7 @@ https://cdn-1.pishow.tv/live/1213/master.m3u8
 
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
 https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="592" tvg-name="ZOOM.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
+#EXTINF:-1 tvg-id="ZOOM.in" tvg-name="ZOOM.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="Music India.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
