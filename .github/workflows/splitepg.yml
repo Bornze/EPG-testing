@@ -26,7 +26,7 @@ jobs:
       - name: Download and Create Merges
         run: |
           # ================== ALL COUNTRIES ==================
-          echo "=== Building FULL MERGE (All Countries) ==="
+          echo "=== Building FULL MERGE ==="
           declare -A allcountries
           allcountries["india"]="https://www.open-epg.com/files/india.xml.gz"
           allcountries["india2"]="https://iptv-epg.org/files/epg-in.xml"
@@ -47,6 +47,10 @@ jobs:
                 mv "$c.tmp" "$c.xml"
               fi
               if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
+                # Rename channel IDs for second India source to avoid conflicts
+                if [[ "$c" == "india2" ]]; then
+                  sed -i 's/tvg-id="\([^"]*\)"/tvg-id="\1.in2"/g' "$c.xml"
+                fi
                 echo "   ✅ Valid"
                 valid_all+=("$c.xml")
               else
@@ -83,6 +87,9 @@ jobs:
                 mv "$c.tmp" "$c.xml"
               fi
               if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
+                if [[ "$c" == "india2" ]]; then
+                  sed -i 's/tvg-id="\([^"]*\)"/tvg-id="\1.in2"/g' "$c.xml"
+                fi
                 echo "   ✅ Valid"
                 valid_inukau+=("$c.xml")
               else
