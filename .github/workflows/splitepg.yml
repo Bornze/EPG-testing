@@ -28,7 +28,8 @@ jobs:
           # ================== ALL COUNTRIES ==================
           echo "=== Building FULL MERGE (All Countries) ==="
           declare -A allcountries
-          allcountries["india"]="https://iptv-epg.org/files/epg-in.xml"   # ← Changed
+          allcountries["india"]="https://www.open-epg.com/files/india.xml.gz"      # Old India
+          allcountries["india2"]="https://iptv-epg.org/files/epg-in.xml"          # New India (as India 2)
           allcountries["australia"]="https://www.open-epg.com/files/australia.xml.gz"
           allcountries["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           allcountries["canada"]="https://www.open-epg.com/files/canada.xml.gz"
@@ -39,7 +40,6 @@ jobs:
             url="${allcountries[$c]}"
             echo "→ Downloading $c..."
             if curl -L -f --retry 3 -o "$c.tmp" "$url"; then
-              # Handle both .xml and .gz
               if [[ "$url" == *.gz ]]; then
                 mv "$c.tmp" "$c.xml.gz"
                 gunzip -f "$c.xml.gz" 2>/dev/null || true
@@ -66,7 +66,8 @@ jobs:
           # ================== ONLY IN + UK + AU ==================
           echo "=== Building INUKAU Group ==="
           declare -A inukau
-          inukau["india"]="https://iptv-epg.org/files/epg-in.xml"   # ← Changed
+          inukau["india"]="https://www.open-epg.com/files/india.xml.gz"      # Old India
+          inukau["india2"]="https://iptv-epg.org/files/epg-in.xml"          # New India
           inukau["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           inukau["australia"]="https://www.open-epg.com/files/australia.xml.gz"
 
