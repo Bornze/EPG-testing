@@ -28,21 +28,33 @@ jobs:
           # ================== ALL COUNTRIES ==================
           echo "=== Building FULL MERGE (All Countries) ==="
           declare -A allcountries
-          allcountries["india"]="https://iptv-epg.org/files/epg-in.xml.gz"
+          allcountries["india"]="https://iptv-epg.org/files/epg-in.xml"   # ← Changed
           allcountries["australia"]="https://www.open-epg.com/files/australia.xml.gz"
-          allcountries["uk"]="https://iptv-epg.org/files/epg-gb.xml.gz"
+          allcountries["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           allcountries["canada"]="https://www.open-epg.com/files/canada.xml.gz"
           allcountries["usa"]="https://www.open-epg.com/files/unitedstates3.xml.gz"
-          allcountries["NewzeaLand"]="https://www.open-epg.com/files/newzealand1.xml.gz"
-          
+
           valid_all=()
           for c in "${!allcountries[@]}"; do
-            curl -L -f --retry 3 -o "$c.xml.gz" "${allcountries[$c]}"
-            gunzip -f "$c.xml.gz" 2>/dev/null || true
-            if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
-              valid_all+=("$c.xml")
+            url="${allcountries[$c]}"
+            echo "→ Downloading $c..."
+            if curl -L -f --retry 3 -o "$c.tmp" "$url"; then
+              # Handle both .xml and .gz
+              if [[ "$url" == *.gz ]]; then
+                mv "$c.tmp" "$c.xml.gz"
+                gunzip -f "$c.xml.gz" 2>/dev/null || true
+              else
+                mv "$c.tmp" "$c.xml"
+              fi
+              if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
+                echo "   ✅ Valid"
+                valid_all+=("$c.xml")
+              else
+                echo "   ❌ Invalid"
+                rm -f "$c.xml"
+              fi
             else
-              rm -f "$c.xml"
+              echo "   ❌ Download failed"
             fi
           done
 
@@ -54,18 +66,30 @@ jobs:
           # ================== ONLY IN + UK + AU ==================
           echo "=== Building INUKAU Group ==="
           declare -A inukau
-          inukau["india"]="https://www.open-epg.com/files/india.xml.gz"
+          inukau["india"]="https://iptv-epg.org/files/epg-in.xml"   # ← Changed
           inukau["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           inukau["australia"]="https://www.open-epg.com/files/australia.xml.gz"
 
           valid_inukau=()
           for c in "${!inukau[@]}"; do
-            curl -L -f --retry 3 -o "$c.xml.gz" "${inukau[$c]}"
-            gunzip -f "$c.xml.gz" 2>/dev/null || true
-            if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
-              valid_inukau+=("$c.xml")
+            url="${inukau[$c]}"
+            echo "→ Downloading $c..."
+            if curl -L -f --retry 3 -o "$c.tmp" "$url"; then
+              if [[ "$url" == *.gz ]]; then
+                mv "$c.tmp" "$c.xml.gz"
+                gunzip -f "$c.xml.gz" 2>/dev/null || true
+              else
+                mv "$c.tmp" "$c.xml"
+              fi
+              if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
+                echo "   ✅ Valid"
+                valid_inukau+=("$c.xml")
+              else
+                echo "   ❌ Invalid"
+                rm -f "$c.xml"
+              fi
             else
-              rm -f "$c.xml"
+              echo "   ❌ Download failed"
             fi
           done
 
@@ -74,7 +98,7 @@ jobs:
             gzip -9 -c merged-inukau.xml > merged-inukau.xml.gz
           fi
 
-          rm -f *.xml
+          rm -f *.xml *.tmp
 
       - name: Commit and Push
         run: |
@@ -82,6 +106,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           git add merged-*.xml.gz
-          git commit -m "Auto-update EPG files - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
-          git commit --allow-empty -m "Auto-update EPG files - $(date -u +'%Y-%m-%d %H:%M UTC') [force]" || true
+          git commit -m "Auto-update EPG files - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
           git push
