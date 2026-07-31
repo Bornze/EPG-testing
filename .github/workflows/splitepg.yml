@@ -28,9 +28,9 @@ jobs:
           # ================== ALL COUNTRIES ==================
           echo "=== Building FULL MERGE (All Countries) ==="
           declare -A allcountries
-          allcountries["india"]="https://www.open-epg.com/files/india.xml.gz"
+          allcountries["india"]="https://iptv-epg.org/files/epg-in.xml.gz"
           allcountries["australia"]="https://www.open-epg.com/files/australia.xml.gz"
-          allcountries["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
+          allcountries["uk"]="https://iptv-epg.org/files/epg-gb.xml.gz"
           allcountries["canada"]="https://www.open-epg.com/files/canada.xml.gz"
           allcountries["usa"]="https://www.open-epg.com/files/unitedstates3.xml.gz"
           allcountries["NewzeaLand"]="https://www.open-epg.com/files/newzealand1.xml.gz"
