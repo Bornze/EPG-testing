@@ -26,10 +26,9 @@ jobs:
       - name: Download and Create Merges
         run: |
           # ================== ALL COUNTRIES ==================
-          echo "=== Building FULL MERGE ==="
+          echo "=== Building FULL MERGE (All Countries) ==="
           declare -A allcountries
-          allcountries["india"]="https://www.open-epg.com/files/india.xml.gz"
-          allcountries["india2"]="https://iptv-epg.org/files/epg-in.xml"
+          allcountries["india"]="https://iptv-epg.org/files/epg-in.xml"   # ← Changed
           allcountries["australia"]="https://www.open-epg.com/files/australia.xml.gz"
           allcountries["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           allcountries["canada"]="https://www.open-epg.com/files/canada.xml.gz"
@@ -40,6 +39,7 @@ jobs:
             url="${allcountries[$c]}"
             echo "→ Downloading $c..."
             if curl -L -f --retry 3 -o "$c.tmp" "$url"; then
+              # Handle both .xml and .gz
               if [[ "$url" == *.gz ]]; then
                 mv "$c.tmp" "$c.xml.gz"
                 gunzip -f "$c.xml.gz" 2>/dev/null || true
@@ -47,10 +47,6 @@ jobs:
                 mv "$c.tmp" "$c.xml"
               fi
               if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
-                # Rename channel IDs for second India source to avoid conflicts
-                if [[ "$c" == "india2" ]]; then
-                  sed -i 's/tvg-id="\([^"]*\)"/tvg-id="\1.in2"/g' "$c.xml"
-                fi
                 echo "   ✅ Valid"
                 valid_all+=("$c.xml")
               else
@@ -70,8 +66,7 @@ jobs:
           # ================== ONLY IN + UK + AU ==================
           echo "=== Building INUKAU Group ==="
           declare -A inukau
-          inukau["india"]="https://www.open-epg.com/files/india.xml.gz"
-          inukau["india2"]="https://iptv-epg.org/files/epg-in.xml"
+          inukau["india"]="https://iptv-epg.org/files/epg-in.xml"   # ← Changed
           inukau["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
           inukau["australia"]="https://www.open-epg.com/files/australia.xml.gz"
 
@@ -87,9 +82,6 @@ jobs:
                 mv "$c.tmp" "$c.xml"
               fi
               if [ -s "$c.xml" ] && head -c 10 "$c.xml" | grep -q "<?xml"; then
-                if [[ "$c" == "india2" ]]; then
-                  sed -i 's/tvg-id="\([^"]*\)"/tvg-id="\1.in2"/g' "$c.xml"
-                fi
                 echo "   ✅ Valid"
                 valid_inukau+=("$c.xml")
               else
