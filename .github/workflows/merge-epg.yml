@@ -1,80 +1,45 @@
-name: Daily EPG Merge - Multiple Countries
+name: Update Custom EPG
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
+    - cron: '0 3 * * *'   # Runs daily at 3:00 AM UTC
+  workflow_dispatch:       # Allows manual run
 
 jobs:
-  merge-epg:
+  update-epg:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
-        with:
-          fetch-depth: 0
+        uses: actions/checkout@v4
 
-      - name: Install XMLTV tools
+      - name: Download EPG
         run: |
-          sudo apt-get update
-          sudo apt-get install -y xmltv
-
-      - name: Download and Merge EPGs
-        run: |
-          declare -A epgs
-          epgs["india"]="https://www.open-epg.com/files/india.xml.gz"
-          epgs["australia"]="https://www.open-epg.com/files/australia.xml.gz"
-          epgs["uk"]="https://www.open-epg.com/files/unitedkingdom.xml.gz"
-          epgs["Canada"]="https://www.open-epg.com/files/canada.xml.gz"
-          epgs["NewzeaLand"]="https://www.open-epg.com/files/newzealand1.xml.gz"
-
-          echo "=== Downloading EPGs ==="
-          valid_files=()
-          for country in "${!epgs[@]}"; do
-            url="${epgs[$country]}"
-            echo "→ Downloading $country..."
-            if curl -L -f --retry 3 -o "$country.xml.gz" "$url"; then
-              gunzip -f "$country.xml.gz" 2>/dev/null || true
-              if [ -s "$country.xml" ] && head -c 10 "$country.xml" | grep -q "<?xml"; then
-                echo "   ✅ Valid"
-                valid_files+=("$country.xml")
-              else
-                echo "   ❌ Invalid - skipping"
-                rm -f "$country.xml"
-              fi
-            else
-              echo "   ❌ Download failed"
-            fi
-          done
-
-          if [ ${#valid_files[@]} -eq 0 ]; then
-            echo "❌ No valid files!"
+          echo "Downloading EPG from Open-EPG..."
+          curl -L -o epg.xml.gz "https://www.open-epg.com/generate/bdBT3ZTDrk.xml.gz"
+          
+          # Optional: verify the file is valid
+          if [ ! -f epg.xml.gz ]; then
+            echo "❌ Download failed!"
             exit 1
           fi
+          
+          echo "✅ Download successful"
+          ls -lh epg.xml.gz
 
-          echo "Merging ${#valid_files[@]} files..."
-          tv_cat "${valid_files[@]}" > merged.xml 2> merge_warnings.log || true
-
-          echo "Compressing..."
-          gzip -9 -c merged.xml > merged.xml.gz
-
-          echo "✅ Merge done (${#valid_files[@]} sources)"
-          ls -lh merged.xml.gz
-          rm -f *.xml
-
-      - name: Commit and Push (Force Update)
+      - name: Commit and Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           
-          # Force add and commit even if content is same
-          git add merged.xml.gz
+          git add epg.xml.gz
           
-          git commit -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "Commit skipped (using --allow-empty)"
-          git commit --allow-empty -m "Auto-update merged EPG - $(date -u +'%Y-%m-%d %H:%M UTC') [force]" || true
-          
-          git push
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update EPG - $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
