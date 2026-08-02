@@ -83,13 +83,13 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 #EXTINF:-1 tvg-name="Trace Urban" group-title="Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/geueic.png" tvg-name="TRACE Urban",TRACE Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DistroTVUS_35969" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20231219_222535_48.png" group-title="Music",Stingray Naturescape
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20231219_222535_48.png" group-title="Music",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1-11 tvg-id="TraceHits.uk" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 #EXTINF:-1 tvg-id="MBC3.sa" tvg-logo="https://assets.mbcmood.com/channels/1780385818Logo-Circle.png" group-title="Music",MBC Mood (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 tvg-id="3288" tvg-name="Stingray" tvg-language="English" tvg-logo="https://webplayer.stingray.com/res/images/logo/logo_stingray.svg" group-title="Music", Stingray
+#EXTINF:-1 tvg-id="Stingray.ca" tvg-name="Stingray" tvg-language="English" tvg-logo="https://webplayer.stingray.com/res/images/logo/logo_stingray.svg" group-title="Music", Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
 
