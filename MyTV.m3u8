@@ -52,7 +52,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://cdn-1.pishow.tv/live/391/master.m3u8
 
 ----Music----
-#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-name="Gemini Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
+#EXTINF:-1 tvg-id="GeminiMusicHD.in" tvg-name="Gemini Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
 -http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8-
 https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMusic.in" tvg-name="Star Maa Music.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png" tvg-language="Telugu" group-title="Music", Star Maa Music
@@ -87,7 +87,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1-11 tvg-id="TraceHits.uk" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
-#EXTINF:-1 tvg-id="MBCMood.sa" tvg-logo="https://assets.mbcmood.com/channels/1780385818Logo-Circle.png" group-title="Music",MBC Mood (1080p)
+#EXTINF:-1 tvg-id="MBC3.sa" tvg-logo="https://assets.mbcmood.com/channels/1780385818Logo-Circle.png" group-title="Music",MBC Mood (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-id="3288" tvg-name="Stingray" tvg-language="English" tvg-logo="https://webplayer.stingray.com/res/images/logo/logo_stingray.svg" group-title="Music", Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
@@ -95,7 +95,7 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
+#EXTINF:-1 tvg-id="MTVIndia.ca" tvg-name="MTV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 
@@ -103,7 +103,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 ----Entertainment----
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
-#EXTINF:-1 tvg-id="SET.in" tvg-name="SET HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+#EXTINF:-1 tvg-id="SETHD.in" tvg-name="SET HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
 #EXTINF:-1 tvg-id="SONYSAB.in" tvg-name="SONY SAB HD.in" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment", Sony SAB HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
@@ -134,7 +134,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 http://103.182.170.32:8888/play/a03q
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Pogo Telugu
 http://103.182.170.32:8888/play/a02p
-#EXTINF:-1 tvg-id="2258" tvg-name="Animax" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Animax
+#EXTINF:-1 tvg-id="2258" tvg-name="Animax.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 
@@ -142,7 +142,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-name="Discovery HD World.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
 http://103.157.248.140:8000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18 HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
+#EXTINF:-1 tvg-id="HistoryTV18Telugu.in" tvg-name="History TV18 HD Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
 
 ----Lifestyle----
@@ -294,7 +294,7 @@ https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg1205
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88060
 #EXTINF:-1 tvg-id="SPORTSNET360HD.ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet 360
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3073
-#EXTINF:-1 tvg-id="CBS Sports Network USA (643).us"  group-title="Sports", CBS Sports Network
+#EXTINF:-1 tvg-id="CBS Sports Network USA.us"  group-title="Sports", CBS Sports Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
 #EXTINF:-1 tvg-id="NFLNetwork.us" group-title="Sports",NFL Network
 http://206.212.244.63/196/index.m3u8
@@ -306,13 +306,13 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3746
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN (602).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sports",ESPN
+#EXTINF:-1 tvg-id="ESPN HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sports",ESPN
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21589
-#EXTINF:-1 tvg-id="ESPN2 (606).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sports",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2 HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sports",ESPN 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3637
-#EXTINF:-1 tvg-id="Fox Sports 1 (652).us" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="Sports",FS1
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="Sports",FS1
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
-#EXTINF:-1 tvg-id="Fox Sports 2 (651).us" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_KO@3x.png?downsize=80%3A*" group-title="Sports",FS2
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_KO@3x.png?downsize=80%3A*" group-title="Sports",FS2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="Sports",FOX Sports Racing
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3053
