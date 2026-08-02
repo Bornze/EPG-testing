@@ -294,29 +294,29 @@ https://amg12058-amg12058c1-vidaa-us-8693.playouts.now.amagi.tv/playlist/amg1205
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/88060
 #EXTINF:-1 tvg-id="SPORTSNET360HD.ca" tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", Sportsnet 360
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3073
-#EXTINF:-1 tvg-id="CBS Sports Network USA.us"  group-title="Sports", CBS Sports Network
+#EXTINF:-1 tvg-id="CBS Sports Network USA HD.us"  group-title="Sports", CBS Sports Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
-#EXTINF:-1 tvg-id="NFLNetwork.us" group-title="Sports",NFL Network
+#EXTINF:-1 tvg-id="NFLNetworkHD.us" group-title="Sports",NFL Network
 http://206.212.244.63/196/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
+#EXTINF:-1 tvg-id="NHL Network USA HD.us" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3672
-#EXTINF:-1 tvg-id="MLB Network (634).us" tvg-logo="https://www.mlbstatic.com/team-logos/league-on-light/1.svg" group-title="Sports", MLB Network
+#EXTINF:-1 tvg-id="MLB Network HD.us" tvg-logo="https://www.mlbstatic.com/team-logos/league-on-light/1.svg" group-title="Sports", MLB Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3746
-#EXTINF:-1 tvg-id="NBA TV USA (632).us" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-id="NBA TV USA HD.us" group-title="Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA
+#EXTINF:-1 tvg-ID="beIN Sport USA HD.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sports",ESPN
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21589
 #EXTINF:-1 tvg-id="ESPN2 HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sports",ESPN 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3637
-#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="Sports",FS1
+#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="Sports",FS1
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
-#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_KO@3x.png?downsize=80%3A*" group-title="Sports",FS2
+#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_KO@3x.png?downsize=80%3A*" group-title="Sports",FS2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="Sports",FOX Sports Racing
+#EXTINF:-1 tvg-ID="Fox Sports Racing HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="Sports",FOX Sports Racing
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3053
-#EXTINF:-1 tvg-id="FOX Soccer Plus HD (1653).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/330px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX Soccer Plus
+#EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/330px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX Soccer Plus
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3800
 
 
