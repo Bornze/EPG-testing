@@ -203,7 +203,7 @@ https://c.mjh.nz/abc-me.m3u8
 https://c.mjh.nz/abc-kids.m3u8
 
 
----Sports-----
+---Sports India-----
 #EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1 HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0378/master.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2 HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
@@ -230,6 +230,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8
 #EXTINF:-1 tvg-name="Unite8 Sports 2.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=360x270" group-title="Sports", Unite8 Sports 2
 http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 
+---Sports International---
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNT Sports 2
