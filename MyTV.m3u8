@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Bornze/EPG-testing/main/merged-inukau.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Bornze/EPG-testing/main/merged-inukau.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/generate/bdBT3ZTDrk.xml.gz"
 
 ----Telugu Entertainment----
 #EXTINF:-1 tvg-id="ZEETELUGU.in" tvg-name="Zee Telugu HD.in" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
