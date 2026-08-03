@@ -45,7 +45,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="abn.andhra.jyothi.in" tvg-name="ABN Andhra Jyothi" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" group-title="News - Telugu",ABN Andhra Jyothi
 https://cdn-1.pishow.tv/live/407/master.m3u8
 
-#EXTINF:-1 tvg-id="tv5.news.in" tvg-name="TV5 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News - Telugu",TV5 News
+#EXTINF:-1 tvg-id="tv.5.news.in" tvg-name="TV5 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="News - Telugu",TV5 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="v6.news.in" tvg-name="V6 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" group-title="News - Telugu",V6 News
@@ -65,6 +65,12 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
 
 #EXTINF:-1 tvg-id="colors.infinity.hd.in" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment",Colors Infinity HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
+
+#EXTINF:-1 tvg-id="ptc.punjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="Punjabi",PTC Punjabi
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="axn.id" tvg-name="AXN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AXN_HD.png" group-title="Entertainment",AXN
+YOUR_STREAM_URL_HERE
 
 #EXTINF:-1 tvg-id="sony.pix.hd.in" tvg-name="Sony PIX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony PIX HD
 https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
@@ -105,6 +111,18 @@ https://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-id="star.sports.select.2.hd.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png" group-title="Sports",Star Sports Select 2 HD
 http://103.157.248.140:8000/play/a00p/index.m3u8
 
+#EXTINF:-1 tvg-id="star.sports.1.telugu.in" tvg-name="Star Sports 1 Telugu" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu
+http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
+
+#EXTINF:-1 tvg-id="star.sports.2.telugu.in" tvg-name="Star Sports 2 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="zee.cafe.hd.in" tvg-name="United Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/United_Sports.png/200px-United_Sports1.png" group-title="Sports",United Sports 1
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="andflix.in" tvg-name="United Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/United_Sports.png/200px-United_Sports2.png" group-title="Sports",United Sports 2
+YOUR_STREAM_URL_HERE
+
 #EXTINF:-1 tvg-id="cartoon.network.in" tvg-name="Cartoon Network" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network.png" group-title="Kids",Cartoon Network
 http://103.182.170.32:8888/play/a04o
 
@@ -122,6 +140,9 @@ http://103.182.170.32:8888/play/a03q
 
 #EXTINF:-1 tvg-id="sony.yay.in" tvg-name="Sony YAY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png" group-title="Kids",Sony YAY
 https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
+
+#EXTINF:-1 tvg-id="animax.in" tvg-name="Animax" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids",Animax
+YOUR_STREAM_URL_HERE
 
 #EXTINF:-1 tvg-id="discovery.hd.world.in" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
 http://103.157.248.140:8000/play/a017/index.m3u8
@@ -147,6 +168,18 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="music.india.in" tvg-name="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
+#EXTINF:-1 tvg-id="raj.music.telugu.in" tvg-name="Raj Music Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Music",Raj Music Telugu
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ptc.chak.de.in" tvg-name="PTC Chak De" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Punjabi",PTC Chak De
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ptc.music.in" tvg-name="PTC Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_News.png" group-title="News",PTC Music
+YOUR_STREAM_URL_HERE
+
+#EXTINF:-1 tvg-id="ptc.punjabi.gold.in" tvg-name="PTC Punjabi Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Punjabi",PTC Punjabi Gold
+YOUR_STREAM_URL_HERE
+
 #EXTINF:-1 tvg-id="al.jazeera.in" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="News International",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
@@ -158,6 +191,12 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/st
 
 #EXTINF:-1 tvg-id="france.24.in" tvg-name="France 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="News International",France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1 tvg-id="channel.news.asia.in" tvg-name="Channel News Asia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News International",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="euronews.in" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="News International",Euronews
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk.world.japan.in" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News International",NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
