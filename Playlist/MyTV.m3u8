@@ -173,7 +173,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 
 
 ----Movies----
-#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
+#EXTINF:-1 tvg-id="MNXHD.in" tvg-name="MNX HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
@@ -184,7 +184,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
 #EXTINF:-1 tvg-id="SONYPIXHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
 -https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8-
-#EXTINF:-1 tvg-id="SONYMAXHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
+#EXTINF:-1 tvg-id="SonyMaxHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 -https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8-
 
@@ -225,9 +225,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2TeluguHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
 http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
-#EXTINF:-1 tvg-name="ZeeCafeHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=360x270" group-title="Sports", Unite8 Sports 1
+#EXTINF:-1 tvg-id="ZeeCafeHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=360x270" group-title="Sports", Unite8 Sports 1
 http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8
-#EXTINF:-1 tvg-name="AndFlixHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=360x270" group-title="Sports", Unite8 Sports 2
+#EXTINF:-1 tvg-id="AndFlixHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=360x270" group-title="Sports", Unite8 Sports 2
 http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 
 ---Sports International---
