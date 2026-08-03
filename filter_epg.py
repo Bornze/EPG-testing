@@ -10,7 +10,7 @@ OUTPUT_GZ = "filtered_epg.xml.gz"
 # ==============================
 CHANNELS_TEXT = """
 # ===== Telugu Entertainment =====
-zee.telugu.hd.in
+zee.telugu.in
 etv.hd.in
 star.maa.hd.in
 gemini.tv.hd.in
@@ -25,9 +25,9 @@ star.maa.gold.in
 etv.andhra.pradesh.in
 sakshi.tv.in
 tv9.telugu.in
-ntv.telugu.in
+NTV.Telugu.in
 abn.andhra.jyothi.in
-tv5.news.in
+tv.5.news.in
 v6.news.in
 10.tv.in
 
@@ -36,6 +36,8 @@ colors.hd.in
 set.hd.in
 sony.sab.hd.in
 colors.infinity.hd.in
+PTC.Punjabi.in
+AXN.id
 
 # ===== Movies =====
 sony.pix.hd.in
@@ -53,14 +55,21 @@ star.sports.1.hd.in
 star.sports.2.hd.in
 star.sports.select.1.hd.in
 star.sports.select.2.hd.in
+Star.Sports.2.Telugu.in
+Star.Sports.1.Telugu.in
+Zee.Cafe.HD.in
+AndFlix.HD.in
+And.Flix.in
 
 # ===== Kids =====
 cartoon.network.in
+Cartoon.Network.HD+.in
 nick.hd+.in
 pogo.in
 disney.channel.in
 disney.junior.in
 sony.yay.in
+Animax.in
 
 # ===== Infotainment / Lifestyle =====
 discovery.hd.world.in
@@ -73,6 +82,11 @@ gemini.music.hd.in
 star.maa.music.in
 zoom.in
 music.india.in
+Raj.Music.Telugu.in
+PTC.Chak.De.in
+PTC.Music.in
+PTC.Punjabi.Gold.in
+Sangeet.Bangla.in
 
 # ===== News International =====
 al.jazeera.in
@@ -80,6 +94,8 @@ dw.in
 wion.in
 france.24.in
 nhk.world.japan.in
+Euro.News.in
+Channel.News.Asia.International.in
 """
 
 # ==============================
