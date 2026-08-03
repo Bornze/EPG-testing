@@ -9,16 +9,6 @@ OUTPUT_GZ = "filtered_epg.xml.gz"
 # CHANNEL LIST (Indian + International)
 # ==============================
 CHANNELS_TEXT = """
-# ===== Hindi Entertainment =====
-colors.hd.in
-set.hd.in
-sony.sab.hd.in
-colors.infinity.hd.in
-star.plus.hd.in
-zee.tv.hd.in
-and.tv.hd.in
-star.bharat.hd.in
-
 # ===== Telugu Entertainment =====
 zee.telugu.hd.in
 etv.hd.in
@@ -41,6 +31,12 @@ tv5.news.in
 v6.news.in
 10.tv.in
 
+# ===== Entertainment =====
+colors.hd.in
+set.hd.in
+sony.sab.hd.in
+colors.infinity.hd.in
+
 # ===== Movies =====
 sony.pix.hd.in
 sony.max.hd.in
@@ -48,8 +44,6 @@ movies.now.hd.in
 mnx.hd.in
 star.movies.hd.in
 star.movies.select.hd.in
-zee.cinema.hd.in
-star.gold.hd.in
 
 # ===== Sports =====
 sony.sports.ten.1.hd.in
@@ -59,51 +53,33 @@ star.sports.1.hd.in
 star.sports.2.hd.in
 star.sports.select.1.hd.in
 star.sports.select.2.hd.in
-star.sports.1.telugu.in
-star.sports.2.telugu.in
 
 # ===== Kids =====
 cartoon.network.in
 nick.hd+.in
-nick.in
-nick.jr.in
 pogo.in
 disney.channel.in
 disney.junior.in
 sony.yay.in
-sonic.nickelodeon.in
 
 # ===== Infotainment / Lifestyle =====
 discovery.hd.world.in
 history.tv18.hd.in
 tlc.hd.in
 travelxp.hd.in
-national.geographic.hd.in
-nat.geo.wild.hd.in
 
 # ===== Music =====
 gemini.music.hd.in
 star.maa.music.in
 zoom.in
 music.india.in
-mtv.hd.in
 
-# ===== International News =====
+# ===== News International =====
 al.jazeera.in
 dw.in
-channel.news.asia.in
 wion.in
 france.24.in
 nhk.world.japan.in
-bbc.world.news.in
-cnn.international.in
-euronews.in
-
-# ===== International / Other =====
-axn.in
-trace.urban.in
-stingray.in
-abc.australia.in
 """
 
 # ==============================
