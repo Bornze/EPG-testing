@@ -101,14 +101,14 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 
 ----Entertainment----
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
+#EXTINF:-1 tvg-id="ColorsHD.in" tvg-name="Colors HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
-#EXTINF:-1 tvg-id="SETHD.in" tvg-name="SET HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
+#EXTINF:-1 tvg-id="SET.in" tvg-name="SET HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
 #EXTINF:-1 tvg-id="SONYSAB.in" tvg-name="SONY SAB HD.in" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment", Sony SAB HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8
 
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
+#EXTINF:-1 tvg-id="ColorsInfinityHD.in" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Colors Infinity HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
@@ -142,7 +142,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="DiscoveryHDEnglish.in" tvg-name="Discovery HD World.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" tvg-type="Infotainment" group-title="Infotainment", Discovery HD World
 http://103.157.248.140:8000/play/a017/index.m3u8
 
-#EXTINF:-1 tvg-id="HistoryTV18Telugu.in" tvg-name="History TV18 HD Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
+#EXTINF:-1 tvg-id="HistoryTV18HD.in" tvg-name="History TV18 HD Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
 
 ----Lifestyle----
@@ -164,7 +164,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="WION.in" tvg-logo="https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg" group-title="News", WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
-#EXTINF:-1tvg-id="Euronews.uk"  group-title="News", Euronews
+#EXTINF:-1tvg-id="Euronews.in"  group-title="News", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ts976" tvg-name="NHK World Japan.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
