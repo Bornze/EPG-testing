@@ -1,4 +1,4 @@
-name: Update Filtered EPG
+name: Update Filtered EPG + Playlist
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-epg:
+  update:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     permissions:
@@ -32,23 +32,23 @@ jobs:
           curl -L --fail -A "Mozilla/5.0" \
             -o source_epg.xml.gz \
             "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-
           ls -lh source_epg.xml.gz
-          file source_epg.xml.gz
 
-      - name: Run Filter Script
-        run: python filter_epg.py
+      - name: Run Filter + Playlist Generator
+        run: |
+          python filter_epg.py
+          python generate_playlist.py
 
       - name: Commit and Push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-          git add filtered_epg.xml.gz || true
+          git add filtered_epg.xml.gz playlist.m3u || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-update filtered EPG - $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Auto-update EPG + Playlist - $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
