@@ -27,7 +27,7 @@ CHANNELS = [
     ("tv9.telugu.in", "TV9 Telugu", "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png", "News - Telugu", "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8"),
     ("ntv.telugu.in", "NTV", "https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png", "News - Telugu", "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8"),
     ("abn.andhra.jyothi.in", "ABN Andhra Jyothi", "https://static.andhrajyothy.com/assets/images/logo.png", "News - Telugu", "https://cdn-1.pishow.tv/live/407/master.m3u8"),
-    ("tv5.news.in", "TV5 News", "https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png", "News - Telugu", "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8"),
+    ("tv.5.news.in", "TV5 News", "https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png", "News - Telugu", "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8"),
     ("v6.news.in", "V6 News", "https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png", "News - Telugu", "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8"),
     ("10.tv.in", "10TV", "https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png", "News - Telugu", "https://cdn-1.pishow.tv/live/391/master.m3u8"),
 
@@ -36,6 +36,8 @@ CHANNELS = [
     ("set.hd.in", "SET HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png", "Entertainment", "http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8"),
     ("sony.sab.hd.in", "Sony SAB HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png", "Entertainment", "http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8"),
     ("colors.infinity.hd.in", "Colors Infinity HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", "Entertainment", "http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8"),
+    ("ptc.punjabi.in", "PTC Punjabi", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png", "Punjabi", "YOUR_STREAM_URL_HERE"),
+    ("axn.id", "AXN", "https://jiotvimages.cdn.jio.com/dare_images/images/AXN_HD.png", "Entertainment", "YOUR_STREAM_URL_HERE"),
 
     # ========== Movies ==========
     ("sony.pix.hd.in", "Sony PIX HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", "Movies", "https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8"),
@@ -53,6 +55,10 @@ CHANNELS = [
     ("star.sports.2.hd.in", "Star Sports 2 HD", "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png", "Sports", "http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8"),
     ("star.sports.select.1.hd.in", "Star Sports Select 1 HD", "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png", "Sports", "https://tvsen7.aynascope.net/sspts1/index.m3u8"),
     ("star.sports.select.2.hd.in", "Star Sports Select 2 HD", "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_2.png", "Sports", "http://103.157.248.140:8000/play/a00p/index.m3u8"),
+    ("star.sports.1.telugu.in", "Star Sports 1 Telugu", "https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png", "Sports", "http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8"),
+    ("star.sports.2.telugu.in", "Star Sports 2 Telugu", "https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png", "Sports", "YOUR_STREAM_URL_HERE"),
+    ("zee.cafe.hd.in", "United Sports 1", "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/United_Sports.png/200px-United_Sports1.png", "Sports", "YOUR_STREAM_URL_HERE"),
+    ("andflix.in", "United Sports 2", "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/United_Sports.png/200px-United_Sports2.png", "Sports", "YOUR_STREAM_URL_HERE"),
 
     # ========== Kids ==========
     ("cartoon.network.in", "Cartoon Network", "https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network.png", "Kids", "http://103.182.170.32:8888/play/a04o"),
@@ -61,7 +67,8 @@ CHANNELS = [
     ("disney.channel.in", "Disney Channel", "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png", "Kids", "http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8"),
     ("disney.junior.in", "Disney Junior", "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png", "Kids", "http://103.182.170.32:8888/play/a03q"),
     ("sony.yay.in", "Sony YAY", "https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png", "Kids", "https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8"),
-
+    ("animax.in", "Animax", "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png", "Kids", "YOUR_STREAM_URL_HERE"),
+  
     # ========== Infotainment ==========
     ("discovery.hd.world.in", "Discovery HD World", "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png", "Infotainment", "http://103.157.248.140:8000/play/a017/index.m3u8"),
     ("history.tv18.hd.in", "History TV18 HD", "https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png", "Infotainment", "http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8"),
@@ -73,12 +80,18 @@ CHANNELS = [
     ("star.maa.music.in", "Star Maa Music", "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png", "Music", "http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8"),
     ("zoom.in", "ZOOM", "https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png", "Music", "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8"),
     ("music.india.in", "Music India", "https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png", "Music", "https://cdn-2.pishow.tv/live/226/master.m3u8"),
+    ("raj.music.telugu.in", "Raj Music Telugu", "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png", "Music", "YOUR_STREAM_URL_HERE"),
+    ("ptc.chak.de.in", "PTC Chak De", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png", "Punjabi", "YOUR_STREAM_URL_HERE"),
+    ("ptc.music.in", "PTC Music", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_News.png", "News", "YOUR_STREAM_URL_HERE"),
+    ("ptc.punjabi.gold.in", "PTC Punjabi Gold", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png", "Punjabi", "YOUR_STREAM_URL_HERE"),
 
     # ========== News International ==========
     ("al.jazeera.in", "Al Jazeera", "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png", "News International", "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"),
     ("dw.in", "DW", "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png", "News International", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"),
     ("wion.in", "WION", "https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg", "News International", "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8"),
     ("france.24.in", "France 24", "https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png", "News International", "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"),
+    ("channel.news.asia.in", "Channel News Asia", "https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png", "News International", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"),
+    ("euronews.in", "Euronews", "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png", "News International", "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"),
     ("nhk.world.japan.in", "NHK World Japan", "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png", "News International", "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"),
 ]
 
