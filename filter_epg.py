@@ -14,7 +14,7 @@ zee.telugu.in
 etv.hd.in
 star.maa.hd.in
 gemini.tv.hd.in
-etv.plus.hd.in
+etv.plus.in
 gemini.comedy.in
 zee.cinemalu.hd.in
 star.maa.movies.hd.in
@@ -82,7 +82,7 @@ travelxp.hd.in
 # ===== Music =====
 gemini.music.hd.in
 star.maa.music.in
-E24.in
+E.24.in
 zoom.in
 music.india.in
 Raj.Music.Telugu.in
