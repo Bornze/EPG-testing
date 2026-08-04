@@ -35,6 +35,7 @@ v6.news.in
 colors.hd.in
 set.hd.in
 sony.sab.hd.in
+sony.sab.in
 colors.infinity.hd.in
 PTC.Punjabi.in
 AXN.id
@@ -43,6 +44,7 @@ AXN.id
 sony.pix.hd.in
 sony.max.hd.in
 movies.now.hd.in
+movies.now.in
 mnx.hd.in
 star.movies.hd.in
 star.movies.select.hd.in
@@ -88,6 +90,8 @@ PTC.Chak.De.in
 PTC.Music.in
 PTC.Punjabi.Gold.in
 Sangeet.Bangla.in
+MTV.in
+MTV.HD.in
 
 # ===== News International =====
 al.jazeera.in
