@@ -87,7 +87,9 @@ CHANNELS = [
     ("ptc.chak.de.in", "PTC Chak De", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png", "Music", "Yhttps://cdn-1.pishow.tv/live/449/master.m3u8"),
     ("ptc.music.in", "PTC Music", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png", "Music", "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8"),
     ("ptc.punjabi.gold.in", "PTC Punjabi Gold", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png", "Music", "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8"),
-
+    ("SangeetBangla.in", "SangeetBangla", "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", "Music", "https://cdn-4.pishow.tv/live/1143/master.m3u8"),
+    ("MTV.in", "MTV India", "https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png", "Music", "http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8"),
+    
     # ========== News International ==========
     ("al.jazeera.in", "Al Jazeera", "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png", "News International", "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"),
     ("dw.in", "DW", "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png", "News International", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"),
