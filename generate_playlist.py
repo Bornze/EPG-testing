@@ -94,8 +94,8 @@ CHANNELS = [
     ("dw.in", "DW", "https://jiotvimages.cdn.jio.com/dare_images/images/dw.png", "News International", "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"),
     ("wion.in", "WION", "https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg", "News International", "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8"),
     ("france.24.in", "France 24", "https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png", "News International", "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"),
-    ("channel.news.asia.in", "Channel News Asia", "https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png", "News International", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"),
-    ("euronews.in", "Euronews", "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png", "News International", "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"),
+    ("Channel.News.Asia.International.in", "Channel News Asia", "https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png", "News International", "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"),
+    ("euro.news.in", "Euronews", "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png", "News International", "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"),
     ("nhk.world.japan.in", "NHK World Japan", "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png", "News International", "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"),
 ]
 
