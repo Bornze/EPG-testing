@@ -64,7 +64,7 @@ And.Flix.in
 # ===== Kids =====
 cartoon.network.in
 Cartoon.Network.HD+.in
-nick.hd+.in
+nick.in
 pogo.in
 disney.channel.in
 disney.junior.in
@@ -80,6 +80,7 @@ travelxp.hd.in
 # ===== Music =====
 gemini.music.hd.in
 star.maa.music.in
+E24.in
 zoom.in
 music.india.in
 Raj.Music.Telugu.in
