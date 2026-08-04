@@ -76,10 +76,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412
 
 #EXTINF:-1 tvg-id="sony.pix.hd.in" tvg-name="Sony PIX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony PIX HD
-https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
 
 #EXTINF:-1 tvg-id="sony.max.hd.in" tvg-name="Sony MAX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony MAX HD
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 
 #EXTINF:-1 tvg-id="movies.now.hd.in" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="Movies",Movies Now HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
