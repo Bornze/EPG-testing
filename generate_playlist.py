@@ -14,13 +14,13 @@ CHANNELS = [
     ("etv.hd.in", "ETV HD", "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png", "Entertainment - Telugu", "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8"),
     ("star.maa.hd.in", "Star Maa HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8"),
     ("gemini.tv.hd.in", "Gemini TV HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8"),
-    ("etv.plus.hd.in", "ETV Plus HD", "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png", "Entertainment - Telugu", "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8"),
+    ("etv.plus.in", "ETV Plus HD", "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png", "Entertainment - Telugu", "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264_cloud_in/index.m3u8"),
     ("gemini.comedy.in", "Gemini Comedy", "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0573/master.m3u8"),
     ("zee.cinemalu.hd.in", "Zee Cinemalu HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0544/master.m3u8"),
     ("star.maa.movies.hd.in", "Star Maa Movies HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies_HD.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0479/master.m3u8"),
     ("gemini.movies.hd.in", "Gemini Movies HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png", "Entertainment - Telugu", "https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8"),
     ("star.maa.gold.in", "Star Maa Gold", "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8"),
-    ("DDSaptagiri.in", "DD Saptagiri.in", "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png", "Entertainment - Telugu", "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"),
+    ("DD.Saptagiri.in", "DD Saptagiri.in", "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png", "Entertainment - Telugu", "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"),
 
     # ========== Telugu News ==========
     ("etv.andhra.pradesh.in", "ETV Andhra Pradesh", "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png", "News - Telugu", "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8"),
@@ -79,15 +79,14 @@ CHANNELS = [
     # ========== Music ==========
     ("gemini.music.hd.in", "Gemini Music HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png", "Music", "https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8"),
     ("star.maa.music.in", "Star Maa Music", "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png", "Music", "http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8"),
-    ("E24.in", "E24", "https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png", "Music", "https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"),
-    ("MusicIndia.in", "MusicIndia", "https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png", "Music", "https://cdn-2.pishow.tv/live/226/master.m3u8"),
+    ("E.24.in", "E24", "https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png", "Music", "https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]"),
     ("zoom.in", "ZOOM", "https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png", "Music", "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8"),
     ("music.india.in", "Music India", "https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png", "Music", "https://cdn-2.pishow.tv/live/226/master.m3u8"),
     ("raj.music.telugu.in", "Raj Music Telugu", "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png", "Music", "https://cdn-1.pishow.tv/live/1213/master.m3u8"),
     ("ptc.chak.de.in", "PTC Chak De", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png", "Music", "Yhttps://cdn-1.pishow.tv/live/449/master.m3u8"),
     ("ptc.music.in", "PTC Music", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png", "Music", "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8"),
     ("ptc.punjabi.gold.in", "PTC Punjabi Gold", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png", "Music", "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8"),
-    ("SangeetBangla.in", "SangeetBangla", "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", "Music", "https://cdn-4.pishow.tv/live/1143/master.m3u8"),
+    ("Sangeet.Bangla.in", "SangeetBangla", "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", "Music", "https://cdn-4.pishow.tv/live/1143/master.m3u8"),
     ("MTV.in", "MTV India", "https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png", "Music", "http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8"),
     
     # ========== News International ==========
