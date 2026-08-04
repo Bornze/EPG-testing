@@ -204,10 +204,10 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/st
 #EXTINF:-1 tvg-id="france.24.in" tvg-name="France 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="News International",France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 
-#EXTINF:-1 tvg-id="channel.news.asia.in" tvg-name="Channel News Asia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News International",Channel News Asia
+#EXTINF:-1 tvg-id="Channel.News.Asia.International.in" tvg-name="Channel News Asia" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="News International",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="euronews.in" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="News International",Euronews
+#EXTINF:-1 tvg-id="euro.news.in" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Euronews_2016_logo.svg/512px-Euronews_2016_logo.svg.png" group-title="News International",Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk.world.japan.in" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="News International",NHK World Japan
