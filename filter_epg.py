@@ -20,6 +20,7 @@ zee.cinemalu.hd.in
 star.maa.movies.hd.in
 gemini.movies.hd.in
 star.maa.gold.in
+DD.Saptagiri.in
 
 # ===== Telugu News =====
 etv.andhra.pradesh.in
