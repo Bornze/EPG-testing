@@ -42,7 +42,7 @@ CHANNELS = [
 
     # ========== Movies ==========
     ("sony.pix.hd.in", "Sony PIX HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", "Movies", "http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8"),
-    ("sony.max.hd.in", "Sony MAX HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png", "Movies", "https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8"),
+    ("sony.max.hd.in", "Sony MAX HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png", "Movies", "http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8"),
     ("movies.now.hd.in", "Movies Now HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png", "Movies", "http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8"),
     ("mnx.hd.in", "MNX HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png", "Movies", "http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8"),
     ("star.movies.hd.in", "Star Movies HD", "https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png", "Movies", "http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8"),
