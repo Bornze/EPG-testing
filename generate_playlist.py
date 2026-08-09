@@ -10,7 +10,7 @@ EPG_URL = "https://raw.githubusercontent.com/Bornze/EPG-testing/main/filtered_ep
 CHANNELS = [
 
     # ========== Telugu Entertainment ==========
-    ("zee.telugu.hd.in", "Zee Telugu HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8"),
+    ("zee.telugu.hd.in", "Zee Telugu HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", "Entertainment - Telugu", "https://d1rc86nwwc9fag.cloudfront.net/260723/zeetelugu_2500/chunks.m3u8"),
     ("etv.hd.in", "ETV HD", "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png", "Entertainment - Telugu", "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8"),
     ("star.maa.hd.in", "Star Maa HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0478/master.m3u8"),
     ("gemini.tv.hd.in", "Gemini TV HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png", "Entertainment - Telugu", "http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8"),
@@ -87,7 +87,7 @@ CHANNELS = [
     ("ptc.music.in", "PTC Music", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png", "Music", "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8"),
     ("ptc.punjabi.gold.in", "PTC Punjabi Gold", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png", "Music", "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8"),
     ("Sangeet.Bangla.in", "SangeetBangla", "https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", "Music", "https://cdn-4.pishow.tv/live/1143/master.m3u8"),
-    ("MTV.in", "MTV India", "https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png", "Music", "http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8"),
+    ("MTV.in", "MTV India", "https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png", "Music", "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8"),
     
     # ========== News International ==========
     ("al.jazeera.in", "Al Jazeera", "https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png", "News International", "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"),
