@@ -2,7 +2,7 @@
 
 ----Telugu Entertainment----
 #EXTINF:-1 tvg-id="ZEETELUGU.in" tvg-name="Zee Telugu HD.in" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0537/master.m3u8
+https://d1rc86nwwc9fag.cloudfront.net/260723/zeetelugu_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="ETV.in" tvg-name="ETVHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", ETV HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="STARMAA.in" tvg-name="Star Maa HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Entertainment - Telugu", Star Maa HD
