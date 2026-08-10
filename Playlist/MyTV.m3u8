@@ -100,7 +100,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 ----Entertainment----
 #EXTINF:-1 tvg-id="ColorsHD.in" tvg-name="Colors HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0431/master.m3u8
+http://59.103.38.46:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="SET.in" tvg-name="SET HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0379/master.m3u8
 #EXTINF:-1 tvg-id="SONYSAB.in" tvg-name="SONY SAB HD.in" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment", Sony SAB HD
@@ -224,7 +224,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2TeluguHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
 http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCafeHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=360x270" group-title="Sports", Unite8 Sports 1
-http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8
+http://59.103.38.46:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="AndFlixHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=360x270" group-title="Sports", Unite8 Sports 2
 http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 
