@@ -38,7 +38,7 @@ CHANNELS = [
     ("sony.sab.hd.in", "Sony SAB HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png", "Entertainment", "http://iptvcasomsapi.jprdigital.in/x-media/C0375/master.m3u8"),
     ("colors.infinity.hd.in", "Colors Infinity HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", "Entertainment", "http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8"),
     ("ptc.punjabi.in", "PTC Punjabi", "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png", "Entertainment", "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8"),
-    ("axn.id", "AXN", "https://jiotvimages.cdn.jio.com/dare_images/images/AXN_HD.png", "Entertainment", "http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/13412"),
+    ("axn.id", "AXN", "https://jiotvimages.cdn.jio.com/dare_images/images/AXN_HD.png", "Entertainment", "https://streams.comclark.com/pknhd/axn/playlist.m3u8"),
 
     # ========== Movies ==========
     ("sony.pix.hd.in", "Sony PIX HD", "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", "Movies", "http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8"),
