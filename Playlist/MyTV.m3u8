@@ -295,11 +295,11 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3073
 #EXTINF:-1 tvg-id="CBS Sports Network HD.us"  group-title="Sports", CBS Sports Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
 #EXTINF:-1 tvg-id="NFLNetworkHD.us" group-title="Sports",NFL Network
-http://206.212.244.63/196/index.m3u8
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NHL Network HD.us" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3672
+https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB Network HD.us" tvg-logo="https://www.mlbstatic.com/team-logos/league-on-light/1.svg" group-title="Sports", MLB Network
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3746
+https://apollo-eks.production-public.tubi.io/live/mlb2-RR0NCJ.m3u8
 #EXTINF:-1 tvg-id="NBA TV HD.us" group-title="Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-ID="beIN Sport USA HD.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA
