@@ -309,9 +309,9 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21589
 #EXTINF:-1 tvg-id="ESPN2 HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sports",ESPN 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3637
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="Sports",FS1
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_KO@3x.png?downsize=80%3A*" group-title="Sports",FS2
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-ID="Fox Sports Racing HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="Sports",FOX Sports Racing
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3053
 #EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/330px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX Soccer Plus
