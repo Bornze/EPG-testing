@@ -23,7 +23,7 @@ https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaGold.in" tvg-name="Star Maa Gold.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
 #EXTINF:-1 tvg-id="StudioOne+.in" tvg-name="Studio One Plus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Studio_One.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Studio ONE+ 
-https://cdn-1.pishow.tv/live/276/master.m3u8
+https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/VVA45upeYSNT1B4VAqKuYm8zeehev7L2H3klN2kOiQT8bDg3y2H_Jn9dFgRtThr0iKI2hvR_Ww=s160-c-k-c0x00ffffff-no-rj" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Niharika Movies
@@ -41,13 +41,13 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", NTV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyothy.in" tvg-name="ABN Andhra Jyothy.in" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", ABN Andhra Jyothi
-https://cdn-1.pishow.tv/live/407/master.m3u8
+https://cdn.pishow.tv/ott/live/407/master.m3u8
 #EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV 5 News.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", TV 5 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 #EXTINF:-1 tvg-id="V6Telugu.in" tvg-name="V6 Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", V6 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="News - Telugu", 10TV
-https://cdn-1.pishow.tv/live/391/master.m3u8
+https://cdn.pishow.tv/ott/live/391/master.m3u8
 
 ----Music----
 #EXTINF:-1 tvg-id="GeminiMusicHD.in" tvg-name="Gemini Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
@@ -56,14 +56,14 @@ https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
 #EXTINF:-1 tvg-id="StarMaaMusic.in" tvg-name="Star Maa Music.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png" tvg-language="Telugu" group-title="Music", Star Maa Music
 http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
-https://cdn-1.pishow.tv/live/1213/master.m3u8
+https://cdn.pishow.tv/ott/live/213/master.m3u8
 
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", E 24
 https://amg13643-amg13643c2-amgplt0173.playout.now3.amagi.tv/playlist/amg13643-amg13643c2-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="ZOOM.in" tvg-name="ZOOM.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
+https://cdn.pishow.tv/ott/live/226/master.m3u8
 
 #EXTINF:-1 tvg-name="Hindi Hits HD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Channel_V_India_2016.jpg/revision/latest?cb=20160808103229" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -71,8 +71,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PTCChakDe.in" tvg-name="PTC Chak De.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Chak_De.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Chak De
-https://cdn-1.pishow.tv/live/449/master.m3u8
-#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Music
+https://cdn.pishow.tv/ott/live/449/master.m3u8
+#EXTINF:-1F:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", PTC Punjabi Gold 
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
@@ -92,8 +92,8 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 
 
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music", Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-id="MTVIndia.ca" tvg-name="MTV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+#EXTINF:-1F:-1 tvg-id="MTVIndia.ca" tvg-name="MTV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0436/master.m3u8
 
 
