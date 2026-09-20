@@ -122,10 +122,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 http://59.103.38.46:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
-https://cloudplay-sonyliv.pages.dev/set.m3u8
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-language="Hindi" group-title="Entertainment", Sony SAB HD
-https://cloudplay-sonyliv.pages.dev/sab.m3u8
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
 
 #EXTINF:-1 tvg-id="183" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" group-title="Entertainment", Colors Infinity HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0437/master.m3u8
