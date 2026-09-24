@@ -72,6 +72,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
 #EXTINF:-1 tvg-id="ts1466" tvg-name="Raj Musix Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
 
+#EXTINF:-1 tvg-id="ts1466" tvg-name="Masti Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Mastii Music
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+
 #EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" group-title="Music", Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 
@@ -203,7 +206,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 
 #EXTINF:-1 tvg-id="ts376" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="ts353" tvg-name="Star Movies HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
@@ -294,7 +297,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #EXTINF:-1 tvg-id="SkySportsF1.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=5158758531313507117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports F1
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2191
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8350774144114096117&width=600&height=100&rule=SkySportsLight" group-title="Sports", Sky Sports Mix
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2180
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
@@ -348,7 +351,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3073
 #EXTINF:-1 tvg-id="CBS Sports Network HD.us"  group-title="Sports", CBS Sports Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
 #EXTINF:-1 tvg-id="NFLNetworkHD.us" group-title="Sports",NFL Network
-http://206.212.244.63/196/index.m3u8
+https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1 tvg-id="NHL Network HD.us" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3672
 #EXTINF:-1 tvg-id="MLB Network HD.us" tvg-logo="https://www.mlbstatic.com/team-logos/league-on-light/1.svg" group-title="Sports", MLB Network
