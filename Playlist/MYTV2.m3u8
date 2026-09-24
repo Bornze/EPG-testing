@@ -271,8 +271,7 @@ http://103.157.248.140:8000/play/a00p/index.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8
 
 #EXTINF:-1 tvg-id="ts456" tvg-name="Star Sports 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_HD_2.png" group-title="Sports", Star Sports 2 
-http://iptvcasomsapi.jprdigital.in/x-media/C0442/master.m3u8
-
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Telugu.in" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-sports-1-telugu.png" group-title="Sports",Star Sports 1 Telugu
 http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
