@@ -11,7 +11,7 @@ http://27.116.22.53:5001/live/629.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="897" tvg-name="Gemini TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Gemini TV HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0568/master.m3u8
+http://27.116.22.53:5001/live/897.m3u8
 
 #EXTINF:-1 tvg-id="692" tvg-name="ETV Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", ETV Plus HD
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -26,7 +26,7 @@ http://27.116.22.53:5001/live/413.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="899" tvg-name="Gemini Movies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Gemini Movies HD
-https://mumbai-edge.smartplaytv.in/GeminiMoviesHD/index.m3u8
+http://27.116.22.53:5001/live/899.m3u8
 
 #EXTINF:-1 tvg-id="816" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://iptvcasomsapi.jprdigital.in/x-media/C0480/master.m3u8
@@ -65,7 +65,7 @@ http://27.116.22.53:5001/live/832.m3u8
 
 ----Music----
 #EXTINF:-1 tvg-id="898" tvg-name="Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" group-title="Music", Gemini Music HD
-https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
+http://27.116.22.53:5001/live/898.m3u8
 
 #EXTINF:-1 tvg-id="817" tvg-name="Star Maa Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png" tvg-language="Telugu" group-title="Music", Star Maa Music
 http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
