@@ -263,6 +263,9 @@ https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Sony TEN 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
 https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="Sports", Eurosport HD
+http://27.116.22.53:5001/live/875.m3u8
+
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
 https://tvsen7.aynascope.net/sspts1/index.m3u8
 
