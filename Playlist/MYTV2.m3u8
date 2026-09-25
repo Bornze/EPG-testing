@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://avkb.short.gy/jioepg.xml.gz" x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Bornze/EPG-testing/main/filtered_epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Bornze/EPG-testing/main/filtered_epg.xml.gz"
+
 ----Telugu Entertainment----
 #EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-language="Telugu" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/zeetelugu_2500/chunks.m3u8
