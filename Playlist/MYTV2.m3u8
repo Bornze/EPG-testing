@@ -151,19 +151,19 @@ https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
 
 ----Kids----
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network" tvg-language="Telugu" group-title="Kids", Cartoon Network Telugu
-http://27.116.22.53:5001/live/816.m3u8
+http://27.116.22.53:5001/live/166.m3u8
 
 #EXTINF:-1 tvg-id="1080" tvg-name="Cartoon Network HD+ Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDTelugu.png" tvg-language="Telugu" group-title="Kids", Cartoon Network HD+ Telugu
 http://27.116.22.53:5001/live/1080.m3u8
 
 #EXTINF:-1 tvg-id="481" tvg-name="Nick" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" group-title="Kids", Nick Telugu
-http://27.116.22.53:5001/live/545.m3u8
+http://27.116.22.53:5001/live/543.m3u8
 
 #EXTINF:-1 tvg-id="482" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids", Nick Junior
 http://27.116.22.53:5001/live/544.m3u8
 
 #EXTINF:-1 tvg-id="872" tvg-name="Sony YAY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
+http://27.116.22.53:5001/live/874.m3u8
 
 #EXTINF:-1 tvg-id="483" tvg-name="Sonic.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" group-title="Kids", Sonic
 http://27.116.22.53:5001/live/815.m3u8
@@ -179,13 +179,13 @@ http://27.116.22.53:5001/live/559.m3u8
 
 ----Infotainment----
 #EXTINF:-1 tvg-id="146" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment", Discovery HD World
-http://27.116.22.53:5001/live/575.m3u8
+http://27.116.22.53:5001/live/576.m3u8
 
 #EXTINF:-1 tvg-id="3446" tvg-name="Discovery HD Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDTel.png" tvg-language="Telugu" group-title="Infotainment", Discovery HD Telugu
 http://27.116.22.53:5001/live/3446.m3u8
 
 #EXTINF:-1 tvg-id="147" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment", History TV18 HD
-http://27.116.22.53:5001/live/578.m3u8
+http://27.116.22.53:5001/live/577.m3u8
 
 ----Lifestyle----
 #EXTINF:-1 tvg-id="TLCHD.in" tvg-name="TLC HD" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
