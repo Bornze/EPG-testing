@@ -21,6 +21,7 @@ star.maa.movies.hd.in
 gemini.movies.hd.in
 star.maa.gold.in
 DD.Saptagiri.in
+studio.one.in
 
 # ===== Telugu News =====
 etv.andhra.pradesh.in
@@ -63,20 +64,90 @@ Star.Sports.1.Telugu.in
 Zee.Cafe.HD.in
 AndFlix.HD.in
 And.Flix.in
+FoxCricket.au
+FoxFooty.au
+FoxLeague.au
+FoxSports503.au
+FoxSports505.au
+FoxSports506.au
+FoxSportsMore.au
+SkySp.F1.HD.uk
+SkySp.ActionHD.uk
+SkySp.Cricket.uk
+Sky.Sports.NFL.uk
+SkySpMainEvHD.uk
+SkySp.Mix.HD.uk
+TNT.Sports.1.HD.uk
+TNT.Sports.2.HD.uk
+TNT.Sports.3.HD.uk
+TNT.Sports.4.HD.uk
+TNT.Sports.5.HD.uk
+Sky.Open+1.nz
+Sky.Open.nz
+Sky.Sport.1.nz
+Sky.Sport.2.nz
+Sky.Sport.3.nz
+Sky.Sport.4.nz
+Sky.Sport.5.nz
+Sky.Sport.6.nz
+Sky.Sport.7.nz
+Sky.Sport.8.nz
+Sky.Sport.9.nz
+Sky.Sport.Premier.League.nz
+Sky.Sport.Select.nz
+beIN.Sports.USA.HD.us2
+CBS.Sports.HQ.us2
+CBS.Sports.Network.HD.us2
+ESPN2.HD.us2
+ESPN8.The.Ocho.us2
+ESPN.Deportes.HD.us2
+ESPNEWS.HD.us2
+ESPN.HD.us2
+Fox.Soccer.Plus.HD.us2
+FS1.Fox.Sports.1.HD.us2
+FS1.HD.us2
+FS2.Fox.Sports.2.HD.us2
+FS2.HD.us2
+NFL.Network.HD.us2
+NFL.RedZone.HD.us2
+NBA.TV.HD.us2
+NHL.Network.HD.us2
+TSN.1.ca2
+TSN.2.ca2
+TSN.2.HD.ca2
+TSN.3.ca2
+TSN.3.HD.ca2
+TSN.4.ca2
+TSN.4.HD.ca2
+TSN.4K.ca2
+TSN.5.ca2
+TSN.5.HD.ca2
+TSN.HD.ca2
+Sportsnet.One.HD.ca2
+Sportsnet.West.HD.ca2
+Sportsnet.World.ca2
+Sportsnet.World.HD.ca2
+
+
 
 # ===== Kids =====
 cartoon.network.in
 Cartoon.Network.HD+.in
 nick.in
+Nick.Jr.in
+Nick.Junior.in
 pogo.in
 disney.channel.in
 disney.junior.in
+Sonic.Telugu.in
 sony.yay.in
 Animax.in
 
 # ===== Infotainment / Lifestyle =====
 discovery.hd.world.in
+Discovery.Telugu.in
 history.tv18.hd.in
+History.TV18.HD.Telugu.in
 tlc.hd.in
 travelxp.hd.in
 
@@ -92,6 +163,7 @@ PTC.Music.in
 PTC.Punjabi.Gold.in
 Sangeet.Bangla.in
 MTV.in
+Trace.Hits.uk
 MTV.HD.in
 
 # ===== News International =====
@@ -102,6 +174,30 @@ france.24.in
 nhk.world.japan.in
 Euro.News.in
 Channel.News.Asia.International.in
+
+# ===== Australia =====
+ABCNewsPerth.au
+ABC.Australia.in
+ABCEntertainsPerth.au
+ABCKidsPerth.au
+ABCFamilyPerth.au
+10BoldPerth.au
+10PeachPerth.au
+10Perth.au
+7flixPerth.au
+7matePerth.au
+7Perth.au
+7TWOPerth.au
+9GemPerth.au
+9GoPerth.au
+9LifePerth.au
+9Perth.au
+9RushPerth.au
+SBSPerth.au
+SBSVicelandPerth.au
+SBSWorldMoviesPerth.au
+
+
 """
 
 # ==============================
