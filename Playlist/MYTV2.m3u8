@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Bornze/EPG-testing/main/filtered_epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Bornze/EPG-testing/main/filtered_epg.xml.gz"
 
 ----Telugu Entertainment----
-#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-language="Telugu" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
+#EXTINF:-1 tvg-id="zee.telugu.hd.in"" tvg-name="Zee Telugu HD" tvg-language="Telugu" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/zeetelugu_2500/chunks.m3u8
 
-#EXTINF:-1 tvg-id="629" tvg-name="ETV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", ETV HD
+#EXTINF:-1 tvg-id="etv.hd.in"" tvg-name="ETV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", ETV HD
 http://27.116.22.53:5001/live/629.m3u8
 
 #EXTINF:-1 tvg-id="814" tvg-name="Star Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa HD
@@ -81,7 +81,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="819" tvg-name="TV9 Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" tvg-language="Telugu" group-title="News - Telugu", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="820" tvg-name="NTV Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-language="Telugu" group-title="News - Telugu", NTV
+#EXTINF:-1 tvg-id="ntv.telugu.in"" tvg-name="NTV Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png" tvg-language="Telugu" group-title="News - Telugu", NTV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="821" tvg-name="ABN Andhra Jyothi" tvg-logo="https://static.andhrajyothy.com/assets/images/logo.png" tvg-language="Telugu" group-title="News - Telugu", ABN Andhra Jyothi
@@ -93,7 +93,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="823" tvg-name="V6 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/V6_News.png" tvg-language="Telugu" group-title="News - Telugu", V6 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
 
-#EXTINF:-1 tvg-id="824" tvg-name="10TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" group-title="News - Telugu", 10TV
+#EXTINF:-1 tvg-id="10.tv.in" tvg-name="10TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" group-title="News - Telugu", 10TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 
 ----Music----
@@ -154,7 +154,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-naturescape/logo_20231219_222535_48.png" group-title="Music",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="TraceHits.uk" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
+#EXTINF:-1 tvg-id="Trace.Hits.uk" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Trace_UK_Logo.png/250px-Trace_UK_Logo.png" group-title="Music", Trace UK
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 
 #EXTINF:-1 tvg-id="MBC3.sa" tvg-logo="https://assets.mbcmood.com/channels/1780385818Logo-Circle.png" group-title="Music",MBC Mood (1080p)
@@ -167,7 +167,7 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music", Sangeet Bangla
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="MTVIndia.ca" tvg-name="MTV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
+#EXTINF:-1 tvg-id="MTV.HD.in" tvg-name="MTV HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
 http://27.116.22.53:5001/live/1145.m3u8
 
 ----Entertainment----
@@ -251,7 +251,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="ts615" tvg-name="WION" tvg-logo="https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg" group-title="News", WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 
-#EXTINF:-1 tvg-id="tsEuronews" tvg-name="Euronews" group-title="News", Euronews
+#EXTINF:-1 tvg-id="Euro.News.in" tvg-name="Euronews" group-title="News", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts644" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
@@ -264,7 +264,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="ts380" tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 
-#EXTINF:-1 tvg-id="ts376" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
+#EXTINF:-1 tvg-id="movies.now.hd.in" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="ts353" tvg-name="Star Movies HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
@@ -314,13 +314,13 @@ http://44.32.200.142:5004/auto/v34
 
 
 ----Sports India----
-#EXTINF:-1 tvg-id="162" tvg-name="Sony TEN 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
+#EXTINF:-1 tvg-id="sony.sports.ten.1.hd.in" tvg-name="Sony TEN 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
 https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
 
-#EXTINF:-1 tvg-id="891" tvg-name="Sony TEN 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
+#EXTINF:-1 tvg-id="sony.sports.ten.2.hd.in" tvg-name="Sony TEN 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
 https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
 
-#EXTINF:-1 tvg-id="155" tvg-name="Sony TEN 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
+#EXTINF:-1 tvg-id="sony.sports.ten.5.hd.in" tvg-name="Sony TEN 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
 https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="Sports", Eurosport HD
@@ -352,7 +352,7 @@ http://59.103.38.46:8000/play/a126/index.m3u8
 
 -------- Sports International -----------
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNT Sports 2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
