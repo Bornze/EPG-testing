@@ -31,7 +31,7 @@ http://27.116.22.53:5001/live/899.m3u8
 #EXTINF:-1 tvg-id="816" tvg-name="Star Maa Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-gold-white.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa Gold
 http://27.116.22.53:5001/live/1137.m3u8
 
-#EXTINF:-1 tvg-id="StudioOne+.in" tvg-name="Studio One Plus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Studio_One.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Studio ONE+ 
+#EXTINF:-1 tvg-id="Studio.One.in" tvg-name="Studio One Plus.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Studio_One.png" tvg-language="Telugu" tvg-type="Movies" group-title="Entertainment - Telugu", Studio ONE+ 
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
@@ -289,25 +289,25 @@ https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 ----Australia----
-#EXTINF:-1 tvg-id="ABCNewsWA.au" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVh0PPgoPEteUwtp8JCFXHOTixamtA1aiuuw&s" tvg-type="News" group-title="News", ABC News
+#EXTINF:-1 tvg-id="ABCNewsperth.au" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVh0PPgoPEteUwtp8JCFXHOTixamtA1aiuuw&s" tvg-type="News" group-title="News", ABC News
 https://c.mjh.nz/abc-news.m3u8
-#EXTINF:-1 tvg-id="ABCTVWA.au" tvg-language="English" tvg-logo="https://i.pinimg.com/736x/5a/66/65/5a666508bc5851a6a9c1151e7eefff3d.jpg" tvg-type="News" group-title="Entertainment", ABC TV
+#EXTINF:-1 tvg-id="ABCTVPerth.au" tvg-language="English" tvg-logo="https://i.pinimg.com/736x/5a/66/65/5a666508bc5851a6a9c1151e7eefff3d.jpg" tvg-type="News" group-title="Entertainment", ABC TV
 https://c.mjh.nz/abc-wa.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.in" tvg-name="ABC Australia.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_Australia.png" tvg-language="English" tvg-type="News" group-title="News", ABC Australia
 http://27.116.22.53:5001/live/2782.m3u8
-#EXTINF:-1 tvg-id="ABCEntertainsWA.au" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc3_selected.png" group-title="Entertainment", ABC Me
+#EXTINF:-1 tvg-id="ABCEntertainsperth.au" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc3_selected.png" group-title="Entertainment", ABC Me
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="9.au" tvg-logo="https://en.wikipedia.org/wiki/File:Nine_Network_logo_(2008).svg" group-title="Entertainment",  9
+#EXTINF:-1 tvg-id="9Perth.au" tvg-logo="https://en.wikipedia.org/wiki/File:Nine_Network_logo_(2008).svg" group-title="Entertainment",  9
 http://44.32.200.142:5004/auto/v9
 #EXTINF:-1 tvg-id="SBSViceland.au" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500?height=60&type=webp&quality=75" group-title="Entertainment",  SBS Viceland
 http://44.32.200.142:5004/auto/v31
-#EXTINF:-1 tvg-id="7.perth.au" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="Entertainment",  7
+#EXTINF:-1 tvg-id="7perth.au" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="Entertainment",  7
 http://44.32.200.142:5004/auto/v7
 #EXTINF:-1 tvg-id="10.au" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="Entertainment",  10
 http://44.32.200.142:5004/auto/v10
 #EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-logo="https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb?height=60&type=webp&quality=75" group-title="Entertainment",  SBS World Movies
 http://44.32.200.142:5004/auto/v32
-#EXTINF:-1 tvg-id="SBS.perth.au" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c?height=60&type=webp&quality=75" group-title="Entertainment",  SBS
+#EXTINF:-1 tvg-id="SBSPerth.au" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c?height=60&type=webp&quality=75" group-title="Entertainment",  SBS
 http://44.32.200.142:5004/auto/v3
 #EXTINF:-1 tvg-id="10Comedy.au" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Entertainment",  10 Comedy
 http://44.32.200.142:5004/auto/v11
