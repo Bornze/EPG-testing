@@ -279,8 +279,13 @@ https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
 #EXTINF:-1 tvg-id="ts312" tvg-name="Sony MAX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
 https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 
-#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Entertainment", Lionsgate Play
+#EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Movies", Lionsgate Play
 http://27.116.22.53:5001/live/2327.m3u8
+
+
+#EXTINF:-1 tvg-id="CWGold.us" group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CW_Gold_%28The_CW_Channels_feature_icon%29.jpg/revision/latest/scale-to-width-down/250?cb=20250802193103", CW Gold
+https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
+
 
 
 ----Australia----
@@ -296,13 +301,13 @@ https://c.mjh.nz/abc-me.m3u8
 http://44.32.200.142:5004/auto/v9
 #EXTINF:-1 tvg-id="SBSViceland.au" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500?height=60&type=webp&quality=75" group-title="Entertainment",  SBS Viceland
 http://44.32.200.142:5004/auto/v31
-#EXTINF:-1 tvg-id="7.au" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="Entertainment",  7
+#EXTINF:-1 tvg-id="7.perth.au" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="Entertainment",  7
 http://44.32.200.142:5004/auto/v7
 #EXTINF:-1 tvg-id="10.au" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="Entertainment",  10
 http://44.32.200.142:5004/auto/v10
 #EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-logo="https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb?height=60&type=webp&quality=75" group-title="Entertainment",  SBS World Movies
 http://44.32.200.142:5004/auto/v32
-#EXTINF:-1 tvg-id="SBS.au" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c?height=60&type=webp&quality=75" group-title="Entertainment",  SBS
+#EXTINF:-1 tvg-id="SBS.perth.au" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c?height=60&type=webp&quality=75" group-title="Entertainment",  SBS
 http://44.32.200.142:5004/auto/v3
 #EXTINF:-1 tvg-id="10Comedy.au" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Entertainment",  10 Comedy
 http://44.32.200.142:5004/auto/v11
@@ -315,13 +320,13 @@ http://44.32.200.142:5004/auto/v34
 
 ----Sports India----
 #EXTINF:-1 tvg-id="sony.sports.ten.1.hd.in" tvg-name="Sony TEN 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
-https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-id="sony.sports.ten.2.hd.in" tvg-name="Sony TEN 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 HD
-https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-id="sony.sports.ten.5.hd.in" tvg-name="Sony TEN 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony TEN 5 HD
-https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pass=61498d155
 
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="Sports", Eurosport HD
 http://27.116.22.53:5001/live/875.m3u8
@@ -365,7 +370,7 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
 #EXTINF:-1 tvg-id="SkySportsF1.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=5158758531313507117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports F1
 https://bl.rutube.ru/livestream/1fd968ce15629416dbc4e45f2b4fcf11/index.m3u8?s=MrQin7S7T60B0aVtIWktUQ&e=2074182008&scheme=https
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/317.ts
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8350774144114096117&width=600&height=100&rule=SkySportsLight" group-title="Sports", Sky Sports Mix
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2180
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
