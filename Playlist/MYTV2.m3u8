@@ -162,10 +162,10 @@ http://27.116.22.53:5001/live/1145.m3u8
 http://59.103.38.46:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
-https://cloudplay-sonyliv.pages.dev/sethd.m3u8
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="sony.sab.hd.in" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-language="Hindi" group-title="Entertainment", Sony SAB HD
-https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
+#EXTINF:-1 tvg-id="sony.sab.in" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-language="Hindi" group-title="Entertainment", Sony SAB HD
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="183" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" group-title="Entertainment", Colors Infinity HD
 http://27.116.22.53:5001/live/1158.m3u8
@@ -180,7 +180,7 @@ https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network" tvg-language="Telugu" group-title="Kids", Cartoon Network Telugu
 http://27.116.22.53:5001/live/166.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon.Network.HD+.in" tvg-name="Cartoon Network HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDTelugu.png" tvg-language="Telugu" group-title="Kids", Cartoon Network HD+ Telugu
+#EXTINF:-1 tvg-id="Cartoon.Network.HD+.in" tvg-name="Cartoon Network HD+" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNHDTelugu.png" tvg-language="Telugu" group-title="Kids", Cartoon Network HD+
 http://27.116.22.53:5001/live/1080.m3u8
 
 #EXTINF:-1 tvg-id="481" tvg-name="Nick" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" group-title="Kids", Nick Telugu
@@ -192,7 +192,7 @@ http://27.116.22.53:5001/live/544.m3u8
 #EXTINF:-1 tvg-id="872" tvg-name="Sony YAY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
 http://27.116.22.53:5001/live/874.m3u8
 
-#EXTINF:-1 tvg-id="Sonic.Telugu.in" tvg-name="Sonic.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" group-title="Kids", Sonic
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" group-title="Kids", Sonic
 http://27.116.22.53:5001/live/815.m3u8
 
 #EXTINF:-1 tvg-id="478" tvg-name="Disney Channel" group-title="Kids", Disney Channel
@@ -249,7 +249,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 
 #EXTINF:-1 tvg-id="movies.now.hd.in" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ts353" tvg-name="Star Movies HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
 http://51.75.127.199:3141/starmovieshd/index.m3u8
@@ -258,10 +258,10 @@ http://51.75.127.199:3141/starmovieshd/index.m3u8
 http://27.116.22.53:5001/live/1110.m3u8
 
 #EXTINF:-1 tvg-id="ts359" tvg-name="Sony PIX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
-https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ts312" tvg-name="Sony MAX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
-https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+http://103.185.24.134:3001/SonyMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Movies", Lionsgate Play
 http://27.116.22.53:5001/live/2327.m3u8
