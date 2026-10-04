@@ -412,21 +412,21 @@ http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3073
 #EXTINF:-1 tvg-id="CBS Sports Network HD.us"  group-title="Sports", CBS Sports Network
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3621
 #EXTINF:-1 tvg-id="NFLNetworkHD.us" group-title="Sports",NFL Network
-https://tvsen6.aynaott.com/nfl/index.m3u8
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1 tvg-id="NHL Network HD.us" tvg-logo="https://thestreamable.com/media/pages/channels/nhl-network/85f05617a6-1756344305/nhl_network_149-2-92x64.png" group-title="Sports",NHL Network
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3672
+https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB Network HD.us" tvg-logo="https://www.mlbstatic.com/team-logos/league-on-light/1.svg" group-title="Sports", MLB Network
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3746
+ttps://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-id="NBA TV HD.us" group-title="Sports",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-ID="beIN Sport USA HD.us" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="Sports",ESPN
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/21589
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2 HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="Sports",ESPN 2
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3637
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="Sports",FS1
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3645
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_KO@3x.png?downsize=80%3A*" group-title="Sports",FS2
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3646
 #EXTINF:-1 tvg-ID="Fox Sports Racing HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="Sports",FOX Sports Racing
