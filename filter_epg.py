@@ -126,6 +126,7 @@ SBSWorldMoviesPerth.au
 sony.sports.ten.1.hd.in
 sony.sports.ten.2.hd.in
 sony.sports.ten.5.hd.in
+eurosport.in
 star.sports.1.hd.in
 star.sports.2.hd.in
 star.sports.select.1.hd.in
