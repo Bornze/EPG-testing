@@ -235,7 +235,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="ts615" tvg-name="WION" tvg-logo="https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg" group-title="News", WION
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 
-#EXTINF:-1 tvg-id="Euro.News.in" tvg-name="Euronews" group-title="News", Euronews
+#EXTINF:-1 tvg-id="Euro.News.in" tvg-name="Euronews" tvg-logo="https://static.euronews.com/website/images/logos/logo-euronews-stacked-outlined-72x72-grey-9.svg" group-title="News", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts644" tvg-name="NHK World Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-language="English" tvg-type="News" group-title="News", NHK World Japan
@@ -281,7 +281,7 @@ https://c.mjh.nz/abc-wa.m3u8
 http://27.116.22.53:5001/live/2782.m3u8
 #EXTINF:-1 tvg-id="ABCEntertainsperth.au" tvg-logo="https://www.abc.net.au/tv/gateway/images/abc3_selected.png" group-title="Entertainment", ABC Me
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="9perth.au" tvg-logo="https://en.wikipedia.org/wiki/File:Nine_Network_logo_(2008).svg" group-title="Entertainment",  9
+#EXTINF:-1 tvg-id="9perth.au" tvg-logo="https://tvguide.9now.com.au/static/images/logos/nine-cb103afa.png" group-title="Entertainment",  9
 http://44.32.200.142:5004/auto/v9
 #EXTINF:-1 tvg-id="SBSVicelandperth.au" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500?height=60&type=webp&quality=75" group-title="Entertainment",  SBS Viceland
 http://44.32.200.142:5004/auto/v31
