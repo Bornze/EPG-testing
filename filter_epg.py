@@ -33,6 +33,21 @@ tv.5.news.in
 v6.news.in
 10.tv.in
 
+# ===== Music =====
+gemini.music.hd.in
+star.maa.music.in
+E.24.in
+zoom.in
+music.india.in
+Raj.Music.Telugu.in
+PTC.Chak.De.in
+PTC.Music.in
+PTC.Punjabi.Gold.in
+Sangeet.Bangla.in
+MTV.in
+Trace.Hits.uk
+MTV.HD.in
+
 # ===== Entertainment =====
 colors.hd.in
 set.hd.in
@@ -42,6 +57,40 @@ colors.infinity.hd.in
 PTC.Punjabi.in
 AXN.id
 
+
+# ===== Kids =====
+cartoon.network.in
+Cartoon.Network.HD+.in
+nick.in
+Nick.Jr.in
+Nick.Junior.in
+pogo.in
+disney.channel.in
+disney.junior.in
+Sonic.Telugu.in
+sony.yay.in
+Animax.in
+
+
+
+# ===== Infotainment / Lifestyle =====
+discovery.hd.world.in
+Discovery.Telugu.in
+history.tv18.hd.in
+History.TV18.HD.Telugu.in
+tlc.hd.in
+travelxp.hd.in
+
+# ===== News International =====
+al.jazeera.in
+dw.in
+wion.in
+france.24.in
+nhk.world.japan.in
+Euro.News.in
+Channel.News.Asia.International.in
+
+
 # ===== Movies =====
 sony.pix.hd.in
 sony.max.hd.in
@@ -50,6 +99,28 @@ movies.now.in
 mnx.hd.in
 star.movies.hd.in
 star.movies.select.hd.in
+
+# ===== Australia =====
+ABCNewsPerth.au
+ABC.Australia.in
+ABCEntertainsPerth.au
+ABCKidsPerth.au
+ABCFamilyPerth.au
+10BoldPerth.au
+10PeachPerth.au
+10Perth.au
+7flixPerth.au
+7matePerth.au
+7Perth.au
+7TWOPerth.au
+9GemPerth.au
+9GoPerth.au
+9LifePerth.au
+9Perth.au
+9RushPerth.au
+SBSPerth.au
+SBSVicelandPerth.au
+SBSWorldMoviesPerth.au
 
 # ===== Sports =====
 sony.sports.ten.1.hd.in
@@ -127,75 +198,6 @@ Sportsnet.One.HD.ca2
 Sportsnet.West.HD.ca2
 Sportsnet.World.ca2
 Sportsnet.World.HD.ca2
-
-
-
-# ===== Kids =====
-cartoon.network.in
-Cartoon.Network.HD+.in
-nick.in
-Nick.Jr.in
-Nick.Junior.in
-pogo.in
-disney.channel.in
-disney.junior.in
-Sonic.Telugu.in
-sony.yay.in
-Animax.in
-
-# ===== Infotainment / Lifestyle =====
-discovery.hd.world.in
-Discovery.Telugu.in
-history.tv18.hd.in
-History.TV18.HD.Telugu.in
-tlc.hd.in
-travelxp.hd.in
-
-# ===== Music =====
-gemini.music.hd.in
-star.maa.music.in
-E.24.in
-zoom.in
-music.india.in
-Raj.Music.Telugu.in
-PTC.Chak.De.in
-PTC.Music.in
-PTC.Punjabi.Gold.in
-Sangeet.Bangla.in
-MTV.in
-Trace.Hits.uk
-MTV.HD.in
-
-# ===== News International =====
-al.jazeera.in
-dw.in
-wion.in
-france.24.in
-nhk.world.japan.in
-Euro.News.in
-Channel.News.Asia.International.in
-
-# ===== Australia =====
-ABCNewsPerth.au
-ABC.Australia.in
-ABCEntertainsPerth.au
-ABCKidsPerth.au
-ABCFamilyPerth.au
-10BoldPerth.au
-10PeachPerth.au
-10Perth.au
-7flixPerth.au
-7matePerth.au
-7Perth.au
-7TWOPerth.au
-9GemPerth.au
-9GoPerth.au
-9LifePerth.au
-9Perth.au
-9RushPerth.au
-SBSPerth.au
-SBSVicelandPerth.au
-SBSWorldMoviesPerth.au
 
 
 """
