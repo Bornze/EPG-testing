@@ -360,7 +360,7 @@ http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/252.ts
 #EXTINF:-11 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/244.ts
 
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
+#EXTINF:-1 tvg-id="FoxCricket.alt.au" tvg-name="Fox Cricket" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/288.ts
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox League" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_290x170.png" group-title="Sports", Fox League
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/289.ts
@@ -372,7 +372,7 @@ http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/291.ts
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/292.ts
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPS_290x170.png" group-title="Sports", Fox Sports 506
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/293.ts
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-name="Fox Sports More" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="Sports", Fox Sports 507
+#EXTINF:-1 tvg-id="FoxSportsMore.alt.au" tvg-name="Fox Sports More" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="Sports", Fox Sports 507
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/294.ts
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CRICKET-GOLD-USA/logo/400x200.jpg" group-title="Sports", CRICKET-GOLD-USA
 https://vglivessai.akamaized.net/ptnr-lg/title-CricketGold-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2d588e31-21da-4f74-9fc8-a1313ce2b053/manifest.m3u8
