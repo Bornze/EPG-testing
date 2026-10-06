@@ -68,6 +68,7 @@ pogo.in
 disney.channel.in
 disney.junior.in
 Sonic.Telugu.in
+Sonic.in
 sony.yay.in
 Animax.in
 
