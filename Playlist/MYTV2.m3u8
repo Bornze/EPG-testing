@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Bornze/EPG-testing/main/filtered_epg.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Bornze/EPG-testing/main/filtered_epg.xml.gz"
 
-----Telugu Entertainment----
+
 #EXTINF:-1 tvg-id="zee.telugu.hd.in"" tvg-name="Zee Telugu HD" tvg-language="Telugu" group-title="Entertainment - Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png", Zee Telugu HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/zeetelugu_2500/chunks.m3u8
 
@@ -155,7 +155,7 @@ https://cdn.pishow.tv/ott/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="MTV.HD.in" tvg-name="MTV.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" goup-title="Music", MTV HD
 http://27.116.22.53:5001/live/1145.m3u8
 
-----Entertainment----
+
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" group-title="Entertainment", Colors HD
 http://59.103.38.46:8000/play/a00b/index.m3u8
 
@@ -174,7 +174,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/in
 #EXTINF:-1 tvg-id="AXN.ID" tvg-name="AXN ID" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AXN_HD.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", AXN INDO
 https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
 
-----Kids----
+
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network" tvg-language="Telugu" group-title="Kids", Cartoon Network Telugu
 http://27.116.22.53:5001/live/166.m3u8
 
@@ -202,7 +202,7 @@ http://51.75.127.199:3141/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="480" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-language="Telugu" group-title="Kids", Pogo Telugu
 http://27.116.22.53:5001/live/559.m3u8
 
-----Infotainment----
+
 #EXTINF:-1 tvg-id="146" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment", Discovery HD World
 http://27.116.22.53:5001/live/576.m3u8
 
@@ -212,7 +212,7 @@ http://27.116.22.53:5001/live/3446.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="History TV18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Infotainment", History TV18 HD
 http://27.116.22.53:5001/live/577.m3u8
 
-----Lifestyle----
+
 #EXTINF:-1 tvg-id="TLCHD.in" tvg-name="TLC HD" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
 http://27.116.22.53:5001/live/574.m3u8
 
@@ -220,7 +220,7 @@ http://27.116.22.53:5001/live/574.m3u8
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 
 
-----News International----
+
 #EXTINF:-1 tvg-id="ts635" tvg-name="Al Jazeera" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AL_Jazeera.png" tvg-language="English" tvg-type="News" group-title="News", AL Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
@@ -242,7 +242,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="ts637" tvg-name="France 24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" tvg-language="English" tvg-type="News" group-title="News", France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 
-----Movies----
+
 #EXTINF:-1 tvg-id="ts380" tvg-name="MNX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 
@@ -270,7 +270,7 @@ https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-----Australia----
+
 #EXTINF:-1 tvg-id="ABCNewsperth.au" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVh0PPgoPEteUwtp8JCFXHOTixamtA1aiuuw&s" tvg-type="News" group-title="News", ABC News
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="ABCTVPerth.au" tvg-language="English" tvg-logo="https://i.pinimg.com/736x/5a/66/65/5a666508bc5851a6a9c1151e7eefff3d.jpg" tvg-type="News" group-title="Entertainment", ABC TV
@@ -300,7 +300,7 @@ http://44.32.200.142:5004/auto/v34
 
 
 
-----Sports India----
+
 #EXTINF:-1 tvg-id="sony.sports.ten.1.hd.in" tvg-name="Sony TEN 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony TEN 1 HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
 
@@ -337,7 +337,6 @@ http://27.116.22.53:5001/live/1319.m3u8
 #EXTINF:-1 tvg-name="AndFlix.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=360x270" group-title="Sports", Unite8 Sports 2
 http://59.103.38.46:8000/play/a126/index.m3u8
 
--------- Sports International -----------
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/264.ts
