@@ -40,7 +40,6 @@ https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-id="DD.Saptagiri.in" tvg-name="DD Saptagiri.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment - Telugu", DD Saptagiri
 https://mumbai-edge.smartplaytv.in/DDSapthagiri/index.m3u8
 
-----SSLC----
 
 #EXTINF:-1 tvg-id="VinodamHD" tvg-chno="30" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C30-1776056264.png" tvg-language="te" group-title="Entertainment - Telugu",Vinodam HD
 https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
@@ -68,7 +67,6 @@ https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/BCN/index.m3u8
 
 
-----Telugu News----
 #EXTINF:-1 tvg-id="614" tvg-name="ETV Andhra Pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" tvg-language="Telugu" group-title="News - Telugu", ETV Andhra pradesh
 http://27.116.22.53:5001/live/614.m3u8
 
@@ -93,7 +91,7 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTINF:-1 tvg-id="10.tv.in" tvg-name="10TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" group-title="News - Telugu", 10TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 
-----Music----
+
 #EXTINF:-1 tvg-id="898" tvg-name="Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" group-title="Music", Gemini Music HD
 http://27.116.22.53:5001/live/898.m3u8
 
@@ -385,7 +383,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sport 1.nz" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport 1 
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/299.ts
-#EXTINF:-1 tvg-id="Sky Sport 2.nz" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-titlee="Sports", Sky Sport 2 
+#EXTINF:-1 tvg-id="Sky Sport 2.nz" tvg-name="Sky Sport 2" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Sports", Sky Sport 2 
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/300.ts
 #EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-name="Sky Sport 3" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Sports", Sky Sport 3 
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/301.ts
