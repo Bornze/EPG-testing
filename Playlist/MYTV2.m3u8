@@ -379,6 +379,9 @@ https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="2779" tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-id="WILLOW.ca" tvg-name="WILLOW.ca" tvg-logo="https://supersport.com/images/SuperSportsLogo.svg?width=96&quality=90" group-title="Sports", Super Sport Cricket
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/317.ts
+
 
 #EXTINF:-1 tvg-id="Sky Sport 1.nz" tvg-name="Sky Sport 1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport 1 
 http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/299.ts
