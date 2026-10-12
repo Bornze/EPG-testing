@@ -14,7 +14,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 http://27.116.22.53:5001/live/897.m3u8
 
 #EXTINF:-1 tvg-id="etv.plus.in" tvg-name="ETV Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", ETV Plus HD
-http://27.116.22.53:5001/live/692.m3u8
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 
 #EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Gemini Comedy
 http://27.116.22.53:5001/live/729.m3u8
@@ -166,7 +167,7 @@ http://103.151.60.162:2122/play/a015/index.m3u8?hls
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="183" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" group-title="Entertainment", Colors Infinity HD
-http://27.116.22.53:5001/live/1158.m3u8
+http://103.151.60.162:2122/play/a02r/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", PTC Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
@@ -197,7 +198,7 @@ http://27.116.22.53:5001/live/815.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8
 
 #EXTINF:-1 tvg-id="479" tvg-name="Disney Junior" group-title="Kids", Disney Junior
-http://51.75.127.199:3141/disneyjunior/index.m3u8
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="480" tvg-name="Pogo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Telugu.png" tvg-language="Telugu" group-title="Kids", Pogo Telugu
 http://27.116.22.53:5001/live/559.m3u8
@@ -250,10 +251,10 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 http://103.151.60.162:2122/play/a02w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ts353" tvg-name="Star Movies HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
-http://51.75.127.199:3141/starmovieshd/index.m3u8
+http://103.185.24.134:3001/Star-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="ts370" tvg-name="Star Movies Select HD" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
-http://27.116.22.53:5001/live/1110.m3u8
+http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ts359" tvg-name="Sony PIX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
