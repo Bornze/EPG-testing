@@ -311,7 +311,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pass=61498d155
 
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="Sports", Eurosport HD
-http://51.75.127.199:3141/eurosport/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Sports_Select_HD_1.png" group-title="Sports", Star Sports Select 1
 http://27.116.22.53:5001/live/460.m3u8
