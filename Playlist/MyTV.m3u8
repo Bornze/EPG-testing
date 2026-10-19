@@ -225,36 +225,36 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 
 ---Sports International---
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="Sports", TNT Sports 1
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2337
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/264.ts
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="Sports", TNT Sports 2
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2336
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/265.ts
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="Sports", TNT Sports 3
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2335
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/266.ts
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports", TNT Sports 4
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/675021
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/267.ts
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=7023540979985581117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Main Event
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2184
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/242.ts
 #EXTINF:-1 tvg-id="SkySportsF1.uk"  tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=5158758531313507117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports F1
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2189
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/225.ts
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8800573917753836117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Cricket
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2191
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/219.ts
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8350774144114096117&width=600&height=100&rule=SkySportsLight" group-title="Sports", Sky Sports Mix
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2180
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/252.ts
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://img001-eu-mo-prd.delivery.skycdp.com/select/logo?entityId=8719200523741613117&width=600&height=100&rule=Stations%20-%20light" group-title="Sports", Sky Sports Action
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/2194
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/244.ts
 
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-name="Fox Cricket" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Sports", Fox Cricket
-https://7pal.short.gy/fox501au
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/288.ts
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="Fox League" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SP2/SP2_290x170.png" group-title="Sports", Fox League
-https://7pal.short.gy/fox502au
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/289.ts
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-name="Fox Sports 503" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS3/FS3_290x170.png" group-title="Sports", Fox Sports 503
-https://7pal.short.gy/fox503au
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/290.ts
 #EXTINF:-1 tvg-id="FoxFooty.au" tvg-name="Fox Footy" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FAF/FAF_290x170.png" group-title="Sports", Fox Footy
-https://7pal.short.gy/fox504au
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/291.ts
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-name="Fox Sports 505" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSP/FSP_290x170.png" group-title="Sports", Fox Sports 505
-https://7pal.short.gy/fox505au
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/292.ts
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-name="Fox Sports 506" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPS_290x170.png" group-title="Sports", Fox Sports 506
-https://7pal.short.gy/fox506au
+http://88.99.102.41:8181/live/SPORTSPACK@1/7dh37jhdg93@!92!@53/293.au
 #EXTINF:-1 tvg-id="FoxSportsMorePlus.au" tvg-name="Fox Sports More" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSS/FSS_290x170.png" group-title="Sports", Fox Sports 507
 https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-logo="https://d2aqhkzukipl76.cloudfront.net/CRICKET-GOLD-USA/logo/400x200.jpg" group-title="Sports", CRICKET-GOLD-USA
