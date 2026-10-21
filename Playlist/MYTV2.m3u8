@@ -157,7 +157,7 @@ http://27.116.22.53:5001/live/1145.m3u8
 
 
 #EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-language="Hindi" group-title="Entertainment", Colors HD
-http://59.103.38.46:8000/play/a00b/index.m3u8
+http://103.135.253.32:8080/Color-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
