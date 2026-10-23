@@ -4,7 +4,7 @@
 https://d1rc86nwwc9fag.cloudfront.net/260723/zeetelugu_2500/chunks.m3u8
 
 #EXTINF:-1 tvg-id="etv.hd.in" tvg-name="ETV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", ETV HD
-http://27.116.22.53:5001/live/629.m3u8
+https://d1qkhu31k9gfli.cloudfront.net/v1/a801314f85894ba289029d23aae579a7/airt16KSW_2.m3u8
 
 #EXTINF:-1 tvg-id="star.maa.hd.in" tvg-name="Star Maa HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Star Maa HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
@@ -13,8 +13,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 http://27.116.22.53:5001/live/897.m3u8
 
 #EXTINF:-1 tvg-id="etv.plus.in" tvg-name="ETV Plus HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus_HD.png" tvg-language="Telugu" group-title="Entertainment - Telugu", ETV Plus HD
-https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
+https://d1qqzrxc7kpb0u.cloudfront.net/v1/50e3ae620bd6496cb3ac4294c877c36a/airtTA6RA_4.m3u8
 
 #EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Comedy.png" tvg-language="Telugu" group-title="Entertainment - Telugu", Gemini Comedy
 http://27.116.22.53:5001/live/729.m3u8
@@ -68,7 +67,7 @@ https://mumbai-edge.smartplaytv.in/BCN/index.m3u8
 
 
 #EXTINF:-1 tvg-id="614" tvg-name="ETV Andhra Pradesh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" tvg-language="Telugu" group-title="News - Telugu", ETV Andhra pradesh
-http://27.116.22.53:5001/live/614.m3u8
+https://dydgqt7gwzwgp.cloudfront.net/v1/fbb2721f72d04c66a545fee9ca8c728c/airtFED4D_4.m3u8
 
 #EXTINF:-1 tvg-id="818" tvg-name="Sakshi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png" tvg-language="Telugu" group-title="News - Telugu", Sakshi tv
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
