@@ -63,7 +63,7 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 
-#EXTINF:-1 tvg-name="Hindi Hits HD.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Channel_V_India_2016.jpg/revision/latest?cb=20160808103229" group-title="Music",Hindi Hits HD
+#EXTINF:-1 tvg-name="Hindi Hits HD.in" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
 https://amg00223-unisys-amg00223c2-lg-in-2045.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-yfrmusic-lgin/playlist.m3u8
