@@ -167,7 +167,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="MNXHD.in" tvg-name="MNX HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MNX HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now HD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C00113/master.m3u8
 #EXTINF:-1 tvg-id="STARMovies.in" tvg-name="STAR Movies HD.in" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-hd.png" group-title="Movies", Star Movies HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
 #EXTINF:-1 tvg-id="STARMoviesSelect.in" tvg-name="STAR Movies Select HD.in" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
