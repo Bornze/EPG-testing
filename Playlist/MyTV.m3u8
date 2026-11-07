@@ -50,8 +50,7 @@ https://cdn.pishow.tv/ott/live/391/master.m3u8
 
 ----Music----
 #EXTINF:-1 tvg-id="GeminiMusicHD.in" tvg-name="Gemini Music.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Gemini Music HD
--http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8-
-https://mumbai-edge.smartplaytv.in/GeminiMusicHD/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0589/master.m3u8
 #EXTINF:-1 tvg-id="StarMaaMusic.in" tvg-name="Star Maa Music.in" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/maa-music-white.png" tvg-language="Telugu" group-title="Music", Star Maa Music
 http://iptvcasomsapi.jprdigital.in/x-media/C0481/master.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Raj Music Telugu
@@ -120,7 +119,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0405/master.m3u8
 #EXTINF:-1 tvg-id="ts118" tvg-name="Nick Junior.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
 http://iptvcasomsapi.jprdigital.in/x-media/C0409/master.m3u8
 #EXTINF:-1 tvg-id="SONYYAY.in" tvg-name="SONY YAY.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0367/master.m3u8
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Sonic
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelHD.in" group-title="Kids",Disney Channel
@@ -138,7 +137,7 @@ https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playli
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="HistoryTV18HD.in" tvg-name="History TV18 HD Telugu.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
-http://iptvcasomsapi.jprdigital.in/x-media/C0427/master.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0449/master.m3u8sapi.jprdigital.in/x-media/C0449/master.m3u8
 
 ----Lifestyle----
 #EXTINF:-1 tvg-id="TLCHD.in" tvg-name="TLC HD.in" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
@@ -176,9 +175,9 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0439/master.m3u8
 #EXTINF:-1 tvg-id="STARMoviesSelect.in" tvg-name="STAR Movies Select HD.in" tvg-logo="https://images.weserv.nl/?url=https://tv-site.b-cdn.net/images/channel-logo/star-movies-select-hd.png" group-title="Movies", Star Movies Select HD
 http://iptvcasomsapi.jprdigital.in/x-media/C0440/master.m3u8
 #EXTINF:-1 tvg-id="SONYPIXHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
-https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0376/master.m3u8
 #EXTINF:-1 tvg-id="SonyMaxHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
-https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0373/master.m3u8
 
 
 ----Australia----
@@ -217,7 +216,7 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0421/master.m3u8
 #EXTINF:-1 tvg-id="StarSports2TeluguHD.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSports2Telugu.png" group-title="Sports",Star Sports 2 Telugu
 http://iptvcasomsapi.jprdigital.in/x-media/C0424/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCafeHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=360x270" group-title="Sports", Unite8 Sports 1
-http://59.103.38.46:8000/play/a125/index.m3u8
+http://iptvcasomsapi.jprdigital.in/x-media/C0522/master.m3u8
 #EXTINF:-1 tvg-id="AndFlixHD.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=360x270" group-title="Sports", Unite8 Sports 2
 http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 
@@ -309,8 +308,7 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-ID="Fox Sports Racing HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="Sports",FOX Sports Racing
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3053
 #EXTINF:-1 tvg-id="FOX Soccer Plus HD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/330px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",FOX Soccer Plus
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3800
-
+http://iptvcasomsapi.jprdigital.in/x-media/C0513/master.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD.ca" tvg-logo="https://www.tsn.ca/resizer/v2/https%3A%2F%2Fbellmedia-images.stats.bellmedia.ca%2Fimages%2Fsports%2Fchannel-logos%2Ftsn1-light.webp?auth=363388e30b671391ca66eac639178b158c5857e7666bc43935ebdba556bc0d4f&width=72" group-title="Sports", TSN 1
 http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3146
