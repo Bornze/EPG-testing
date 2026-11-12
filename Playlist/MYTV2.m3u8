@@ -161,10 +161,10 @@ http://223.25.71.211:5001/live/1145.m3u8
 http://103.135.253.32:8080/Color-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="SET HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-language="Hindi" group-title="Entertainment", SET HD
-http://111.88.7.92:8000/play/a051/index.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009246&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-id="sony.sab.in" tvg-name="Sony SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-language="Hindi" group-title="Entertainment", Sony SAB HD
-http://103.151.60.162:2122/play/a01q/index.m3u8?hls
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009248&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-id="183" tvg-name="Colors Infinity HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" tvg-language="English" group-title="Entertainment", Colors Infinity HD
 http://103.151.60.162:2122/play/a02r/index.m3u8?hls
@@ -188,7 +188,7 @@ http://223.25.71.211:5001/live/543.m3u8
 http://223.25.71.211:5001/live/544.m3u8
 
 #EXTINF:-1 tvg-id="872" tvg-name="Sony YAY" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png?width=250" group-title="Kids", Sony YAY
-https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000001971&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Telugu.png" tvg-language="Telugu" group-title="Kids", Sonic
 http://223.25.71.211:5001/live/815.m3u8
@@ -256,10 +256,10 @@ https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8
 https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8
 
 #EXTINF:-1 tvg-id="ts359" tvg-name="Sony PIX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies", Sony PIX HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-id="ts312" tvg-name="Sony MAX HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies", Sony MAX HD
-http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009247&uid=8004188626&pass=61498d15
 
 #EXTINF:-1 tvg-id="2327" tvg-name="Lionsgate Play" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lionsgate_Play.png" tvg-language="Hindi" group-title="Movies", Lionsgate Play
 http://223.25.71.211:5001/live/2327.m3u8
